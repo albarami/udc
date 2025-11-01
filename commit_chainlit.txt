@@ -1,0 +1,20 @@
+feat: Add Chainlit chat UI for PhD Expert System
+
+Beautiful web interface for interactive strategic queries
+
+Features:
+- Real-time expert analysis display
+- Side panels for each expert's analysis
+- Quality scores and validation
+- Analysis metadata (cost, duration, tokens)
+- Interactive chat with conversation history
+- 7-stage pipeline progress display
+
+Files:
+- chainlit_app.py (main UI application)
+- ask_experts.py (CLI alternative)
+- CHAINLIT_QUICKSTART.md (setup guide)
+- backend/requirements.txt (added chainlit dependency)
+
+Usage: chainlit run chainlit_app.py -w
+Access: http://localhost:8000
