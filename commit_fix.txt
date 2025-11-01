@@ -1,0 +1,5 @@
+fix: Import paths in unbeatable_council.py for scripts compatibility
+
+Changed imports from app.agents to backend.app.agents
+Now works when called from scripts directory
+Fixes ModuleNotFoundError when running test_unbeatable_system.py

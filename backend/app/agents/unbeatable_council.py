@@ -16,19 +16,19 @@ import asyncio
 import logging
 from datetime import datetime
 
-from app.agents.expert_embodiment_v2 import (
+from backend.app.agents.expert_embodiment_v2 import (
     DR_OMAR_EMBODIMENT,
     DR_FATIMA_EMBODIMENT,
     DR_JAMES_EMBODIMENT,
     DR_SARAH_EMBODIMENT,
     MASTER_ORCHESTRATOR_EMBODIMENT
 )
-from app.agents.forcing_functions import (
+from backend.app.agents.forcing_functions import (
     force_expert_thinking,
     force_orchestrator_synthesis,
     validate_expert_response
 )
-from app.agents.reinforcement_system import (
+from backend.app.agents.reinforcement_system import (
     ExpertBehaviorReinforcer,
     ConversationReinforcer,
     MultiAgentCoherence
