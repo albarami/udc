@@ -1,0 +1,13 @@
+{
+  "dataset_id": "main-economic-indicators-by-main-economic-activity-10-employees-and-more-activity-codes-49-61-isic",
+  "title": "Main Economic Indicators by Activity",
+  "category": "economy",
+  "udc_business_value": "Comprehensive economic intelligence, sector trends",
+  "expected_records": 3388,
+  "file_size_bytes": 4295,
+  "downloaded_at": "2025-10-31T16:39:44.241744",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-10-employees-and-more-activity-codes-49-61-isic/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

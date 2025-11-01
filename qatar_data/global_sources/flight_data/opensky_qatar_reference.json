@@ -1,0 +1,42 @@
+{
+  "source": "OpenSky Network",
+  "website": "https://opensky-network.org/",
+  "api": "https://opensky-network.org/apidoc/",
+  "qatar_airports": {
+    "hamad_international": {
+      "icao": "OTHH",
+      "iata": "DOH",
+      "coordinates": {
+        "latitude": 25.273056,
+        "longitude": 51.608056
+      },
+      "description": "Primary international gateway for Qatar"
+    }
+  },
+  "strategic_value": "Tourism demand indicators, visitor arrival patterns",
+  "use_cases": [
+    "Tourism demand forecasting via flight arrivals",
+    "Seasonal pattern identification",
+    "Visitor origin country analysis",
+    "Hotel occupancy correlation with flight volumes",
+    "Event impact assessment"
+  ],
+  "api_endpoints": {
+    "flights_in_time_interval": "/flights/arrival?airport=OTHH&begin={start}&end={end}",
+    "track_flight": "/tracks/all?icao24={aircraft_id}&time={timestamp}",
+    "flights_by_aircraft": "/flights/aircraft?icao24={aircraft_id}&begin={start}&end={end}"
+  },
+  "sample_integration": {
+    "description": "Track daily arrivals at Hamad International Airport",
+    "api_call": "GET https://opensky-network.org/api/flights/arrival?airport=OTHH&begin={timestamp}&end={timestamp}",
+    "data_points": [
+      "arrival_time",
+      "origin_airport",
+      "aircraft_type"
+    ]
+  },
+  "cost": "FREE",
+  "rate_limits": "Anonymous: 10 API calls/10 minutes, Authenticated: 400 calls/day",
+  "update_frequency": "Real-time",
+  "python_library": "pip install opensky-api"
+}

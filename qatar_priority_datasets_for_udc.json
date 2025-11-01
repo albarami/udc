@@ -1,0 +1,2646 @@
+{
+  "metadata": {
+    "created_for": "UDC (United Development Company)",
+    "purpose": "Strategic decision-making and data-driven insights",
+    "api_base": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/",
+    "total_priority_datasets": 1496
+  },
+  "categories": {
+    "real_estate_construction": {
+      "count": 50,
+      "datasets": [
+        {
+          "dataset_id": "accommodation-data-by-segment-date-and-key-metrics-supply-demand-occupancy-adr-revpar",
+          "title": "Accommodation Data by Segment, Date, and Key Metrics (Supply, Demand, Occupancy, ADR, RevPAR)",
+          "description": "<p><span style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\">This dataset contains information on accommodation performance for different segments of the hospitality industry. It includes monthly and yearly data on room supply, demand, occupancy rates, ADR, and RevPAR. The data helps to analyze trends and performance in various accommodation segments.</span></p>",
+          "themes": [
+            "Culture, Sports and Tourism",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "hotel performance",
+            "Accommodation",
+            "Hotel Occupancy Rate",
+            "hotel "
+          ],
+          "publisher": "Qatar Tourism",
+          "update_frequency": "ANNUAL",
+          "records_count": 945,
+          "modified": "2025-05-27T15:50:36.743000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/accommodation-data-by-segment-date-and-key-metrics-supply-demand-occupancy-adr-revpar",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/accommodation-data-by-segment-date-and-key-metrics-supply-demand-occupancy-adr-revpar/exports/csv"
+        },
+        {
+          "dataset_id": "households-and-individuals-by-type-of-housing-unit-and-number-of-household-members",
+          "title": "Households and individuals by type of housing unit and number of household members",
+          "description": "<p>This dataset provides statistics on households and individuals in Qatar categorized by type of housing unit and number of household members as of December 2020. It supports housing and social policy analysis.</p>",
+          "themes": [
+            "Housing and Urban Development"
+          ],
+          "keywords": [
+            "households",
+            "housing",
+            "type",
+            "members",
+            "family",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 520,
+          "modified": "2025-08-17T11:02:31.936000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/households-and-individuals-by-type-of-housing-unit-and-number-of-household-members",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/households-and-individuals-by-type-of-housing-unit-and-number-of-household-members/exports/csv"
+        },
+        {
+          "dataset_id": "population-by-type-of-household-gender-and-place-of-residence-on-the-census-night-december-2020",
+          "title": "Population by Type of Household, Gender, and Place of Residence on the Census Night – December 2020",
+          "description": "<p>This dataset provides population data in Qatar categorized by the type of household, gender, and place of residence on the night of the census in December 2020. It includes details for multiple years, offering insights into living arrangements across public housing, households, labor camps, and other residence types.</p>",
+          "themes": [
+            "Population and Demography",
+            "Housing and Urban Development"
+          ],
+          "keywords": [
+            "census",
+            "housing type",
+            "gender",
+            "residence",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 480,
+          "modified": "2025-05-07T09:19:16.666000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-type-of-household-gender-and-place-of-residence-on-the-census-night-december-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-type-of-household-gender-and-place-of-residence-on-the-census-night-december-2020/exports/csv"
+        },
+        {
+          "dataset_id": "recycled-material-quantities-by-material-type",
+          "title": "Recycled Material Quantities by Material Type",
+          "description": "<p>This dataset presents monthly data from Ashghal on the quantities of construction and roadwork materials used and the proportion recycled. It includes material types such as asphalt mixes, sub-base and road base, fill and subgrade works, and block works. The dataset supports tracking progress in sustainable construction practices by showing both total and recycled quantities, along with the percentage of recycled content.</p><p>Note: blank or 0 values indicate no data was captured</p><p>Unit of Measurement is in tons.</p>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Energy and Environment"
+          ],
+          "keywords": [
+            "recycling",
+            "materials",
+            "construction",
+            "sustainability",
+            "roads",
+            "infrastructure",
+            "waste"
+          ],
+          "publisher": "Ashghal",
+          "update_frequency": "MONTHLY",
+          "records_count": 252,
+          "modified": "2025-05-28T09:42:35.415000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/recycled-material-quantities-by-material-type",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/recycled-material-quantities-by-material-type/exports/csv"
+        },
+        {
+          "dataset_id": "revenues-of-current-activity-by-type-and-insurance-company-nationality-insurance-statistics",
+          "title": "Revenues of Current Activity by Type and Insurance Company Nationality",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents revenues from current activity in Qatar’s insurance sector, broken down by type of insurance (e.g., cars, property), insurance company nationality, and revenue classification (e.g., premiums). Values are reported in thousands of Qatari Riyals (QR).</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "Insurance",
+            "revenues",
+            "company nationality",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 240,
+          "modified": "2025-05-20T12:05:57.820000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/revenues-of-current-activity-by-type-and-insurance-company-nationality-insurance-statistics",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/revenues-of-current-activity-by-type-and-insurance-company-nationality-insurance-statistics/exports/csv"
+        },
+        {
+          "dataset_id": "number-and-value-of-insurance-policies-by-type-and-insurance-company-nationality-insurance",
+          "title": "Number and Value of Insurance Policies by Type and Insurance Company Nationality – Insurance Statistics",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset provides both the number and value of insurance policies issued in Qatar, disaggregated by type of insurance (e.g., cars, property) and the nationality of the insurance company. It allows analysis of insurance activity from both volume and financial perspectives.</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "Insurance",
+            "company nationality",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 216,
+          "modified": "2025-09-15T08:28:55.772000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-and-value-of-insurance-policies-by-type-and-insurance-company-nationality-insurance",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-and-value-of-insurance-policies-by-type-and-insurance-company-nationality-insurance/exports/csv"
+        },
+        {
+          "dataset_id": "expenditures-of-current-activity-by-type-and-nationality-of-insurance-company-insurance-statistics",
+          "title": "Expenditures of Current Activity by Type and Nationality of Insurance Company",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents expenditures of current activity for insurance companies operating in Qatar, categorized by line of insurance (e.g., cars, property), company nationality, and type of expense (e.g., claims). All values are in thousands of Qatari Riyals (QR).</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "Insurance",
+            "claims",
+            "expenditure",
+            "company nationality",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 180,
+          "modified": "2025-05-19T17:01:45.955000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/expenditures-of-current-activity-by-type-and-nationality-of-insurance-company-insurance-statistics",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/expenditures-of-current-activity-by-type-and-nationality-of-insurance-company-insurance-statistics/exports/csv"
+        },
+        {
+          "dataset_id": "total-area-of-real-estate-owned-by-gcc-citizens-in-qatar-by-nationality-type-of-property-and-year",
+          "title": "Total area of real estate owned by GCC citizens in Qatar by nationality, type of property and year",
+          "description": "<p>This dataset presents the total area of real estate owned by GCC citizens in Qatar, categorized by nationality, property type, and year.</p>",
+          "themes": [
+            "Housing and Urban Development"
+          ],
+          "keywords": [
+            "real estate",
+            "GCC",
+            "property"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 125,
+          "modified": "2025-06-24T10:07:18.768000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/total-area-of-real-estate-owned-by-gcc-citizens-in-qatar-by-nationality-type-of-property-and-year",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/total-area-of-real-estate-owned-by-gcc-citizens-in-qatar-by-nationality-type-of-property-and-year/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-fire-accidents-by-place-of-occurrence",
+          "title": "Number of Fire Accidents by Place of Occurrence",
+          "description": "<div ccp_infra_copy_id=\"444c15b8-a358-4a20-be44-5de9a1c08749\" ccp_infra_timestamp=\"1746682604486\" ccp_infra_user_hash=\"1137073517\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746682604486\" style=\"font-size: medium;\"><table style=\"width: 266pt;\" width=\"355\"><colgroup><col style=\"width: 266pt;\" width=\"355\"/></colgroup><tbody><tr height=\"172\" style=\"height: 129pt;\"><td class=\"xl28\" height=\"172\" style='padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: \"Aptos Display\"; vertical-align: top; border-top: none; border-right-width: 0.5pt; border-right-color: rgb(230, 230, 230); border-bottom-width: 0.5pt; border-bottom-color: rgb(230, 230, 230); border-left: none; width: 266pt; height: 129pt;' width=\"355\">This dataset contains statistical data on the number of fire accidents, categorized by the place of occurrence and year. The data includes information on various locations such as residential premises, vehicles, shops and markets, industrial enterprises and factories, farms and public parks, ships and boats, medical facilities, educational facilities, governmental agencies, and others.</td></tr></tbody></table></div>",
+          "themes": [
+            "Public Safety and Justice"
+          ],
+          "keywords": [
+            "Public Health",
+            "fire accidents",
+            "fires"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 100,
+          "modified": "2025-05-22T12:12:27.547000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-fire-accidents-by-place-of-occurrence",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-fire-accidents-by-place-of-occurrence/exports/csv"
+        },
+        {
+          "dataset_id": "total-incoming-waste-by-type-facility-and-year",
+          "title": "Total Incoming Waste by Type, Facility and Year",
+          "description": "<p>This dataset records the total quantity of incoming waste in Qatar across different categories—domestic, construction (income and treated), bulky, tires (income and treated), and others—by year . Values are in tons.</p>",
+          "themes": [
+            "Energy and Environment"
+          ],
+          "keywords": [
+            "waste",
+            "solid waste",
+            "incoming waste",
+            "waste treatment"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 91,
+          "modified": "2025-05-14T07:34:08.866000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/total-incoming-waste-by-type-facility-and-year",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/total-incoming-waste-by-type-facility-and-year/exports/csv"
+        },
+        {
+          "dataset_id": "public-infrastructure-and-buildings-construction-projects",
+          "title": "Public Infrastructure and Buildings Construction Projects",
+          "description": "<p>Buildings Data provides information on the number and types of completed construction projects across various categories, including schools, kindergartens, Islamic buildings, public buildings, hospitals, and health centers. includes details on the number of completed projects and associated sites per year. This dataset supports analysis of infrastructure development trends and planning efforts in the construction sector.</p>",
+          "themes": [
+            "Housing and Urban Development",
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "public infrastructure",
+            "construction",
+            "building projects",
+            "educational facilities development",
+            "public buildings",
+            "Islamic buildings"
+          ],
+          "publisher": "Ashghal",
+          "update_frequency": "ANNUAL",
+          "records_count": 61,
+          "modified": "2025-06-01T06:55:03.660000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/public-infrastructure-and-buildings-construction-projects",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/public-infrastructure-and-buildings-construction-projects/exports/csv"
+        },
+        {
+          "dataset_id": "general-population-and-housing-census-1986-2020-by-gender",
+          "title": "General Population and Housing Census (1986–2020) by Gender",
+          "description": "<p>Population by gender from general censuses conducted in the State of Qatar</p>",
+          "themes": [
+            "Population and Demography",
+            "Housing and Urban Development"
+          ],
+          "keywords": [
+            "Census",
+            "Population",
+            "Males",
+            "Females",
+            "Gender",
+            "Qatar",
+            "Years"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": null,
+          "records_count": 60,
+          "modified": "2025-05-07T09:17:19.580000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/general-population-and-housing-census-1986-2020-by-gender",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/general-population-and-housing-census-1986-2020-by-gender/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-lawsuits-filed-in-the-investment-and-trade-court-by-lawsuit-classification",
+          "title": "Number of Lawsuits Filed in the Investment and Trade Court by Lawsuit Classification",
+          "description": "<p>This dataset contains statistical data on the number of lawsuits filed in the Investment and Trade Court, categorized by lawsuit classification and year. The data includes information on various classifications such as insurance, finance and foreign exchange, commercial mortgage, commercial companies, intellectual property, disputes related to marine sales, commercial agency, proof of condition, bankruptcy, commercial papers, liquidation, grievance, appointment of a receivership, dissolution and liquidation of companies, service contracts, transport contracts, supply contracts and orders, bank transactions, e-commerce transactions, etc..</p>",
+          "themes": [
+            "Public Safety and Justice"
+          ],
+          "keywords": [
+            "judicial authorities",
+            "trade",
+            "investment and trade court"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 50,
+          "modified": "2025-05-22T11:59:39.613000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-lawsuits-filed-in-the-investment-and-trade-court-by-lawsuit-classification",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-lawsuits-filed-in-the-investment-and-trade-court-by-lawsuit-classification/exports/csv"
+        },
+        {
+          "dataset_id": "road-infrastructure-components-constructed",
+          "title": "Road Infrastructure Components Constructed",
+          "description": "<p>This dataset provides monthly data on the quantity of various road infrastructure components installed or constructed across Qatar. The components include pavement, street lighting, traffic signs and signals, structures, speed humps, ITS, road markings, and street signs. The dataset supports infrastructure planning and monitoring by showing trends in road development activities by unit and quantity.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "roads",
+            "infrastructure",
+            "construction",
+            "Lighting",
+            "signals",
+            "markings"
+          ],
+          "publisher": "Ashghal",
+          "update_frequency": "MONTHLY",
+          "records_count": 47,
+          "modified": "2025-05-28T09:43:39.537000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/road-infrastructure-components-constructed",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/road-infrastructure-components-constructed/exports/csv"
+        },
+        {
+          "dataset_id": "referees-training-courses-by-sports-activity-and-implementation-level-2023",
+          "title": "Referees’ Training Courses by Sports Activity and Implementation Level (2023)",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides statistics on the number of referees’ training courses conducted in 2023, categorized by sports federation and implementation level (Domestic, Gulf, Arab, Asian, and International). The table supports insights into the scope and intensity of training programs across different sports disciplines in Qatar. This data helps in evaluating sports development efforts and referee capacity building.</span></p>",
+          "themes": [
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "sports",
+            "referees",
+            "training",
+            "federations",
+            "implementation level"
+          ],
+          "publisher": "Ministry of Sports and Youth",
+          "update_frequency": "ANNUAL",
+          "records_count": 43,
+          "modified": "2025-05-29T07:21:36.879000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/referees-training-courses-by-sports-activity-and-implementation-level-2023",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/referees-training-courses-by-sports-activity-and-implementation-level-2023/exports/csv"
+        },
+        {
+          "dataset_id": "gdp-by-activity-at-current-prices-2019-2023",
+          "title": "GDP by Activity at Current Prices, 2019-2023",
+          "description": "<p>This dataset presents the Gross Domestic Product (GDP) of Qatar broken down by economic activity based on ISIC Rev. 4 classification, expressed in current prices. It includes both the total GDP values for each activity and the year-on-year percentage change. The data is organized by sector, such as manufacturing, construction, education, and financial activities. This dataset supports macroeconomic analysis, sectoral performance tracking, and national accounts reporting.</p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "GDP",
+            "sectors",
+            "ISIC",
+            "Growth",
+            "prices"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 40,
+          "modified": "2025-05-29T12:53:46.740000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/gdp-by-activity-at-current-prices-2019-2023",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/gdp-by-activity-at-current-prices-2019-2023/exports/csv"
+        },
+        {
+          "dataset_id": "referees-training-courses-by-sports-activity-and-implementation-level-2021-2022",
+          "title": "Referees’ Training Courses by Sports Activity and Implementation Level (2021-2022)",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset outlines the number of training courses held for referees across different sports activities in Qatar. The courses are categorized by their implementation level: Domestic, International, Asian, Arab, and GCC. This information provides insights into the development and training efforts within each sport and the scope of referee capacity-building both locally and regionally.</span></p>",
+          "themes": [
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "referees",
+            "training",
+            "development",
+            "sports",
+            "sports activities",
+            "domestic",
+            "international",
+            "asian"
+          ],
+          "publisher": "Ministry of Sports and Youth",
+          "update_frequency": "ANNUAL",
+          "records_count": 34,
+          "modified": "2025-05-29T07:33:29.431000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/referees-training-courses-by-sports-activity-and-implementation-level-2021-2022",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/referees-training-courses-by-sports-activity-and-implementation-level-2021-2022/exports/csv"
+        },
+        {
+          "dataset_id": "length-of-mains-laid-by-year",
+          "title": "Length of Mains Laid by Year",
+          "description": "This dataset provides information on the length of water mains laid in Qatar, categorized by pipe diameter (measured in millimeters). It details the construction or installation length for a wide range of pipe sizes, reflecting infrastructure development and expansion in water distribution networks.\n\nThe dataset supports monitoring and planning of water infrastructure projects, enabling analysis of trends in pipe size usage and progress in laying mains. It is essential for engineering, maintenance planning, and resource allocation.",
+          "themes": [
+            "Energy and Environment"
+          ],
+          "keywords": [
+            "water",
+            "mains",
+            "pipe",
+            "diameter",
+            "length",
+            "infrastructure",
+            "Qatar"
+          ],
+          "publisher": "KAHRAMAA",
+          "update_frequency": "ANNUAL",
+          "records_count": 29,
+          "modified": "2025-06-11T14:09:57.133000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/length-of-mains-laid-by-year",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/length-of-mains-laid-by-year/exports/csv"
+        },
+        {
+          "dataset_id": "housing-units-by-type-of-units-and-municipality-in-census-2010-2020",
+          "title": "Housing Units by Type of Units and Municipality in Census ( 2010 , 2020 )",
+          "description": "<p>This dataset presents the distribution of housing units in Qatar by type and municipality, comparing data from the 2010 and 2020 censuses. It supports analysis of urban development and housing trends across regions.</p>",
+          "themes": [
+            "Population and Demography"
+          ],
+          "keywords": [
+            "housing units, municipality, census, dwelling types, Qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "DECENNIAL",
+          "records_count": 25,
+          "modified": "2025-06-01T16:08:12.545000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/housing-units-by-type-of-units-and-municipality-in-census-2010-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/housing-units-by-type-of-units-and-municipality-in-census-2010-2020/exports/csv"
+        },
+        {
+          "dataset_id": "buildings-by-buildings-status-and-municipality-in-census-2010-20200",
+          "title": "Buildings by Buildings Status and Municipality in Census ( 2010 , 2020 )",
+          "description": "<p><span style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\">This dataset presents the number and percentage of buildings classified as complete, under construction, or under demolition across Qatari municipalities. It compares values from the 2010 and 2020 census rounds.</span></p>",
+          "themes": [
+            "Population and Demography",
+            "Housing and Urban Development"
+          ],
+          "keywords": [
+            "infrastructure",
+            "building projects",
+            "Building Type",
+            "construction",
+            "census",
+            "population census"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "DECENNIAL",
+          "records_count": 24,
+          "modified": "2025-06-12T08:02:13.185000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/buildings-by-buildings-status-and-municipality-in-census-2010-20200",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/buildings-by-buildings-status-and-municipality-in-census-2010-20200/exports/csv"
+        }
+      ]
+    },
+    "tourism_hospitality": {
+      "count": 60,
+      "datasets": [
+        {
+          "dataset_id": "accommodation-data-by-segment-date-and-key-metrics-supply-demand-occupancy-adr-revpar",
+          "title": "Accommodation Data by Segment, Date, and Key Metrics (Supply, Demand, Occupancy, ADR, RevPAR)",
+          "description": "<p><span style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\">This dataset contains information on accommodation performance for different segments of the hospitality industry. It includes monthly and yearly data on room supply, demand, occupancy rates, ADR, and RevPAR. The data helps to analyze trends and performance in various accommodation segments.</span></p>",
+          "themes": [
+            "Culture, Sports and Tourism",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "hotel performance",
+            "Accommodation",
+            "Hotel Occupancy Rate",
+            "hotel "
+          ],
+          "publisher": "Qatar Tourism",
+          "update_frequency": "ANNUAL",
+          "records_count": 945,
+          "modified": "2025-05-27T15:50:36.743000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/accommodation-data-by-segment-date-and-key-metrics-supply-demand-occupancy-adr-revpar",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/accommodation-data-by-segment-date-and-key-metrics-supply-demand-occupancy-adr-revpar/exports/csv"
+        },
+        {
+          "dataset_id": "exhibition-data",
+          "title": "Exhibition Data",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides information about various exhibitions held across multiple venues in Qatar. It includes details on the exhibition name, year, opening and closing dates, total visits, and the venue. The data is organized by exhibition year, which allows for analysis of visitor trends over time and the popularity of exhibitions in different venues. This dataset supports insights into cultural engagement and museum attendance patterns.</span></p>",
+          "themes": [
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "exhibition",
+            "visits",
+            "venue",
+            "attendance",
+            "museum"
+          ],
+          "publisher": "Qatar Museums",
+          "update_frequency": "ANNUAL",
+          "records_count": 249,
+          "modified": "2025-06-02T14:21:23.320000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/exhibition-data",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/exhibition-data/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants0",
+          "title": "Estimates of Intermediate Services Value in Hotels and Restaurants by Service Type and Activity",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents estimates of the value of intermediate services consumed by establishments in the hotels and restaurants sector in Qatar. It covers establishments with 10 or more employees and breaks down service values by type of service (e.g., rents, repairs, marketing) and main economic activity. The values are expressed in thousands of Qatari Riyals (QR), supporting cost analysis and sector planning in the hospitality industry.</span></p>",
+          "themes": [
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "intermediate services",
+            "hotels",
+            "restaurants",
+            "qatar",
+            "rents",
+            "maintenance",
+            "services"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 240,
+          "modified": "2025-05-25T06:54:57.208000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants0/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants",
+          "title": "Estimates of Intermediate Services Value in Hotels and Restaurants by Service Type and Activity – Establishments with 10 or More Employees",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents the number of employees working in hotels and restaurants in Qatar, specifically for establishments with fewer than 10 employees. The data is broken down by gender and occupation, including proprietors, managers, technicians, and other roles. This information is essential for analyzing labor force structure in small-scale establishments within the hospitality sector.</span></p>",
+          "themes": [
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "employees",
+            "gender",
+            "occupation",
+            "hotels",
+            "restaurants",
+            "labor",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 240,
+          "modified": "2025-05-21T08:01:57.334000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-intermediate-goods-value-in-hotels-and-restaurants-by0",
+          "title": "Estimates of Intermediate Goods Value in Hotels and Restaurants by Commodity and Activity",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset provides estimates of the value of intermediate goods used in the hotels and restaurants sector in Qatar for establishments with 10 or more employees. It breaks down the value by type of commodity (e.g., food, beverages) and by main economic activity such as accommodation services or food service activities. Values are reported in thousands of Qatari Riyals (QR), supporting economic and input cost analysis for the hospitality sector.</span></p>",
+          "themes": [
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "intermediate goods",
+            "Commodity",
+            "hotels",
+            "restaurants",
+            "economy",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 200,
+          "modified": "2025-05-21T07:41:43.699000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-goods-value-in-hotels-and-restaurants-by0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-goods-value-in-hotels-and-restaurants-by0/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-intermediate-goods-value-in-hotels-and-restaurants-by",
+          "title": "Estimates of Intermediate Goods Value in Hotels and Restaurants by Commodity and Activity – Establishments with 10 or More Employee",
+          "description": "<span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset provides estimates of the value of intermediate goods used in the hotels and restaurants sector in Qatar for establishments with 10 or more employees. It breaks down the value by type of commodity (e.g., food, beverages) and by main economic activity such as accommodation services or food service activities. Values are reported in thousands of Qatari Riyals (QR), supporting economic and input cost analysis for the hospitality sector.</span>",
+          "themes": [
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "intermediate goods",
+            "Commodity",
+            "hotels",
+            "restaurants",
+            "economy",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 200,
+          "modified": "2025-05-21T07:40:21.601000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-goods-value-in-hotels-and-restaurants-by",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-goods-value-in-hotels-and-restaurants-by/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-visitors-to-health-centers-by-health-center",
+          "title": "Number of Visitors to Health Centers by Health Center",
+          "description": "<p>This dataset presents the number of visitors to public health centers in Qatar. It is categorized by the name of the health center and helps evaluate patient load, service demand, and regional distribution of healthcare access across the country.</p>",
+          "themes": [
+            "Health",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "health",
+            "visitors",
+            "centers",
+            "qatar",
+            "utilization"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 183,
+          "modified": "2025-05-07T09:16:48.250000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-visitors-to-health-centers-by-health-center",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-visitors-to-health-centers-by-health-center/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-transformational-revenues-by-revenue-item-and-main-activity0",
+          "title": "Hotels and Restaurants Statistics - Transformational Revenues by Revenue Item and Main Activity",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents aggregated transformational (non-operational) revenues for Qatar’s hotels and restaurants sector. It includes interest income, insurance claims, asset and raw material sale profits, and dividend earnings. Data is broken down by revenue item and main activity type. Values are reported in thousands of Qatari Riyals (QR).</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transformational revenues",
+            "interest",
+            "Insurance",
+            "dividends",
+            "hotels",
+            "restaurants",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 162,
+          "modified": "2025-09-15T08:21:47.937000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-transformational-revenues-by-revenue-item-and-main-activity0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-transformational-revenues-by-revenue-item-and-main-activity0/exports/csv"
+        },
+        {
+          "dataset_id": "transformational-revenues-by-revenue-item-and-main-activity-establishments-with-10-employees-or-more",
+          "title": "Other Hotels and Restaurants Revenues by Revenue Item and Main Activity (Establishments with 10 Employees or more)",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents non-operational (transformational) revenues collected by establishments in Qatar’s hotels and restaurants sector with 10 or more employees. It includes revenue items such as interests, insurance claims, profits from asset or material sales, and dividends. Values are in thousands of Qatari Riyals (QR).</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "revenues",
+            "interests",
+            "Insurance",
+            "dividends",
+            "asset sale",
+            "hotels",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 162,
+          "modified": "2025-05-18T14:10:34.025000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/transformational-revenues-by-revenue-item-and-main-activity-establishments-with-10-employees-or-more",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/transformational-revenues-by-revenue-item-and-main-activity-establishments-with-10-employees-or-more/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-number-of-employees-by-gender-and-occupation-establishments-with",
+          "title": "Number of Employees by Gender and Occupation (Establishments with 10 Employees or more) – Hotels and Restaurants",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents the number of employees working in Qatar’s hotels and restaurants sector for establishments with 10 or more employees. It is disaggregated by gender and occupation, allowing detailed labor force analysis within the hospitality industry.</span></p>",
+          "themes": [
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "employees",
+            "gender",
+            "occupation",
+            "labor",
+            "hotels",
+            "restaurants"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 162,
+          "modified": "2025-05-25T11:53:08.181000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-number-of-employees-by-gender-and-occupation-establishments-with",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-number-of-employees-by-gender-and-occupation-establishments-with/exports/csv"
+        },
+        {
+          "dataset_id": "employees-in-journal-and-magazines-by-occupation-gender-and-nationality",
+          "title": "Employees in Journal and Magazines by Occupation, Gender, and Nationality",
+          "description": "<p>Statistical data on the number of employees in the media, culture, and tourism sectors in Qatar, specifically focusing on journals and magazines, categorized by occupation, gender and nationality.</p>",
+          "themes": [
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "media",
+            "culture",
+            "tourism",
+            "employment",
+            "Workforce"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 138,
+          "modified": "2025-05-26T13:51:04.850000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-in-journal-and-magazines-by-occupation-gender-and-nationality",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-in-journal-and-magazines-by-occupation-gender-and-nationality/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-transformational-revenues-by-revenue-item-and-main-activity",
+          "title": "Hotels and Restaurants Other Revenues by Revenue Item and Main Activity (Establishments with less than 10 Employees)",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents transformational (non-operational) revenues in Qatar’s hotels and restaurants sector for establishments with fewer than 10 employees. It includes items such as interests, insurance claims, profits from asset/material sales, and dividend income. All values are in thousands of Qatari Riyals (QR).</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "non-operational revenues",
+            "interest",
+            "dividends",
+            "Insurance",
+            "small business",
+            "hotels",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 126,
+          "modified": "2025-05-18T14:31:17.275000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-transformational-revenues-by-revenue-item-and-main-activity",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-transformational-revenues-by-revenue-item-and-main-activity/exports/csv"
+        },
+        {
+          "dataset_id": "health-statistics-number-of-visitors-to-health-centers-by-health-center-nationality-and-gender",
+          "title": "Number of Visitors to Health Centers by Health Center, Nationality, and Gender",
+          "description": "<div ccp_infra_copy_id=\"78577570-cd1f-48ea-b226-d8fe42f0aa65\" ccp_infra_timestamp=\"1747121545017\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1747121545017\" style=\"font-size: medium;\"><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides the number of visitors to various health centers in Qatar, categorized by health center, nationality, and gender for the year 2019. The data is structured by different health centers across Qatar, distinguishing between Qatari and Non-Qatari nationals and male and female visitors. It supports insights into healthcare demand and usage patterns based on demographic factors, particularly in relation to gender and nationality.</span></div>",
+          "themes": [
+            "Health"
+          ],
+          "keywords": [
+            "health",
+            "visitors",
+            "nationality",
+            "gender",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 112,
+          "modified": "2025-05-22T07:39:40.887000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/health-statistics-number-of-visitors-to-health-centers-by-health-center-nationality-and-gender",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/health-statistics-number-of-visitors-to-health-centers-by-health-center-nationality-and-gender/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-number-of-employees-by-gender-and-occupations",
+          "title": "Number of Employees by Gender and Occupation",
+          "description": "<p>This dataset presents the number of employees in the hotels and restaurants sector in Qatar, aggregated across all establishments regardless of size. The data is categorized by gender and occupation, providing a full labor distribution overview for the hospitality sector.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "employees",
+            "gender",
+            "labor force",
+            "occupation",
+            "hospitality"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 90,
+          "modified": "2025-05-25T14:04:44.403000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-number-of-employees-by-gender-and-occupations",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-number-of-employees-by-gender-and-occupations/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation0",
+          "title": "Hotels and Restaurants Statistics - Estimates of Compensation in Hotels and Restaurants by Occupation and Type – Establishments with Fewer than 10 Employees",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset provides estimates of employee compensation in the hotels and restaurants sector in Qatar for establishments with 10 employees or more. It details the value of compensation by type (e.g., wages and salaries) and occupation, including working proprietors, managers, technicians, and support staff. The values are presented in thousands of Qatari Riyals (QR) and support analysis of labor cost structures across occupational groups.</span></p>",
+          "themes": [
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "compensation",
+            "Wages",
+            "salaries",
+            "occupation",
+            "qatar",
+            "hotels",
+            "restaurants"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 90,
+          "modified": "2025-05-20T13:32:44.373000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation0/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-number-of-employees-by-gender-and-occupation-establishments-less-10-employees",
+          "title": "Number of Employees by Gender and Occupation (Establishments with less than 10 Employees)",
+          "description": "<p>This dataset presents the number of employees working in Qatar’s hotels and restaurants sector for establishments with fewer than 10 employees. It is categorized by gender and occupation, supporting analysis of workforce structure in small businesses within the hospitality industry.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "employees",
+            "gender",
+            "occupation",
+            "labor force",
+            "small business",
+            "hotel ",
+            "restaurants",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 90,
+          "modified": "2025-05-25T12:01:42.650000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-number-of-employees-by-gender-and-occupation-establishments-less-10-employees",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-number-of-employees-by-gender-and-occupation-establishments-less-10-employees/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation1",
+          "title": "Estimates of Compensation in Hotels and Restaurants by Occupation and Type",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset provides estimates of employee compensation in the hotels and restaurants sector in Qatar. It reports the value of compensation by type (e.g., wages and salaries) and occupation, including working proprietors, managers, technicians, and other staff. The values are shown in thousands of Qatari Riyals (QR) and are intended for labor market and cost structure analysis in the tourism-related sectors.</span></p>",
+          "themes": [
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "compensation",
+            "Wages",
+            "salaries",
+            "occupation",
+            "qatar",
+            "hotels",
+            "restaurants"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 90,
+          "modified": "2025-05-20T13:37:54.448000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation1",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation1/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation",
+          "title": "Hotels and Restaurants Statistics - Estimates of Compensation in Hotels and Restaurants by Occupation and Type – Establishments with 10 or More Employees",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset provides estimates of employee compensation in the hotels and restaurants sector in Qatar for establishments with 10 employees or more. It details the value of compensation by type (e.g., wages and salaries) and occupation, including working proprietors, managers, technicians, and support staff. The values are presented in thousands of Qatari Riyals (QR) and support analysis of labor cost structures across occupational groups.</span></p>",
+          "themes": [
+            "Labor and Employment",
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "compensation",
+            "Wages",
+            "salaries",
+            "occupation",
+            "qatar",
+            "hotels",
+            "restaurants"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 90,
+          "modified": "2025-05-20T13:26:36.623000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-compensation-in-hotels-and-restaurants-by-occupation/exports/csv"
+        },
+        {
+          "dataset_id": "revenues-of-current-activity-by-revenue-item-and-main-activity-hotels-and-restaurants",
+          "title": "Revenues of Hotels and Restaurants Current Activity by Revenue Item and Main Activity",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents total revenues from current activities in Qatar's hotels and restaurants sector, combining all establishment sizes. It includes revenue categories such as rooms, restaurants, events, stores, and other sources, broken down by main activity type. Values are in thousands of Qatari Riyals (QR).</span></p>",
+          "themes": [
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "revenues",
+            "restaurants",
+            "stores",
+            "hospitality",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 90,
+          "modified": "2025-05-18T13:12:09.145000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/revenues-of-current-activity-by-revenue-item-and-main-activity-hotels-and-restaurants",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/revenues-of-current-activity-by-revenue-item-and-main-activity-hotels-and-restaurants/exports/csv"
+        },
+        {
+          "dataset_id": "health-statistics-number-of-visitors-to-outpatient-clinics-by-hospital",
+          "title": "Number of Visitors to Outpatient Clinics by Hospital",
+          "description": "<span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset tracks the number of visitors to outpatient clinics in various hospitals and healthcare centers in Qatar. The data is categorized by year and hospital, providing a clear picture of healthcare utilization over time. It includes information about hospitals such as Hamad General Hospital, Rumailah Hospital, and other specialized healthcare centers like the Women’s Wellness and Research Center and Primary Health Care Centers. This dataset supports insights into trends in outpatient visits, healthcare demand, and hospital service utilization.</span>",
+          "themes": [
+            "Health"
+          ],
+          "keywords": [
+            "visitors",
+            "clinics ",
+            "healthcare",
+            "hospitals",
+            "qatar",
+            "trends",
+            "utilization"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 87,
+          "modified": "2025-05-22T07:41:34.798000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/health-statistics-number-of-visitors-to-outpatient-clinics-by-hospital",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/health-statistics-number-of-visitors-to-outpatient-clinics-by-hospital/exports/csv"
+        }
+      ]
+    },
+    "infrastructure": {
+      "count": 731,
+      "datasets": [
+        {
+          "dataset_id": "qatar-imports-2019-2024",
+          "title": "Qatar Imports 2019-2024",
+          "description": "<p>This dataset contains detailed import data for the State of Qatar. It includes HS codes, product descriptions, countries of origin, and import values.</p><div><br></div>",
+          "themes": [
+            "Finance and Economy",
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "imports, trade, HS code, products, country, Qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 830353,
+          "modified": "2025-06-04T08:12:28.187000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-imports-2019-2024",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-imports-2019-2024/exports/csv"
+        },
+        {
+          "dataset_id": "license0",
+          "title": "License",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides records of issued driving licenses, detailing license type, permit categories, issuance date, and demographic information of the license holders. It includes data on whether the license permits motorcycles, cars, medium trucks, or trailers, along with additional flags for hearing and organ donation status. The dataset also captures the issuing department, gender, nationality group, and birth year of the license holders.</span></p><p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset is a valuable resource for transportation authorities, policymakers, and researchers analyzing trends in driver licensing.</span><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'></span></p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "driving license",
+            "vehicle permit",
+            "nationality",
+            "Years"
+          ],
+          "publisher": "Ministry of Interior",
+          "update_frequency": "ANNUAL",
+          "records_count": 695453,
+          "modified": "2025-06-11T15:23:44.592000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/license0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/license0/exports/csv"
+        },
+        {
+          "dataset_id": "vehicle",
+          "title": "Vehicle",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides records of registered vehicles, detailing key attributes such as plate type, vehicle manufacturer, status, owner type, and model year. It also includes demographic information about vehicle owners, including gender, nationality group, and birth year. The dataset captures whether the vehicle has special permits (such as for handicapped drivers) and distinguishes between personal and other ownership types.</span></p><p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset is a valuable resource for transportation authorities, policymakers, and vehicle registration agencies analyzing trends in vehicle ownership.</span><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'></span></p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "vehicle",
+            "vehicle registration",
+            "car ownership",
+            "plate type",
+            "nationality"
+          ],
+          "publisher": "Ministry of Interior",
+          "update_frequency": "ANNUAL",
+          "records_count": 266077,
+          "modified": "2025-06-11T15:33:29.306000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/vehicle",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/vehicle/exports/csv"
+        },
+        {
+          "dataset_id": "qatar-export-statistics-2019-2024",
+          "title": "Qatar Export Statistics 2019-2024",
+          "description": "<p>This dataset contains detailed export statistics for the State of Qatar from 2019 to 2024, including product codes, descriptions, destination countries, quantities, and values.</p><div><br></div>",
+          "themes": [
+            "Finance and Economy",
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "exports, trade, HS code, products, country, Qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 70324,
+          "modified": "2025-06-04T08:34:01.492000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-export-statistics-2019-2024",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-export-statistics-2019-2024/exports/csv"
+        },
+        {
+          "dataset_id": "qu-registered-students-per-semester-fall-2015-till-spring-2025",
+          "title": "Qatar University Registered Students Per Semester",
+          "description": "<div class=\"ewa-rteLine\" style=\"font-family: Arial; font-size: 13.3333px; white-space-collapse: preserve;\">This dataset presents the number of students registered at Qatar University, disaggregated by college, academic level, major, nationality, and gender. The dataset covers registration in Foundation, Undergraduate, and Graduate levels, offering a detailed view of student enrollment trends.</div><div class=\"ewa-rteLine\" style=\"font-family: Arial; font-size: 13.3333px; white-space-collapse: preserve;\"><br></div><div class=\"ewa-rteLine\" style=\"font-family: Arial; font-size: 13.3333px; white-space-collapse: preserve;\">It supports institutional planning, enrollment analysis by demographic and academic breakdown, and higher education policy evaluation. The data is valuable for analyzing growth patterns, gender and nationality representation, and shifts in academic interests over time.</div>",
+          "themes": [
+            "Education"
+          ],
+          "keywords": [
+            "students",
+            "nationality",
+            "college",
+            "semester",
+            "gender"
+          ],
+          "publisher": "Qatar University",
+          "update_frequency": "ANNUAL",
+          "records_count": 7538,
+          "modified": "2025-05-28T21:39:10.652000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-registered-students-per-semester-fall-2015-till-spring-2025",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-registered-students-per-semester-fall-2015-till-spring-2025/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-by-nationality-gender-and-age-annual",
+          "title": "Registered Deaths by Nationality, Gender, and Age – Annual",
+          "description": "<p>This dataset provides annual statistics on registered deaths in the State of Qatar, disaggregated by nationality (Qatari and non-Qatari), gender (male and female), age group, and year. It supports demographic and public health analysis by showing mortality trends across different population segments over time.</p>",
+          "themes": [
+            "Health",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "deaths",
+            "gender",
+            "nationality",
+            "mortality",
+            "qatar",
+            "age"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 5238,
+          "modified": "2025-05-07T08:14:14.897000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age-annual",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age-annual/exports/csv"
+        },
+        {
+          "dataset_id": "qu-graduated-students-per-semester-fall-2015-till-spring-2024",
+          "title": "Qatar University Graduated Students Per Semester",
+          "description": "<div class=\"ewa-rteLine\" style=\"font-family: Tahoma; font-size: 13.3333px; white-space-collapse: preserve;\">This dataset presents the number of students who graduated from Qatar University, disaggregated by academic year, semester, college, level of study, major, nationality, and gender. It provides detailed semester-by-semester graduation counts across different disciplines and demographics.</div><div class=\"ewa-rteLine\" style=\"font-family: Tahoma; font-size: 13.3333px; white-space-collapse: preserve;\"><br></div><div class=\"ewa-rteLine\" style=\"font-family: Tahoma; font-size: 13.3333px; white-space-collapse: preserve;\">The dataset supports trend analysis in graduation outcomes, institutional planning, and higher education performance monitoring. It also enables analysis of gender, nationality, and major-level graduation patterns across colleges and academic levels (Undergraduate, Master).</div>",
+          "themes": [
+            "Education"
+          ],
+          "keywords": [
+            "students",
+            "college",
+            "gender",
+            "semester",
+            "graduation",
+            "nationality"
+          ],
+          "publisher": "Qatar University",
+          "update_frequency": "ANNUAL",
+          "records_count": 3870,
+          "modified": "2025-05-28T21:33:37.521000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-graduated-students-per-semester-fall-2015-till-spring-2024",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-graduated-students-per-semester-fall-2015-till-spring-2024/exports/csv"
+        },
+        {
+          "dataset_id": "sports-facilities-by-type-and-agency0",
+          "title": "Sports Facilities by Type and Agency",
+          "description": "<p>This dataset presents information on sports facilities in Qatar, categorized by type and agency. It includes data on various types of facilities, primarily for use by federations, clubs, and other sports organizations. </p><p><br></p><p>The dataset provides annual figures showing the number of facilities available for different types of clubs (e.g., 1st and 2nd clubs) and federations, offering valuable insights into the infrastructure development for sports in Qatar over the years.</p>",
+          "themes": [
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "Qatar Sports Facilities",
+            "Sports Infrastructure",
+            "Sports Agencies"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 2700,
+          "modified": "2025-08-04T09:38:18.329000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/sports-facilities-by-type-and-agency0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/sports-facilities-by-type-and-agency0/exports/csv"
+        },
+        {
+          "dataset_id": "those-who-practice-activities-in-youth-and-sports-institutions-by-activity-age-group-nationality-and",
+          "title": "Those Who Practice Activities in Youth and Sports Institutions by Activity, Age Group, Nationality and Gender",
+          "description": "<p>The dataset records the number of individuals participating in various youth and sports activities across different age groups, nationalities, and genders. It helps track the engagement levels in specific activities, such as religious events, over time, providing a basis for policy development, resource allocation, and program effectiveness evaluation.  </p>",
+          "themes": [
+            "Social Development",
+            "Culture, Sports and Tourism"
+          ],
+          "keywords": [
+            "Youth Participation",
+            "Gender Distribution",
+            "Age Groups",
+            "Nationality Statistics",
+            "Activity Tracking"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 2688,
+          "modified": "2025-08-25T12:05:24.930000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/those-who-practice-activities-in-youth-and-sports-institutions-by-activity-age-group-nationality-and",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/those-who-practice-activities-in-youth-and-sports-institutions-by-activity-age-group-nationality-and/exports/csv"
+        },
+        {
+          "dataset_id": "special-needs-statistics-number-of-people-registered-at-disabled-centers-by-age-group-and-center",
+          "title": "Number of People Registered at Disabled Centers by Age Group and Center",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset presents the number of people with disabilities registered at various disability centers in Qatar from years 2016- 2023, categorized by age group and center name. It supports understanding of service distribution across age demographics and assists in planning specialized care and resources.</span></p>",
+          "themes": [
+            "Social Development"
+          ],
+          "keywords": [
+            "disability",
+            "registration",
+            "age",
+            "disabled centers",
+            "services",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 2576,
+          "modified": "2025-05-19T17:31:13.791000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/special-needs-statistics-number-of-people-registered-at-disabled-centers-by-age-group-and-center",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/special-needs-statistics-number-of-people-registered-at-disabled-centers-by-age-group-and-center/exports/csv"
+        },
+        {
+          "dataset_id": "employees-in-youth-institutions-by-occupation-type-of-work-nationality-and-gender",
+          "title": "Employees in Youth Institutions by Occupation, Type of Work, Nationality and Gender",
+          "description": "<p>The dataset provides statistics on employees in youth institutions, categorized by occupation, type of work, nationality, and gender. It includes details on the number of employees across different roles, distinguishing between full-time and part-time positions, and further classifying data by Qatari and non-Qatari workers, as well as male and female employees. </p><p><br></p><p>This dataset supports analysis of workforce distribution and employment trends in youth-focused organizations.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Social Development"
+          ],
+          "keywords": [
+            "Workforce Distribution",
+            "Gender Representation",
+            "Occupational Categories",
+            "Employment Trends"
+          ],
+          "publisher": "Ministry of Sports and Youth",
+          "update_frequency": "ANNUAL",
+          "records_count": 2016,
+          "modified": "2025-06-02T12:22:13.472000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-in-youth-institutions-by-occupation-type-of-work-nationality-and-gender",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-in-youth-institutions-by-occupation-type-of-work-nationality-and-gender/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-month-gender-and-municipality-non-qataris",
+          "title": "Registered Live Births by Month, Gender, and Municipality – Non-Qataris",
+          "description": "<p>This dataset captures the number of registered live births for non-Qatari residents in Qatar, disaggregated by month, gender, and municipality. It provides multi-year data and supports temporal and geographic analysis of birth patterns among expatriate communities.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "births",
+            "non-Qataris",
+            "gender",
+            "municipality",
+            "monthly"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1944,
+          "modified": "2025-05-07T08:52:13.867000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-month-gender-and-municipality-non-qataris",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-month-gender-and-municipality-non-qataris/exports/csv"
+        },
+        {
+          "dataset_id": "education-statistics-number-of-students-by-age-level-of-education-and-gender",
+          "title": "Number of Students by Age, Level of Education, and Gender",
+          "description": "<span style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\">This dataset provides information on the number of students by age, level of education, and gender in Qatar. It breaks down the number of students by specific age groups (e.g., Younger than 3), education level (Pre-primary, Primary, Preparatory, Specialized Preparatory, General Secondary, Specialized Secondary), and gender (Male, Female). The data supports analysis on student distribution across different education levels, age categories, and gender trends. It is a useful resource for understanding the participation of young students in early childhood education and tracking educational trends by age and gender.</span>",
+          "themes": [
+            "Education",
+            "Social Development"
+          ],
+          "keywords": [
+            "students",
+            "age",
+            "gender",
+            "education level",
+            "early childhood",
+            "education"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1936,
+          "modified": "2025-05-26T13:03:03.992000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/education-statistics-number-of-students-by-age-level-of-education-and-gender",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/education-statistics-number-of-students-by-age-level-of-education-and-gender/exports/csv"
+        },
+        {
+          "dataset_id": "government-e-services-directory-with-usage-statistics",
+          "title": "Government E-Services Directory with Usage Statistics",
+          "description": "<p><span style='color: rgb(66, 66, 66); font-family: \"Segoe Sans\"; font-size: 16px; white-space-collapse: preserve;'>The Government E-Services Statistics dataset provides detailed information about various e-services offered by different ministries and organizations in Qatar. The dataset includes data on service providers, titles, user statistics, page views, creation and update dates, service modes, and URLs. This dataset supports insights into the usage and popularity of e-services, helping to improve and optimize digital services for citizens and residents.</span></p>",
+          "themes": [
+            "Science and Technology"
+          ],
+          "keywords": [
+            "e-services",
+            "government services",
+            "digital"
+          ],
+          "publisher": "Ministry of Communications and Technology",
+          "update_frequency": "ANNUAL",
+          "records_count": 1692,
+          "modified": "2025-06-10T09:19:24.018000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/government-e-services-directory-with-usage-statistics",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/government-e-services-directory-with-usage-statistics/exports/csv"
+        },
+        {
+          "dataset_id": "population-estimates-by-gender-and-single-ages",
+          "title": "Population Estimates by Gender and Single Ages",
+          "description": "<p>This dataset provides population estimates in Qatar by gender and single-year age groups, along with historical data for previous years. It enables in-depth demographic analysis by offering detailed age and sex breakdowns of the population, supporting planning and research activities.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "population",
+            "gender",
+            "age",
+            "estimates",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1620,
+          "modified": "2025-05-07T08:52:40.358000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-estimates-by-gender-and-single-ages",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-estimates-by-gender-and-single-ages/exports/csv"
+        },
+        {
+          "dataset_id": "population-by-municipality-and-age-groups",
+          "title": "Population By Municipality and Age Groups",
+          "description": "<p>This dataset presents population statistics in the State of Qatar disaggregated by municipality and age group . It includes the number of individuals across different age categories for each municipality. The dataset supports localized demographic analysis, allowing policy makers, researchers, and planners to identify population distribution and trends within specific geographic areas and age segments.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Population",
+            "municipality",
+            "age",
+            "Distribution",
+            "qatar",
+            "Census",
+            "Statistics"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-05-07T08:55:06.278000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-municipality-and-age-groups",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-municipality-and-age-groups/exports/csv"
+        },
+        {
+          "dataset_id": "males-population-by-municipality-and-age-groups-december-2020",
+          "title": "Males Population by Municipality and Age Groups – December 2020",
+          "description": "<p>This dataset provides male population figures by municipality and age groups in Qatar for December 2020. It supports demographic analysis and planning through disaggregated data by geography and age. Historical data for previous years is also included.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "population",
+            "males",
+            "municipalities",
+            "demographics",
+            "agegroups"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-05-07T08:53:48.191000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/males-population-by-municipality-and-age-groups-december-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/males-population-by-municipality-and-age-groups-december-2020/exports/csv"
+        },
+        {
+          "dataset_id": "females-population-by-municipality-and-age-groups-december-2020",
+          "title": "Females Population by Municipality and Age Groups – December 2020",
+          "description": "<p>This dataset presents the female population distribution across Qatari municipalities, segmented by age groups for the month of December 2020. It also includes historical values for previous years. The data supports demographic research and gender-specific policy planning by providing geographically and age-disaggregated population figures.</p>",
+          "themes": [
+            "Population and Demography"
+          ],
+          "keywords": [
+            "females",
+            "population",
+            "municipality",
+            "Age Groups",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-06-02T14:57:26.603000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/females-population-by-municipality-and-age-groups-december-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/females-population-by-municipality-and-age-groups-december-2020/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-by-nationality-gender-and-age",
+          "title": "Registered Deaths by Nationality, Gender, and Age",
+          "description": "<p>This dataset reports the number of registered deaths in Qatar, categorized by nationality, gender, and age group. It spans multiple years and supports analysis of mortality patterns across different demographic groups, aiding public health planning and population studies.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "deaths",
+            "mortality",
+            "gender",
+            "nationality",
+            "age"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1350,
+          "modified": "2025-05-07T08:34:15.310000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age/exports/csv"
+        },
+        {
+          "dataset_id": "annual-certificates-of-origin-by-type-and-importing-country",
+          "title": "Annual Certificates of Origin by Type and Importing Country",
+          "description": "<p><font face=\"Aptos Narrow\"><span style=\"font-size: 14.6667px; white-space-collapse: preserve;\">\"This dataset presents the number of certificates of origin issued annually, categorized by type of certificate and importing country. It includes data on certificates such as GCC Certificates and general Certificates of Origin, organized by year, type, and country.\n\nThe dataset is useful for analyzing trade trends and export destinations of products exported by Qatar’s private sector, especially small and medium enterprises.\n\nThese certificates of origin are issued based on five main models:\n\nGeneral Certificate (for exports to countries without preferential/customs agreements)\n\nGCC Certificate (for exports to Gulf Cooperation Council countries, including local content details)\n\nArab Certificate (issued under the trade facilitation agreement among Arab states)\n\nPreferential Certificate (for countries with free trade agreements with Qatar)\n\nBilateral Agreement Certificate (based on specific agreements requiring unique origin criteria)\n\nIt’s important to distinguish this dataset from the comprehensive export statistics published by the National Statistics Center. While Qatar Chamber data reflects certificates issued for exports requiring origin documentation, the National Statistics Center provides a full view of Qatar’s exports using customs data from the General Authority of Customs. These national-level statistics include oil, gas, non-oil, and re-export figures and are classified by HS Code, destination, value in Qatari Riyal, quantity or weight, and export type.\n\nTherefore, this dataset gives a partial yet insightful view into private sector export patterns, complementing but not replacing the official national export data.\"</span></font></p>",
+          "themes": [
+            "Trade and Industry",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "Trade",
+            "export",
+            "certificates",
+            "commerce",
+            "qatar imports"
+          ],
+          "publisher": "Qatar Chamber of Commerce & Industry",
+          "update_frequency": "ANNUAL",
+          "records_count": 1162,
+          "modified": "2025-05-29T10:16:14.116000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/annual-certificates-of-origin-by-type-and-importing-country",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/annual-certificates-of-origin-by-type-and-importing-country/exports/csv"
+        }
+      ]
+    },
+    "economic": {
+      "count": 293,
+      "datasets": [
+        {
+          "dataset_id": "registered-live-births-by-month-municipality-and-gender-qataris",
+          "title": "Registered Live Births By Month, Municipality and Gender - Qataris",
+          "description": "<p>Mortality and morbidity rate and its distribution, as reflected by age and gender structures and geographical distribution, are essential data for the setting up of economic and social development plans.</p><p><br></p><p>This statistic contains an estimate of the registered Qatari live births by month, municipality and gender</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "registered births",
+            "live births",
+            "municipality",
+            "gender",
+            "qatari births",
+            "month "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": null,
+          "records_count": 1944,
+          "modified": "2025-05-07T08:32:07.473000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-month-municipality-and-gender-qataris",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-month-municipality-and-gender-qataris/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-mother-s-age-group-occupation-and-nationality",
+          "title": "Registered Live Births By Mother's Age Group, Occupation and Nationality",
+          "description": "<p>This dataset provides information on registered live births categorized by the mother’s age group, occupation, and nationality. It offers insights into maternal demographics, workforce participation, and fertility trends across different age groups and professions. The data can be used for policy development, healthcare planning, and socio-economic analysis related to maternal and child health.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Live Births",
+            "Occupation Trends",
+            "Fertility Patterns",
+            "Demographic Insights"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1782,
+          "modified": "2025-05-07T09:04:33.137000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-occupation-and-nationality",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-occupation-and-nationality/exports/csv"
+        },
+        {
+          "dataset_id": "labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+          "title": "Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Educational Attainment",
+          "description": "<p>This dataset provides quarterly statistics on the number of economically inactive individuals aged 15 years and above in Qatar, disaggregated by nationality, gender, and level of education. It supports labor market planning and education-related policy-making.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "labor",
+            "inactive",
+            "education",
+            "gender",
+            "nationality",
+            "qatar",
+            "quarterly"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 1148,
+          "modified": "2025-05-07T07:33:22.715000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-duration-of-marriage-and-birth-order-non-qataris",
+          "title": "Registered Live Births By Duration of Marriage and Birth Order (Non-Qataris)",
+          "description": "<p>Mortality and morbidity rate and its distribution, as reflected by age and gender structures and geographical distribution, are essential data for the setting up of economic and social development plans.</p><p><br></p><p>This statistic contains an estimate of the registered non-Qatari live births by duration of marriage and birth order </p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "live births",
+            "registered births",
+            "birth order",
+            "duration of marriage",
+            "non-qatari births"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": null,
+          "records_count": 990,
+          "modified": "2025-05-07T08:46:34.019000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-duration-of-marriage-and-birth-order-non-qataris",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-duration-of-marriage-and-birth-order-non-qataris/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "title": "Estimates of Value of Intermediate Services by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)",
+          "description": "<div ccp_infra_copy_id=\"83680454-2459-48c3-9e9c-44d561cc3e1b\" ccp_infra_timestamp=\"1746615342819\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746615342819\" style=\"font-size: medium;\"><table style=\"width: 290pt;\" width=\"386\"><colgroup><col style=\"width: 290pt;\" width=\"386\"/></colgroup><tbody><tr height=\"122\" style=\"height: 91.5pt;\"><td class=\"xl83\" height=\"122\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 290pt; height: 91.5pt;\" width=\"386\">This dataset presents updated estimates of the value of intermediate services used across various main economic activities within the transport and communication sectors in Qatar. The data is organized by economic activity, type of intermediate service, and year, supporting sectoral input analysis and economic planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "economics",
+            "intermediate services",
+            "main activity",
+            "sector "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 900,
+          "modified": "2025-05-22T06:17:13.113000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-4922-6190-isic-rev4/exports/csv"
+        },
+        {
+          "dataset_id": "labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter",
+          "title": "Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Age Group",
+          "description": "<p>This dataset provides quarterly statistics on the number of economically inactive individuals aged 15 years and above in the State of Qatar. The data is disaggregated by nationality, gender, and age group, supporting labor market analysis and policy-making.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "labor",
+            "inactive",
+            "gender",
+            "nationality",
+            "age",
+            "qatar",
+            "quarterly"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 820,
+          "modified": "2025-05-07T07:31:55.760000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-of-intermediate-services-by-main-economic-activity-less-than-10-employees",
+          "title": "Estimates of Value of Intermediate Services By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922 - 6190) ISIC Rev 4",
+          "description": "<p>Detailed statistics on the estimated value of intermediate services by main economic activity within the transport and communication sectors in Qatar, specifically for establishments with less than 10 employees.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "communication",
+            "intermediate services",
+            "small business"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 750,
+          "modified": "2025-05-24T22:33:03.045000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-less-than-10-employees",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-less-than-10-employees/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-of-intermediate-services-by-main-economic-activity-10-employees-and-more-activity3",
+          "title": "Estimates of Value of Intermediate Services By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<p>Detailed statistical data on the value of intermediate services used in the transport and communication sector for establishments with 10 or more employees.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "communication",
+            "intermediate services",
+            "economic activity"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 750,
+          "modified": "2025-05-25T01:13:49.643000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-10-employees-and-more-activity3",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-10-employees-and-more-activity3/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-added-by-main-economic-activity-less-than-10-employees-activity-codes-4922-6190",
+          "title": "Estimates of Value Added By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<p>Detailed statistics on the estimated value added by main economic activities within the transport and communication sectors in Qatar, specifically for establishments with less than 10 employees.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "communication",
+            "transport",
+            "value added",
+            "economic activity"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 630,
+          "modified": "2025-05-21T13:55:27.657000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-less-than-10-employees-activity-codes-4922-6190",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-less-than-10-employees-activity-codes-4922-6190/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-of-intermediate-goods-by-main-economic-activity-less-than-10-employees-activity",
+          "title": "Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922 - 6190) ISIC Rev 4",
+          "description": "<p>Detailed statistics on the estimated value of intermediate goods by main economic activity within the transport and communication sectors in Qatar, specifically for establishments with less than 10 employees.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "communication",
+            "intermediate goods"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 630,
+          "modified": "2025-05-21T11:47:49.447000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-goods-by-main-economic-activity-less-than-10-employees-activity",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-goods-by-main-economic-activity-less-than-10-employees-activity/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-of-intermediate-goods-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "title": "Estimates of Value of Intermediate Goods by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)",
+          "description": "<div ccp_infra_copy_id=\"54f69e46-2cdf-4d3b-8006-c1b282db5e84\" ccp_infra_timestamp=\"1746614446850\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746614446850\" style=\"font-size: medium;\"><table style=\"width: 230pt;\" width=\"306\"><colgroup><col style=\"width: 230pt;\" width=\"306\"/></colgroup><tbody><tr height=\"20\" style=\"height: 15pt;\"><td height=\"20\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; text-wrap-mode: nowrap; width: 230pt; height: 15pt;\" width=\"306\">This dataset presents updated estimates of the value of intermediate goods used across various main economic activities within the transport and communication sectors in Qatar. It is organized by economic activity, type of intermediate good, and year, supporting sectoral input analysis and economic planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "economics",
+            "intermediate goods",
+            "sector "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 630,
+          "modified": "2025-05-22T06:06:07.906000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-goods-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-goods-by-main-economic-activity-activity-codes-4922-6190-isic-rev4/exports/csv"
+        },
+        {
+          "dataset_id": "main-economic-indicators-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "title": "Main Economic Indicators by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)",
+          "description": "<div ccp_infra_copy_id=\"9d32ff78-207e-448f-b89a-f50659bae7e1\" ccp_infra_timestamp=\"1746627015845\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746627015845\" style=\"font-size: medium;\"><table style=\"width: 359pt;\" width=\"478\"><colgroup><col style=\"width: 359pt;\" width=\"478\"/></colgroup><tbody><tr height=\"102\" style=\"height: 76.5pt;\"><td class=\"xl84\" height=\"102\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 359pt; height: 76.5pt;\" width=\"478\">This dataset presents updated key economic indicators for different main economic activities within the transport and communication sectors in Qatar. The data includes indicators such as average annual wage, categorized by economic activity and year, supporting sectoral analysis and development planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "economics",
+            "Wages"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 630,
+          "modified": "2025-05-22T10:39:09.888000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-4922-6190-isic-rev4/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-added-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "title": "Estimates of Value Added by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)",
+          "description": "<div ccp_infra_copy_id=\"d9ea58e5-fec5-435e-9222-bfcf5eb713cf\" ccp_infra_timestamp=\"1746619719297\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746619719297\" style=\"font-size: medium;\"><table style=\"width: 273pt;\" width=\"364\"><colgroup><col style=\"width: 273pt;\" width=\"364\"/></colgroup><tbody><tr height=\"142\" style=\"height: 106.5pt;\"><td class=\"xl81\" height=\"142\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 273pt; height: 106.5pt;\" width=\"364\">This dataset presents updated estimates of the value added by different main economic activities within the transport and communication sectors in Qatar. The data is categorized by economic indicator, component of the indicator, main economic activity, and year, supporting sectoral performance analysis and economic development planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "economics",
+            "value added"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 630,
+          "modified": "2025-05-22T06:34:26.722000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-activity-codes-4922-6190-isic-rev4/exports/csv"
+        },
+        {
+          "dataset_id": "qatar-s-main-imports-of-sports-goods-by-value-qar",
+          "title": "Qatar's Main Imports of Sports Goods by Value (QAR)",
+          "description": "<p>This dataset provides annual data on Qatar's imports of sports-related goods by value (QAR). It includes key commodities such as horses for sport and leather apparel, highlighting import trends over multiple years. </p><p><br></p><p>The data can be used for market analysis, trade policy assessment, and economic studies related to Qatar's sports industry.</p>",
+          "themes": [
+            "Culture, Sports and Tourism",
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "Qatar Imports Statistics",
+            "Unit Price Trends",
+            "Sports Goods Imports",
+            "Import Economic Data"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 567,
+          "modified": "2025-08-04T09:40:36.389000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-s-main-imports-of-sports-goods-by-value-qar",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-s-main-imports-of-sports-goods-by-value-qar/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-of-intermediate-goods-by-main-economic-activity-10-employees-and-more-activity",
+          "title": "Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication sector (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<p>Detailed statistics on the estimated value of intermediate goods by main economic activity within the transport and communication sectors in Qatar, specifically for establishments with more than 10 employees.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "intermediate goods",
+            "small business"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 525,
+          "modified": "2025-05-21T07:53:37.074000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-goods-by-main-economic-activity-10-employees-and-more-activity",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-goods-by-main-economic-activity-10-employees-and-more-activity/exports/csv"
+        },
+        {
+          "dataset_id": "estimates-of-value-added-by-main-economic-activity-10-employees-and-more-activity-codes-4922-6190",
+          "title": "Estimates of Value Added By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<p>Detailed statistics on the estimated value added by main economic activities within the transport and communication sectors in Qatar, specifically for establishments with more than 10 employees.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "communication",
+            "value added",
+            "economic activity"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 525,
+          "modified": "2025-05-25T00:38:42.260000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-10-employees-and-more-activity-codes-4922-6190",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-10-employees-and-more-activity-codes-4922-6190/exports/csv"
+        },
+        {
+          "dataset_id": "qatar-s-main-imports-of-sports-goods-by-unit-price",
+          "title": "Qatar's Main Imports of Sports Goods by Unit Price",
+          "description": "<p>This dataset presents Qatar's main imports of sports-related goods, focusing on the unit price (in Qatari Riyals) of commodities like horses for sport. It includes annual data on the unit price for various years, reflecting the changes in import pricing over time. </p><p><br></p><p>This dataset is useful for analyzing price trends and understanding the economic aspects of Qatar's sports imports.</p>",
+          "themes": [
+            "Culture, Sports and Tourism",
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "Qatar Imports Statistics",
+            "Unit Price Trends",
+            "Sports Goods Imports",
+            "Import Economic Data"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 501,
+          "modified": "2025-08-04T09:40:57.760000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-s-main-imports-of-sports-goods-by-unit-price",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-s-main-imports-of-sports-goods-by-unit-price/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-nationality-type-of-birth-and-municipality",
+          "title": "Registered Live Births by Nationality, Type of Birth and Municipality",
+          "description": "<p>Mortality and morbidity rate and its distribution, as reflected by age and gender structures and geographical distribution, are essential data for the setting up of economic and social development plans.</p><p><br></p><p>This statistic contains an estimate of the registered live births by nationality, type of birth and municipality</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "live births",
+            "registered births",
+            "nationality",
+            "type of birth",
+            "municipality",
+            "twin",
+            "triplet",
+            "qatari births",
+            "non-qatari births"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 486,
+          "modified": "2025-05-07T08:30:03.979000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-nationality-type-of-birth-and-municipality",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-nationality-type-of-birth-and-municipality/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-nationality-gender-and-municipality",
+          "title": "Registered Live Births by Nationality, Gender and Municipality",
+          "description": "<p>Mortality and morbidity rate and its distribution, as reflected by age and gender structures and geographical distribution, are essential data for the setting up of economic and social development plans.</p><p><br></p><p>This statistic represents an estimate of registered live births by nationality, gender and municipality</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "registered births",
+            "live births",
+            "qatari births",
+            "non-qatari births",
+            "municipality",
+            "male births",
+            "female births"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 432,
+          "modified": "2025-05-07T08:32:55.374000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-nationality-gender-and-municipality",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-nationality-gender-and-municipality/exports/csv"
+        },
+        {
+          "dataset_id": "economically-active-population-15-years-and-above-by-nationality-gender-and-age-groups",
+          "title": "Economically Active Population (15 Years and Above) by Nationality, Gender and Age Groups",
+          "description": "<p>This dataset contains statistics on economically active population (15 years and above) by nationality, gender and age groups based on labor force sample survey.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "gender",
+            "age group",
+            "nationality",
+            "female population",
+            "male population",
+            "qatar population",
+            "economically active population "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 396,
+          "modified": "2025-05-07T08:45:34.632000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/economically-active-population-15-years-and-above-by-nationality-gender-and-age-groups",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/economically-active-population-15-years-and-above-by-nationality-gender-and-age-groups/exports/csv"
+        }
+      ]
+    },
+    "population": {
+      "count": 170,
+      "datasets": [
+        {
+          "dataset_id": "license0",
+          "title": "License",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides records of issued driving licenses, detailing license type, permit categories, issuance date, and demographic information of the license holders. It includes data on whether the license permits motorcycles, cars, medium trucks, or trailers, along with additional flags for hearing and organ donation status. The dataset also captures the issuing department, gender, nationality group, and birth year of the license holders.</span></p><p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset is a valuable resource for transportation authorities, policymakers, and researchers analyzing trends in driver licensing.</span><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'></span></p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "driving license",
+            "vehicle permit",
+            "nationality",
+            "Years"
+          ],
+          "publisher": "Ministry of Interior",
+          "update_frequency": "ANNUAL",
+          "records_count": 695453,
+          "modified": "2025-06-11T15:23:44.592000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/license0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/license0/exports/csv"
+        },
+        {
+          "dataset_id": "vehicle",
+          "title": "Vehicle",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides records of registered vehicles, detailing key attributes such as plate type, vehicle manufacturer, status, owner type, and model year. It also includes demographic information about vehicle owners, including gender, nationality group, and birth year. The dataset captures whether the vehicle has special permits (such as for handicapped drivers) and distinguishes between personal and other ownership types.</span></p><p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset is a valuable resource for transportation authorities, policymakers, and vehicle registration agencies analyzing trends in vehicle ownership.</span><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'></span></p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "vehicle",
+            "vehicle registration",
+            "car ownership",
+            "plate type",
+            "nationality"
+          ],
+          "publisher": "Ministry of Interior",
+          "update_frequency": "ANNUAL",
+          "records_count": 266077,
+          "modified": "2025-06-11T15:33:29.306000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/vehicle",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/vehicle/exports/csv"
+        },
+        {
+          "dataset_id": "qu-registered-students-per-semester-fall-2015-till-spring-2025",
+          "title": "Qatar University Registered Students Per Semester",
+          "description": "<div class=\"ewa-rteLine\" style=\"font-family: Arial; font-size: 13.3333px; white-space-collapse: preserve;\">This dataset presents the number of students registered at Qatar University, disaggregated by college, academic level, major, nationality, and gender. The dataset covers registration in Foundation, Undergraduate, and Graduate levels, offering a detailed view of student enrollment trends.</div><div class=\"ewa-rteLine\" style=\"font-family: Arial; font-size: 13.3333px; white-space-collapse: preserve;\"><br></div><div class=\"ewa-rteLine\" style=\"font-family: Arial; font-size: 13.3333px; white-space-collapse: preserve;\">It supports institutional planning, enrollment analysis by demographic and academic breakdown, and higher education policy evaluation. The data is valuable for analyzing growth patterns, gender and nationality representation, and shifts in academic interests over time.</div>",
+          "themes": [
+            "Education"
+          ],
+          "keywords": [
+            "students",
+            "nationality",
+            "college",
+            "semester",
+            "gender"
+          ],
+          "publisher": "Qatar University",
+          "update_frequency": "ANNUAL",
+          "records_count": 7538,
+          "modified": "2025-05-28T21:39:10.652000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-registered-students-per-semester-fall-2015-till-spring-2025",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-registered-students-per-semester-fall-2015-till-spring-2025/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-by-nationality-gender-and-age-annual",
+          "title": "Registered Deaths by Nationality, Gender, and Age – Annual",
+          "description": "<p>This dataset provides annual statistics on registered deaths in the State of Qatar, disaggregated by nationality (Qatari and non-Qatari), gender (male and female), age group, and year. It supports demographic and public health analysis by showing mortality trends across different population segments over time.</p>",
+          "themes": [
+            "Health",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "deaths",
+            "gender",
+            "nationality",
+            "mortality",
+            "qatar",
+            "age"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 5238,
+          "modified": "2025-05-07T08:14:14.897000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age-annual",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age-annual/exports/csv"
+        },
+        {
+          "dataset_id": "qu-graduated-students-per-semester-fall-2015-till-spring-2024",
+          "title": "Qatar University Graduated Students Per Semester",
+          "description": "<div class=\"ewa-rteLine\" style=\"font-family: Tahoma; font-size: 13.3333px; white-space-collapse: preserve;\">This dataset presents the number of students who graduated from Qatar University, disaggregated by academic year, semester, college, level of study, major, nationality, and gender. It provides detailed semester-by-semester graduation counts across different disciplines and demographics.</div><div class=\"ewa-rteLine\" style=\"font-family: Tahoma; font-size: 13.3333px; white-space-collapse: preserve;\"><br></div><div class=\"ewa-rteLine\" style=\"font-family: Tahoma; font-size: 13.3333px; white-space-collapse: preserve;\">The dataset supports trend analysis in graduation outcomes, institutional planning, and higher education performance monitoring. It also enables analysis of gender, nationality, and major-level graduation patterns across colleges and academic levels (Undergraduate, Master).</div>",
+          "themes": [
+            "Education"
+          ],
+          "keywords": [
+            "students",
+            "college",
+            "gender",
+            "semester",
+            "graduation",
+            "nationality"
+          ],
+          "publisher": "Qatar University",
+          "update_frequency": "ANNUAL",
+          "records_count": 3870,
+          "modified": "2025-05-28T21:33:37.521000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-graduated-students-per-semester-fall-2015-till-spring-2024",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qu-graduated-students-per-semester-fall-2015-till-spring-2024/exports/csv"
+        },
+        {
+          "dataset_id": "special-needs-statistics-number-of-people-registered-at-disabled-centers-by-age-group-and-center",
+          "title": "Number of People Registered at Disabled Centers by Age Group and Center",
+          "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset presents the number of people with disabilities registered at various disability centers in Qatar from years 2016- 2023, categorized by age group and center name. It supports understanding of service distribution across age demographics and assists in planning specialized care and resources.</span></p>",
+          "themes": [
+            "Social Development"
+          ],
+          "keywords": [
+            "disability",
+            "registration",
+            "age",
+            "disabled centers",
+            "services",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 2576,
+          "modified": "2025-05-19T17:31:13.791000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/special-needs-statistics-number-of-people-registered-at-disabled-centers-by-age-group-and-center",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/special-needs-statistics-number-of-people-registered-at-disabled-centers-by-age-group-and-center/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-mother-s-age-group-occupation-and-nationality",
+          "title": "Registered Live Births By Mother's Age Group, Occupation and Nationality",
+          "description": "<p>This dataset provides information on registered live births categorized by the mother’s age group, occupation, and nationality. It offers insights into maternal demographics, workforce participation, and fertility trends across different age groups and professions. The data can be used for policy development, healthcare planning, and socio-economic analysis related to maternal and child health.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Live Births",
+            "Occupation Trends",
+            "Fertility Patterns",
+            "Demographic Insights"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1782,
+          "modified": "2025-05-07T09:04:33.137000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-occupation-and-nationality",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-occupation-and-nationality/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-15-years-and-over-by-marital-status-annual",
+          "title": "Registered Deaths (15 Years and Over) by Marital Status – Annual",
+          "description": "<p>This dataset provides annual statistics on registered deaths in Qatar for individuals aged 15 years and over, disaggregated by gender, age group, and marital status. It includes categories such as never married, married, divorced, and widowed. The data is useful for demographic analysis and understanding mortality patterns by social status.</p>",
+          "themes": [
+            "Health",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "deaths",
+            "age",
+            "gender",
+            "Marital",
+            "mortality",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1620,
+          "modified": "2025-05-07T08:14:45.408000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-15-years-and-over-by-marital-status-annual",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-15-years-and-over-by-marital-status-annual/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-15-years-old-and-over-by-marital-status-gender-and-age-group",
+          "title": "Registered Deaths (15 Years Old and Over) by Marital Status, Gender and Age Group",
+          "description": "<p>The dataset provides information on registered deaths among individuals aged 15 years and older, categorized by marital status, gender, and age group. The data includes annual death counts, providing insights into mortality trends over time. </p><p><br></p><p>This data is essential for understanding the relationship between demographic factors and mortality, especially with respect to marital status and gender. It allows for further analysis of trends in mortality rates and provides critical information for public health planning and policy-making.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Registered Deaths",
+            "Age-Related Mortality",
+            "Mortality Trends"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1620,
+          "modified": "2025-05-07T09:04:11.026000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-15-years-old-and-over-by-marital-status-gender-and-age-group",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-15-years-old-and-over-by-marital-status-gender-and-age-group/exports/csv"
+        },
+        {
+          "dataset_id": "population-estimates-by-gender-and-single-ages",
+          "title": "Population Estimates by Gender and Single Ages",
+          "description": "<p>This dataset provides population estimates in Qatar by gender and single-year age groups, along with historical data for previous years. It enables in-depth demographic analysis by offering detailed age and sex breakdowns of the population, supporting planning and research activities.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "population",
+            "gender",
+            "age",
+            "estimates",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1620,
+          "modified": "2025-05-07T08:52:40.358000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-estimates-by-gender-and-single-ages",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-estimates-by-gender-and-single-ages/exports/csv"
+        },
+        {
+          "dataset_id": "population-by-municipality-and-age-groups",
+          "title": "Population By Municipality and Age Groups",
+          "description": "<p>This dataset presents population statistics in the State of Qatar disaggregated by municipality and age group . It includes the number of individuals across different age categories for each municipality. The dataset supports localized demographic analysis, allowing policy makers, researchers, and planners to identify population distribution and trends within specific geographic areas and age segments.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Population",
+            "municipality",
+            "age",
+            "Distribution",
+            "qatar",
+            "Census",
+            "Statistics"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-05-07T08:55:06.278000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-municipality-and-age-groups",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-municipality-and-age-groups/exports/csv"
+        },
+        {
+          "dataset_id": "males-population-by-municipality-and-age-groups-december-2020",
+          "title": "Males Population by Municipality and Age Groups – December 2020",
+          "description": "<p>This dataset provides male population figures by municipality and age groups in Qatar for December 2020. It supports demographic analysis and planning through disaggregated data by geography and age. Historical data for previous years is also included.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "population",
+            "males",
+            "municipalities",
+            "demographics",
+            "agegroups"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-05-07T08:53:48.191000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/males-population-by-municipality-and-age-groups-december-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/males-population-by-municipality-and-age-groups-december-2020/exports/csv"
+        },
+        {
+          "dataset_id": "females-population-by-municipality-and-age-groups-december-2020",
+          "title": "Females Population by Municipality and Age Groups – December 2020",
+          "description": "<p>This dataset presents the female population distribution across Qatari municipalities, segmented by age groups for the month of December 2020. It also includes historical values for previous years. The data supports demographic research and gender-specific policy planning by providing geographically and age-disaggregated population figures.</p>",
+          "themes": [
+            "Population and Demography"
+          ],
+          "keywords": [
+            "females",
+            "population",
+            "municipality",
+            "Age Groups",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-06-02T14:57:26.603000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/females-population-by-municipality-and-age-groups-december-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/females-population-by-municipality-and-age-groups-december-2020/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-15-years-old-and-over-by-marital-status-gender-and-age-groups-qataris",
+          "title": "Registered deaths (15 years old and over) by marital status, gender and age groups qataris",
+          "description": "<p>This dataset provides annual statistics on registered deaths in Qatar for individuals aged 15 years and over, disaggregated by gender, age group, and marital status. It includes categories such as never married, married, divorced, and widowed. The data is useful for demographic analysis and understanding mortality patterns by social status.</p>",
+          "themes": [
+            "Health",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "deaths",
+            "age",
+            "gender",
+            "Marital",
+            "mortality",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1440,
+          "modified": "2025-08-18T13:47:28.220000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-15-years-old-and-over-by-marital-status-gender-and-age-groups-qataris",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-15-years-old-and-over-by-marital-status-gender-and-age-groups-qataris/exports/csv"
+        },
+        {
+          "dataset_id": "registered-deaths-by-nationality-gender-and-age",
+          "title": "Registered Deaths by Nationality, Gender, and Age",
+          "description": "<p>This dataset reports the number of registered deaths in Qatar, categorized by nationality, gender, and age group. It spans multiple years and supports analysis of mortality patterns across different demographic groups, aiding public health planning and population studies.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "deaths",
+            "mortality",
+            "gender",
+            "nationality",
+            "age"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1350,
+          "modified": "2025-05-07T08:34:15.310000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-deaths-by-nationality-gender-and-age/exports/csv"
+        },
+        {
+          "dataset_id": "labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+          "title": "Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Educational Attainment",
+          "description": "<p>This dataset provides quarterly statistics on the number of economically inactive individuals aged 15 years and above in Qatar, disaggregated by nationality, gender, and level of education. It supports labor market planning and education-related policy-making.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "labor",
+            "inactive",
+            "education",
+            "gender",
+            "nationality",
+            "qatar",
+            "quarterly"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 1148,
+          "modified": "2025-05-07T07:33:22.715000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-mother-s-age-group-and-birth-order-males",
+          "title": "Registered Live Births by Mother's Age Group and Birth Order – Males",
+          "description": "<p>This dataset presents the number of registered live births of male children in Qatar, classified by the mother’s age group and the child’s birth order. Covering multiple years, the data supports demographic studies and fertility trend analysis focused specifically on male births.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "births",
+            "males",
+            "mothers",
+            "age group",
+            "birth order"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 990,
+          "modified": "2025-05-07T08:47:29.258000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-and-birth-order-males",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-and-birth-order-males/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-duration-of-marriage-and-birth-order-qataris",
+          "title": "Registered Live Births by Duration of Marriage and Birth Order – Qataris",
+          "description": "<p>This dataset shows the number of registered live births among Qatari citizens, categorized by the duration of marriage and birth order. It supports fertility and demographic trend analysis among the Qatari population over multiple years. The data is useful for national planning related to population growth and family development.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "births",
+            "Qataris",
+            "marriage duration",
+            "birth order"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 990,
+          "modified": "2025-05-07T08:42:26.228000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-duration-of-marriage-and-birth-order-qataris",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-duration-of-marriage-and-birth-order-qataris/exports/csv"
+        },
+        {
+          "dataset_id": "marriages-by-nationality-and-place-of-wife",
+          "title": "Marriages by Nationality and Place of Wife",
+          "description": "<p>This dataset provides yearly data on marriages in Qatar, categorized by the nationality of the wife and her place of residence. It enables demographic analysis of marital patterns at the municipality level and supports research, planning, and decision-making related to population and family dynamics.</p>",
+          "themes": [
+            "Social Development",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "Wife Residence Breakdown",
+            "Female Nationality Trends",
+            "Municipality Marriage Insights",
+            "Qatar Marital Data",
+            "Annual Matrimonial Patterns"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 904,
+          "modified": "2025-06-04T12:05:06.431000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/marriages-by-nationality-and-place-of-wife",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/marriages-by-nationality-and-place-of-wife/exports/csv"
+        },
+        {
+          "dataset_id": "marriages-by-nationality-and-place-of-husband",
+          "title": "Marriages by Nationality and Place of Husband",
+          "description": "<p>The dataset presents annual statistics on marriages in Qatar, categorized by the nationality of the husband and his place of residence. It provides insights into marital trends within municipalities, enabling analysis of demographic patterns and changes over time. </p><p><br></p><p>The data supports policy development, social research, and planning related to population and family affairs.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Annual Marriage Trends",
+            "Husband Residence Data",
+            "Husband Nationality Statistics",
+            "Qatar Demographic Patterns",
+            "Municipality-Based Marriages"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 892,
+          "modified": "2025-06-04T12:03:21.314000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/marriages-by-nationality-and-place-of-husband",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/marriages-by-nationality-and-place-of-husband/exports/csv"
+        }
+      ]
+    },
+    "employment": {
+      "count": 192,
+      "datasets": [
+        {
+          "dataset_id": "employees-in-youth-institutions-by-occupation-type-of-work-nationality-and-gender",
+          "title": "Employees in Youth Institutions by Occupation, Type of Work, Nationality and Gender",
+          "description": "<p>The dataset provides statistics on employees in youth institutions, categorized by occupation, type of work, nationality, and gender. It includes details on the number of employees across different roles, distinguishing between full-time and part-time positions, and further classifying data by Qatari and non-Qatari workers, as well as male and female employees. </p><p><br></p><p>This dataset supports analysis of workforce distribution and employment trends in youth-focused organizations.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Social Development"
+          ],
+          "keywords": [
+            "Workforce Distribution",
+            "Gender Representation",
+            "Occupational Categories",
+            "Employment Trends"
+          ],
+          "publisher": "Ministry of Sports and Youth",
+          "update_frequency": "ANNUAL",
+          "records_count": 2016,
+          "modified": "2025-06-02T12:22:13.472000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-in-youth-institutions-by-occupation-type-of-work-nationality-and-gender",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-in-youth-institutions-by-occupation-type-of-work-nationality-and-gender/exports/csv"
+        },
+        {
+          "dataset_id": "registered-live-births-by-mother-s-age-group-occupation-and-nationality",
+          "title": "Registered Live Births By Mother's Age Group, Occupation and Nationality",
+          "description": "<p>This dataset provides information on registered live births categorized by the mother’s age group, occupation, and nationality. It offers insights into maternal demographics, workforce participation, and fertility trends across different age groups and professions. The data can be used for policy development, healthcare planning, and socio-economic analysis related to maternal and child health.</p>",
+          "themes": [
+            "Population and Demography",
+            "Social Development"
+          ],
+          "keywords": [
+            "Live Births",
+            "Occupation Trends",
+            "Fertility Patterns",
+            "Demographic Insights"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 1782,
+          "modified": "2025-05-07T09:04:33.137000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-occupation-and-nationality",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-mother-s-age-group-occupation-and-nationality/exports/csv"
+        },
+        {
+          "dataset_id": "labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+          "title": "Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Educational Attainment",
+          "description": "<p>This dataset provides quarterly statistics on the number of economically inactive individuals aged 15 years and above in Qatar, disaggregated by nationality, gender, and level of education. It supports labor market planning and education-related policy-making.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "labor",
+            "inactive",
+            "education",
+            "gender",
+            "nationality",
+            "qatar",
+            "quarterly"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 1148,
+          "modified": "2025-05-07T07:33:22.715000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0/exports/csv"
+        },
+        {
+          "dataset_id": "labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter",
+          "title": "Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Age Group",
+          "description": "<p>This dataset provides quarterly statistics on the number of economically inactive individuals aged 15 years and above in the State of Qatar. The data is disaggregated by nationality, gender, and age group, supporting labor market analysis and policy-making.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "labor",
+            "inactive",
+            "gender",
+            "nationality",
+            "age",
+            "qatar",
+            "quarterly"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 820,
+          "modified": "2025-05-07T07:31:55.760000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter/exports/csv"
+        },
+        {
+          "dataset_id": "main-economic-indicators-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "title": "Main Economic Indicators by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)",
+          "description": "<div ccp_infra_copy_id=\"9d32ff78-207e-448f-b89a-f50659bae7e1\" ccp_infra_timestamp=\"1746627015845\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746627015845\" style=\"font-size: medium;\"><table style=\"width: 359pt;\" width=\"478\"><colgroup><col style=\"width: 359pt;\" width=\"478\"/></colgroup><tbody><tr height=\"102\" style=\"height: 76.5pt;\"><td class=\"xl84\" height=\"102\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 359pt; height: 76.5pt;\" width=\"478\">This dataset presents updated key economic indicators for different main economic activities within the transport and communication sectors in Qatar. The data includes indicators such as average annual wage, categorized by economic activity and year, supporting sectoral analysis and development planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "economics",
+            "Wages"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 630,
+          "modified": "2025-05-22T10:39:09.888000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-4922-6190-isic-rev4/exports/csv"
+        },
+        {
+          "dataset_id": "female-population-15-years-and-above-by-relation-to-labour-force-and-age-groups",
+          "title": "Female Population (15 Years & above) by Relation to Labour Force and Age Groups",
+          "description": "<p>This dataset contains statistics on female population (15 years and above) by relation to labor Force and age groups, based on Labor Force Sample Survey.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "labor force",
+            "gender",
+            "age group",
+            "nationality",
+            "female population",
+            "male population",
+            "qatar population"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 594,
+          "modified": "2025-05-07T08:45:15.641000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/female-population-15-years-and-above-by-relation-to-labour-force-and-age-groups",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/female-population-15-years-and-above-by-relation-to-labour-force-and-age-groups/exports/csv"
+        },
+        {
+          "dataset_id": "education-statistics-number-of-teaching-staff-in-public-colleges-and-universities-by-country",
+          "title": "Teaching Staff in Public Colleges and Universities by Nationality, Title, and Gender",
+          "description": "<div ccp_infra_copy_id=\"2ba7abd1-565a-4a3e-8a24-8c474d959d84\" ccp_infra_timestamp=\"1746943961091\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746943961091\" style=\"font-size: medium;\"><table style=\"width: 284pt;\" width=\"378\"><colgroup><col style=\"width: 284pt;\" width=\"378\"/></colgroup><tbody><tr height=\"20\" style=\"height: 15pt;\"><td height=\"20\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; text-wrap-mode: nowrap; width: 284pt; height: 15pt;\" width=\"378\">This dataset presents the number of teaching staff in public colleges and universities, categorized by country, university title, and gender. It supports higher education workforce analysis and planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Education",
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "education",
+            "staff",
+            "public universities",
+            "professor",
+            "gender",
+            "country",
+            "public colleges"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 550,
+          "modified": "2025-09-15T08:35:49.293000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/education-statistics-number-of-teaching-staff-in-public-colleges-and-universities-by-country",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/education-statistics-number-of-teaching-staff-in-public-colleges-and-universities-by-country/exports/csv"
+        },
+        {
+          "dataset_id": "male-population-15-years-and-above-by-relation-to-labor-force-and-age-groups0",
+          "title": "Male Population (15 Years and Above) by Relation to Labor Force and Age Groups",
+          "description": "<p>This dataset contains statistics on the male population (15 years and above) by relation to labor force and age groups based on Labor Force Sample Survey.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "qatar population",
+            "male population",
+            "female population",
+            "nationality",
+            "age group",
+            "gender",
+            "labor force"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 495,
+          "modified": "2025-05-07T08:46:04.808000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/male-population-15-years-and-above-by-relation-to-labor-force-and-age-groups0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/male-population-15-years-and-above-by-relation-to-labor-force-and-age-groups0/exports/csv"
+        },
+        {
+          "dataset_id": "population-by-type-of-household-gender-and-place-of-residence-on-the-census-night-december-2020",
+          "title": "Population by Type of Household, Gender, and Place of Residence on the Census Night – December 2020",
+          "description": "<p>This dataset provides population data in Qatar categorized by the type of household, gender, and place of residence on the night of the census in December 2020. It includes details for multiple years, offering insights into living arrangements across public housing, households, labor camps, and other residence types.</p>",
+          "themes": [
+            "Population and Demography",
+            "Housing and Urban Development"
+          ],
+          "keywords": [
+            "census",
+            "housing type",
+            "gender",
+            "residence",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 480,
+          "modified": "2025-05-07T09:19:16.666000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-type-of-household-gender-and-place-of-residence-on-the-census-night-december-2020",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-type-of-household-gender-and-place-of-residence-on-the-census-night-december-2020/exports/csv"
+        },
+        {
+          "dataset_id": "economically-active-population-15-years-and-above-by-nationality-gender-and-age-groups",
+          "title": "Economically Active Population (15 Years and Above) by Nationality, Gender and Age Groups",
+          "description": "<p>This dataset contains statistics on economically active population (15 years and above) by nationality, gender and age groups based on labor force sample survey.</p>",
+          "themes": [
+            "Labor and Employment",
+            "Population and Demography"
+          ],
+          "keywords": [
+            "gender",
+            "age group",
+            "nationality",
+            "female population",
+            "male population",
+            "qatar population",
+            "economically active population "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "QUARTERLY",
+          "records_count": 396,
+          "modified": "2025-05-07T08:45:34.632000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/economically-active-population-15-years-and-above-by-nationality-gender-and-age-groups",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/economically-active-population-15-years-and-above-by-nationality-gender-and-age-groups/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-employees-by-sex-nationality-and-main-economic-activity-2014-2019",
+          "title": "Number of Employees by Sex, Nationality & Main Economic Activity (2014–2019)",
+          "description": "<div ccp_infra_copy_id=\"867f7d86-ef75-4177-bddf-96c739d3dfc6\" ccp_infra_timestamp=\"1746613442627\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746613442627\" style=\"font-size: medium;\"><table style=\"width: 114pt;\" width=\"152\"><colgroup><col style=\"width: 114pt;\" width=\"152\"/></colgroup><tbody><tr height=\"42\" style=\"height: 31.5pt;\"><td height=\"42\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; text-wrap-mode: nowrap; width: 114pt; height: 31.5pt; background: rgb(217, 217, 217);\" width=\"152\">This dataset presents the number of employees working in land passenger transport in Qatar, categorized by nationality and gender, measured annually.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "transport",
+            "land transport",
+            "passenger transport",
+            "employment",
+            "qatar",
+            "nationality"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 360,
+          "modified": "2025-05-22T05:37:34.791000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-by-sex-nationality-and-main-economic-activity-2014-2019",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-by-sex-nationality-and-main-economic-activity-2014-2019/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-employees-and-estimates-of-compensations-of-employees-by-nationality-and-main-economic-activity-2014-2019",
+          "title": "Number of Employees & Estimates of Compensations of Employees by Nationality & Main Economic Activity (2014-2019)",
+          "description": "<div ccp_infra_copy_id=\"4946d4df-f404-4e78-9ab9-65b4a9e3e7b3\" ccp_infra_timestamp=\"1746605700141\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746605700141\" style=\"font-size: medium;\"><table style=\"width: 114pt;\" width=\"152\"><colgroup><col style=\"width: 114pt;\" width=\"152\"/></colgroup><tbody><tr height=\"20\" style=\"height: 15pt;\"><td height=\"20\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; text-wrap-mode: nowrap; width: 114pt; height: 15pt; background: rgb(217, 217, 217);\" width=\"152\">This dataset presents the number of employees in land passenger transport in Qatar by nationality, from 2014 to 2019.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "transport",
+            "land transport",
+            "employment",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 360,
+          "modified": "2025-05-22T05:38:17.134000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-and-estimates-of-compensations-of-employees-by-nationality-and-main-economic-activity-2014-2019",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-and-estimates-of-compensations-of-employees-by-nationality-and-main-economic-activity-2014-2019/exports/csv"
+        },
+        {
+          "dataset_id": "employees-by-sex-nationality-and-main-economic-activity-transport-and-communication-statistics-less",
+          "title": "Employees by Sex, Nationality & Main Economic Activity – Transport and Communication Sector (Less than 10 Employees) (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<div ccp_infra_copy_id=\"e07738c8-d5d4-4cc6-9c86-637056bb61ea\" ccp_infra_timestamp=\"1746899336422\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746899336422\" style=\"font-size: medium;\"><table style=\"width: 257pt;\" width=\"343\"><colgroup><col style=\"width: 257pt;\" width=\"343\"/></colgroup><tbody><tr height=\"20\" style=\"height: 15pt;\"><td height=\"20\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; text-wrap-mode: nowrap; width: 257pt; height: 15pt;\" width=\"343\">This dataset presents the number of employees by sex and nationality within main economic activities of the transport and communication sectors in Qatar, specifically for enterprises with less than 10 employees. It supports labor force analysis and small enterprise sector monitoring.</td></tr></tbody></table></div>",
+          "themes": [
+            "Labor and Employment",
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "Workforce",
+            "nationality",
+            "small business"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 356,
+          "modified": "2025-05-21T13:13:25.872000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-by-sex-nationality-and-main-economic-activity-transport-and-communication-statistics-less",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-by-sex-nationality-and-main-economic-activity-transport-and-communication-statistics-less/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-establishments-and-employees-by-size-of-establishment-and-main-economic-activity-transport",
+          "title": "Number of Establishments & Employees by Size of Establishment & Main Economic Activity – Transport and Communication Sector (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<div ccp_infra_copy_id=\"043b3626-cc78-4650-979e-1fbc3bc063de\" ccp_infra_timestamp=\"1746900312063\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746900312063\" style=\"font-size: medium;\"><table style=\"width: 161pt;\" width=\"215\"><colgroup><col style=\"width: 161pt;\" width=\"215\"/></colgroup><tbody><tr height=\"20\" style=\"height: 15pt;\"><td height=\"20\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; text-wrap-mode: nowrap; width: 161pt; height: 15pt;\" width=\"215\">This dataset presents the number of establishments and employees categorized by size of establishment and main economic activity within the transport and communication sectors in Qatar. It supports enterprise structure analysis and workforce planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "communication",
+            "transport",
+            "establishments",
+            "Workforce",
+            "sector "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 356,
+          "modified": "2025-05-22T12:16:56.483000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-establishments-and-employees-by-size-of-establishment-and-main-economic-activity-transport",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-establishments-and-employees-by-size-of-establishment-and-main-economic-activity-transport/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-employees-at-disabled-centers-by-nationality-gender-and-occupation",
+          "title": "Number of Employees at Disabled Centers by Nationality, Gender, and Occupation",
+          "description": "<p><span style='color: rgb(36, 36, 36); font-family: \"Aptos Narrow\", Calibri, \"sans-serif\", \"Mongolian Baiti\", \"Microsoft Yi Baiti\", \"Javanese Text\", \"Yu Gothic\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset presents the number of employees working in disability centers in Qatar, categorized by nationality, gender, and occupation. Occupations include doctors, therapists, psychologists, and technicians. The dataset supports workforce planning and policy development in the disability sector.</span></p>",
+          "themes": [
+            "Labor and Employment"
+          ],
+          "keywords": [
+            "disability",
+            "employment",
+            "nationality",
+            "qatar",
+            "gender",
+            "occupation",
+            "Workforce"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 292,
+          "modified": "2025-05-19T17:24:45.663000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-at-disabled-centers-by-nationality-gender-and-occupation",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-at-disabled-centers-by-nationality-gender-and-occupation/exports/csv"
+        },
+        {
+          "dataset_id": "number-of-employees-by-sex-nationality-and-main-economic-activity-10-employees-and-more-activity0",
+          "title": "Number of Employees By Sex, Nationality & Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4",
+          "description": "<p>Detailed statistics on the number of employees by sex, nationality, and main economic activity within the transport and communication sectors in Qatar, specifically for establishments with 10 employees or more.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "employment",
+            "communication"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 280,
+          "modified": "2025-05-25T01:05:37.900000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-by-sex-nationality-and-main-economic-activity-10-employees-and-more-activity0",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-by-sex-nationality-and-main-economic-activity-10-employees-and-more-activity0/exports/csv"
+        },
+        {
+          "dataset_id": "main-economic-indicators-by-main-economic-activity-activity-codes-6021-6420-isic-rev3",
+          "title": "Main Economic Indicators by Main Economic Activity (Activity Codes 6021-6420, ISIC Rev.3)",
+          "description": "<div ccp_infra_copy_id=\"4bb47633-06ba-4ee5-8e2e-4b7efc6063a9\" ccp_infra_timestamp=\"1746626567148\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746626567148\" style=\"font-size: medium;\"><table style=\"width: 368pt;\" width=\"491\"><colgroup><col style=\"width: 368pt;\" width=\"491\"/></colgroup><tbody><tr height=\"102\" style=\"height: 76.5pt;\"><td class=\"xl78\" height=\"102\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 368pt; height: 76.5pt;\" width=\"491\">This dataset presents key economic indicators for different main economic activities within the transport and communication sectors in Qatar. The data includes indicators such as average annual wage and percentage of intermediate goods to output, categorized by economic activity and year, supporting sectoral analysis and development planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "economics",
+            "communication",
+            "Wages"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 272,
+          "modified": "2025-05-21T11:48:26.284000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-6021-6420-isic-rev3",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-6021-6420-isic-rev3/exports/csv"
+        },
+        {
+          "dataset_id": "hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants",
+          "title": "Estimates of Intermediate Services Value in Hotels and Restaurants by Service Type and Activity – Establishments with 10 or More Employees",
+          "description": "<p><span style='color: rgb(0, 0, 24); font-family: \"system-ui\", -apple-system, \"Helvetica Neue\", Roboto, Helvetica, sans-serif; font-size: 15px; white-space-collapse: preserve-breaks;'>This dataset presents the number of employees working in hotels and restaurants in Qatar, specifically for establishments with fewer than 10 employees. The data is broken down by gender and occupation, including proprietors, managers, technicians, and other roles. This information is essential for analyzing labor force structure in small-scale establishments within the hospitality sector.</span></p>",
+          "themes": [
+            "Trade and Industry"
+          ],
+          "keywords": [
+            "employees",
+            "gender",
+            "occupation",
+            "hotels",
+            "restaurants",
+            "labor",
+            "qatar"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 240,
+          "modified": "2025-05-21T08:01:57.334000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-estimates-of-intermediate-services-value-in-hotels-and-restaurants/exports/csv"
+        },
+        {
+          "dataset_id": "main-economic-indicators-by-main-economic-activity-activity-codes-49-61-isic-rev4",
+          "title": "Main Economic Indicators by Main Economic Activity (Activity Codes 49-61, ISIC Rev.4)",
+          "description": "<div ccp_infra_copy_id=\"218ec617-294e-4cb7-8a70-1cd5e664224b\" ccp_infra_timestamp=\"1746624631671\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746624631671\" style=\"font-size: medium;\"><table style=\"width: 300pt;\" width=\"400\"><colgroup><col style=\"width: 300pt;\" width=\"400\"/></colgroup><tbody><tr height=\"122\" style=\"height: 91.5pt;\"><td class=\"xl22\" height=\"122\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 300pt; height: 91.5pt;\" width=\"400\">This dataset presents updated key economic indicators for different main economic activities within the transport and communication sectors in Qatar. The data includes indicators such as average annual wage, categorized by economic activity and year, supporting sectoral analysis and development planning.</td></tr></tbody></table></div>",
+          "themes": [
+            "Transport and Infrastructure",
+            "Finance and Economy"
+          ],
+          "keywords": [
+            "transport",
+            "communication",
+            "Wages",
+            "sector "
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 210,
+          "modified": "2025-05-22T11:18:38.150000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-49-61-isic-rev4",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-49-61-isic-rev4/exports/csv"
+        },
+        {
+          "dataset_id": "employee-count-and-compensation-estimates-by-nationality-and-economic-activity-isic-rev4-codes-4922-6190-under-10-employees",
+          "title": "Employee Count & Compensation Estimates by Nationality & Economic Activity (ISIC Rev.4, Codes 4922-6190) - Under 10 Employees",
+          "description": "<p>Detailed statistics on employees and their estimated compensation by nationality and main economic activity in the transport and communication sector in Qatar.</p>",
+          "themes": [
+            "Transport and Infrastructure"
+          ],
+          "keywords": [
+            "employment",
+            "economic activity",
+            "communication"
+          ],
+          "publisher": "National Planning Council",
+          "update_frequency": "ANNUAL",
+          "records_count": 180,
+          "modified": "2025-05-22T11:07:47.285000+00:00",
+          "api_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employee-count-and-compensation-estimates-by-nationality-and-economic-activity-isic-rev4-codes-4922-6190-under-10-employees",
+          "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employee-count-and-compensation-estimates-by-nationality-and-economic-activity-isic-rev4-codes-4922-6190-under-10-employees/exports/csv"
+        }
+      ]
+    }
+  }
+}

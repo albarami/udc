@@ -1,0 +1,13 @@
+{
+  "dataset_id": "number-of-hotel-guests-and-nights-of-stay-by-month",
+  "title": "Monthly Hotel Occupancy",
+  "category": "hospitality",
+  "udc_business_value": "Seasonality analysis, revenue optimization",
+  "expected_records": 432,
+  "file_size_bytes": 1218,
+  "downloaded_at": "2025-10-31T16:39:42.174590",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-hotel-guests-and-nights-of-stay-by-month/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

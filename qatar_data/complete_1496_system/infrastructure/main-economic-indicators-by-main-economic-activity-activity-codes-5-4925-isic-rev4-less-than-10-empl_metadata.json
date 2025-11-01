@@ -1,0 +1,11 @@
+{
+  "dataset_id": "main-economic-indicators-by-main-economic-activity-activity-codes-5-4925-isic-rev4-less-than-10-employees",
+  "title": "Main Economic Indicators By Main Economic Activity (Activity Codes 5-4925, ISIC Rev.4) - Less than 10 Employees",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 6,
+  "file_size_bytes": 1687,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-activity-codes-5-4925-isic-rev4-less-than-10-employees/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.130741",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

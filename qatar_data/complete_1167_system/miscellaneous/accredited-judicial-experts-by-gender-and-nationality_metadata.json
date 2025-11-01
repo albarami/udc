@@ -1,0 +1,11 @@
+{
+  "dataset_id": "accredited-judicial-experts-by-gender-and-nationality",
+  "title": "Accredited Judicial Experts by Gender and Nationality",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 24,
+  "file_size_bytes": 1137,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/accredited-judicial-experts-by-gender-and-nationality/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:34.384929",
+  "completion_phase": "missing_192_to_reach_1167"
+}

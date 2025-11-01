@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-cinema-halls",
+  "title": "Number of Cinema Halls",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 4,
+  "file_size_bytes": 54,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-cinema-halls/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:42.499440",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,1286 @@
+[
+  {
+    "visibility": "domain",
+    "dataset_id": "estimates-of-value-of-intermediate-goods-by-main-economic-activity-less-than-10-employees-activity",
+    "dataset_uid": "da_d6oja4",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "The year of the data",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "date"
+      },
+      {
+        "name": "activity_code",
+        "description": "Code representing ISIC economic activity class",
+        "annotations": {},
+        "label": "Activity Code رمز النشاط",
+        "type": "double"
+      },
+      {
+        "name": "main_economic_activity",
+        "description": "Main economic activity",
+        "annotations": {},
+        "label": "Main Economic Activity",
+        "type": "text"
+      },
+      {
+        "name": "intermediate_goods",
+        "description": "Type of intermediate goods",
+        "annotations": {},
+        "label": "Intermediate Goods",
+        "type": "text"
+      },
+      {
+        "name": "estimate_of_value_qr_000",
+        "description": "Estimated value in Qatari Riyals (QR.000)",
+        "annotations": {},
+        "label": "Estimate of Value - تقديرات قيمة (QR.000)",
+        "type": "double"
+      },
+      {
+        "name": "main_economic_activity_ar",
+        "description": "النشاط الاقتصادي الرئيسي",
+        "annotations": {},
+        "label": "النشاط الاقتصادي الرئيسي",
+        "type": "text"
+      },
+      {
+        "name": "intermediate_goods_ar",
+        "description": "نوع السلع الوسيطة",
+        "annotations": {},
+        "label": "المسلتزمات السلعية",
+        "type": "text"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922 - 6190) ISIC Rev 4",
+        "description": "<p>Detailed statistics on the estimated value of intermediate goods by main economic activity within the transport and communication sectors in Qatar, specifically for establishments with less than 10 employees.</p>",
+        "theme": [
+          "Transport and Infrastructure"
+        ],
+        "keyword": [
+          "communication",
+          "intermediate goods"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-21T11:47:49.447000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-21T11:47:49.447000+00:00",
+        "metadata_processed": "2025-05-21T11:47:49.536000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "National Planning Council",
+        "references": "https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "records_count": 630,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Transport and Communications:  https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "arabic-source": "النقل والاتصالات:  https://www.npc.qa/ar/statistics/pages/subjectdetails.aspx",
+        "dataset-id": "NPC-OD-C0-00602"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "departing-vessels-gross-and-net-tonnage-by-type-of-vessel-and-month-halul-port",
+    "dataset_uid": "da_svg3tp",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "years",
+        "description": "Year of record",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Years",
+        "type": "date"
+      },
+      {
+        "name": "type_of_vessel_ar",
+        "description": "نوع السفينة (مثل ناقلة نفط، سفينة حاويات)",
+        "annotations": {},
+        "label": "نــوع السـفـيـنـة",
+        "type": "text"
+      },
+      {
+        "name": "type_of_vessel",
+        "description": "Type of vessel (e.g., oil tanker, container ship)",
+        "annotations": {},
+        "label": "Type of Vessel",
+        "type": "text"
+      },
+      {
+        "name": "month_ar",
+        "description": "شهر السجل",
+        "annotations": {},
+        "label": "الشهر",
+        "type": "text"
+      },
+      {
+        "name": "month",
+        "description": "Month of record",
+        "annotations": {},
+        "label": "Month",
+        "type": "text"
+      },
+      {
+        "name": "number_tonnage_ar",
+        "description": "نوع القياس (عدد السفن، الحمولة الإجمالية، الحمولة الصافية)",
+        "annotations": {},
+        "label": "عدد السفن أو الحمولة",
+        "type": "text"
+      },
+      {
+        "name": "number_tonnage",
+        "description": "Type of measurement (Number of vessels, Gross Tonnage, Net Tonnage)",
+        "annotations": {},
+        "label": "Number & Tonnage",
+        "type": "text"
+      },
+      {
+        "name": "value",
+        "description": "Measured value (number of vessels or tonnage)",
+        "annotations": {},
+        "label": "Value",
+        "type": "int"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Departing Vessels' Gross and Net Tonnage By Type of Vessel and Month - Halul Port",
+        "description": "<p>This dataset presents the number of departing vessels and their gross and net tonnage from Halul Port in Qatar, categorized by vessel type and month.</p>",
+        "theme": [
+          "Transport and Infrastructure"
+        ],
+        "keyword": [
+          "vessel",
+          "port",
+          "Maritime Transport"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-29T11:09:57.536000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-29T11:09:57.536000+00:00",
+        "metadata_processed": "2025-05-29T11:09:57.591000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "National Planning Council",
+        "references": "https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "records_count": 324,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "MONTHLY"
+      },
+      "custom": {
+        "english-source": "National Planning Council – https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "arabic-source": "المجلس الوطني للتخطيط – https://www.npc.qa/ar/statistics/pages/subjectdetails.aspx",
+        "dataset-id": "NPC-OD-C0-00628"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "capitals-of-joint-stock-companies-whose-shares-are-listed-to-be-traded-by-gcc-citizens-in-qatar",
+    "dataset_uid": "da_dvbf19",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "Year in which company capitalization data was recorded",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "date"
+      },
+      {
+        "name": "capitalization_million_qatari_riyals",
+        "description": "Total market capitalization of joint stock companies whose shares are listed and available for trading by GCC citizens in Qatar, measured in million Qatari Riyals",
+        "annotations": {},
+        "label": "Capitalization (Million Qatari Riyals)",
+        "type": "double"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Capitals of Joint Stock Companies Whose Shares Are Listed To Be Traded By GCC Citizens In Qatar",
+        "description": "<p>This dataset presents the total capitalization of joint stock companies in Qatar available for GCC citizen trading.</p>",
+        "theme": [
+          "Finance and Economy"
+        ],
+        "keyword": [
+          "stock",
+          "company",
+          "GCC",
+          "investment",
+          "capital"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-27T09:08:18.712000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-27T09:08:18.712000+00:00",
+        "metadata_processed": "2025-05-27T09:08:18.805000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "National Planning Council",
+        "references": "https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "records_count": 8,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "GCC Common Market Statistics - Stock trading and companies establishment – https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "arabic-source": "احصاءات السوق الخليجية المشتركة - تداول وشراء الأسهم وتأسيس الشركات – https://www.npc.qa/ar/statistics/pages/subjectdetails.aspx",
+        "dataset-id": "NPC-OD-C0-00450"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "sports-teams-by-age-groups-copy",
+    "dataset_uid": "da_i9zqg6",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "The calendar year of data collection",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "date"
+      },
+      {
+        "name": "adults",
+        "description": "Number of sports teams registered under adult age group",
+        "annotations": {},
+        "label": "Adults",
+        "type": "int"
+      },
+      {
+        "name": "youth",
+        "description": "Number of sports teams registered under youth category",
+        "annotations": {},
+        "label": "Youth",
+        "type": "int"
+      },
+      {
+        "name": "junior_u18",
+        "description": "Number of sports teams for juniors under 18 years old",
+        "annotations": {},
+        "label": "Junior U18",
+        "type": "int"
+      },
+      {
+        "name": "junior_u16",
+        "description": "Number of sports teams for juniors under 16 years old",
+        "annotations": {},
+        "label": "Junior U16",
+        "type": "int"
+      },
+      {
+        "name": "kids",
+        "description": "Number of sports teams for children (younger age groups)",
+        "annotations": {},
+        "label": "Kids",
+        "type": "int"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Sports Teams by Age Groups",
+        "description": "<div class=\"ewa-rteLine\" style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides a breakdown of the number of registered sports teams in Qatar by age group. The age groups include Adults, Youth, Junior Under-18, Junior Under-16, and Kids. Each row represents a calendar year and the number of teams registered under each age category.</div><div class=\"ewa-rteLine\" style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'><br></div><div class=\"ewa-rteLine\" style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>The dataset helps monitor participation trends among different age segments and supports strategic planning for youth sports development, resource allocation, and long-term athletic talent nurturing across the country.</div>",
+        "theme": [
+          "Culture, Sports and Tourism"
+        ],
+        "keyword": [
+          "sports",
+          "kids",
+          "youth",
+          "age group",
+          "teams"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-28T10:13:27.480000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-28T10:13:27.480000+00:00",
+        "metadata_processed": "2025-05-28T10:13:27.540000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "Ministry of Sports and Youth",
+        "references": "https://www.msy.gov.qa/en/open-data-groups/",
+        "records_count": 5,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Ministry of Sports and Youth - https://www.msy.gov.qa/en/open-data-groups/",
+        "arabic-source": "وزارة الرياضة والشباب - https://www.msy.gov.qa/en/open-data-groups/",
+        "dataset-id": "MSY-OD-C0-00097"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "manufacture-of-beverages",
+    "dataset_uid": "da_hwan46",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "The calendar year in which the data was recorded",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "date"
+      },
+      {
+        "name": "license_type",
+        "description": "The type of industrial license: Industrial Registration or Industrial License",
+        "annotations": {},
+        "label": "License Type",
+        "type": "text"
+      },
+      {
+        "name": "no_of_firms",
+        "description": "Total number of industrial firms operating under the specified license type",
+        "annotations": {},
+        "label": "No. of Firms",
+        "type": "int"
+      },
+      {
+        "name": "investment_qar_mil",
+        "description": "The value of investment in Qatari Riyals (in millions) in the beverage manufacturing sector",
+        "annotations": {},
+        "label": "Investment QAR (Mil)",
+        "type": "double"
+      },
+      {
+        "name": "no_of_labour",
+        "description": "Total number of laborers working in beverage manufacturing under the license type",
+        "annotations": {},
+        "label": "No. of Labour",
+        "type": "int"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Manufacture of Beverages",
+        "description": "<div class=\"ewa-rteLine\" style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\">This dataset presents annual statistics on the manufacture of beverages sector in the State of Qatar. It is structured by year and type of license (Industrial Registration or Industrial License), with key indicators including the number of firms, investment volume in Qatari Riyals (millions), and the number of laborers involved in the sector.</div><div class=\"ewa-rteLine\" style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\"><br></div><div class=\"ewa-rteLine\" style=\"font-family: Calibri; font-size: 14.6667px; white-space-collapse: preserve;\">The data supports insights into the industrial growth, investment trends, and employment capacity of the beverage manufacturing industry. It is valuable for economic analysis, investment planning, and industrial development monitoring.</div>",
+        "theme": [
+          "Trade and Industry",
+          "Finance and Economy",
+          "Labor and Employment"
+        ],
+        "keyword": [
+          "industry",
+          "manufacturing",
+          "beverages",
+          "license",
+          "firms",
+          "investment",
+          "labor force"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-26T16:01:51.380000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-26T16:01:51.380000+00:00",
+        "metadata_processed": "2025-05-26T16:01:51.522000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "Ministry of Commerce and Industry",
+        "references": "https://idb.moci.gov.qa/MEIDMS/Default.aspx",
+        "records_count": 14,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Industrial Portal: https://idb.moci.gov.qa/MEIDMS/Default.aspx",
+        "arabic-source": "بوابة الصناعية: https://idb.moci.gov.qa/MEIDMS/Default.aspx",
+        "dataset-id": "MOCI-OD-C0-00002"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "gcc-championships-by-sports-activity-and-age-groups-2021-2022",
+    "dataset_uid": "da_wn82py",
+    "has_records": true,
+    "features": [
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "sports_activity",
+        "description": "The type of sport or sporting activity for which championships are organized.",
+        "annotations": {},
+        "label": "Sports Activity",
+        "type": "text"
+      },
+      {
+        "name": "sports_activity_ar",
+        "description": "نوع الرياضة أو النشاط الرياضي الذي يتم تنظيم البطولات المحلية له.",
+        "annotations": {},
+        "label": "النشاط الرياضي",
+        "type": "text"
+      },
+      {
+        "name": "adults",
+        "description": "Number of GCC-level championships in the adults age group",
+        "annotations": {},
+        "label": "Adults",
+        "type": "double"
+      },
+      {
+        "name": "youth",
+        "description": "Number of GCC-level championships in the youth age group",
+        "annotations": {},
+        "label": "Youth",
+        "type": "double"
+      },
+      {
+        "name": "junior_under_18",
+        "description": "Number of GCC-level championships in the under-18 junior age group",
+        "annotations": {},
+        "label": "Junior Under 18",
+        "type": "double"
+      },
+      {
+        "name": "junior_under_16",
+        "description": "Number of GCC-level championships in the under-16 junior age group",
+        "annotations": {},
+        "label": "Junior Under 16",
+        "type": "double"
+      },
+      {
+        "name": "kids",
+        "description": "Number of GCC-level championships in the kids age group",
+        "annotations": {},
+        "label": "Kids",
+        "type": "double"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "GCC Championships by Sports Activity and Age Groups (2021-2022)",
+        "description": "<p>This dataset provides information on the participation in the GCC Championships across various sports activities, segmented by different age groups. The dataset includes activities such as football, athletics, basketball, swimming, and others, organized by age categories such as Adults, Youth, Junior Under 18, Junior Under 16, and Kids. The data is structured to highlight the participation count for each sport within each age group. This dataset supports analysis of youth and adult participation in sports, helping to track trends in the development of sports at various levels.</p>",
+        "theme": [
+          "Culture, Sports and Tourism"
+        ],
+        "keyword": [
+          "championships",
+          "GCC",
+          "federations",
+          "sports",
+          "age group",
+          "youth"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-28T10:25:50.891000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-28T10:25:50.891000+00:00",
+        "metadata_processed": "2025-05-28T10:25:50.958000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "Ministry of Sports and Youth",
+        "references": "https://www.msy.gov.qa/en/open-data-groups/",
+        "records_count": 45,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Ministry of Sports and Youth - https://www.msy.gov.qa/en/open-data-groups/",
+        "arabic-source": "وزارة الرياضة والشباب - https://www.msy.gov.qa/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9/",
+        "dataset-id": "MSY-OD-C0-00024"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "education-statistics-number-of-new-students-on-scholarships-abroad-by-field-of-study-scientific",
+    "dataset_uid": "da_st0e9w",
+    "has_records": true,
+    "features": [
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "The academic year of new student enrollment.",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "text"
+      },
+      {
+        "name": "field_of_study",
+        "description": "The academic field in which the student enrolled abroad.",
+        "annotations": {},
+        "label": "Field of Study",
+        "type": "text"
+      },
+      {
+        "name": "field_of_study_ar",
+        "description": "المجال الأكاديمي الذي التحق به الطالب في الخارج.",
+        "annotations": {},
+        "label": "مجال الدراسة",
+        "type": "text"
+      },
+      {
+        "name": "scientific_degree",
+        "description": "The level of scientific degree pursued abroad (Bachelor, Master, Doctorate, Other).",
+        "annotations": {},
+        "label": "Scientific Degree",
+        "type": "text"
+      },
+      {
+        "name": "scientific_degree_ar",
+        "description": "المستوى العلمي الذي يدرسه الطالب في الخارج (بكالوريوس، ماجستير، دكتوراه، أخرى).",
+        "annotations": {},
+        "label": "الدرجة العلمية",
+        "type": "text"
+      },
+      {
+        "name": "gender",
+        "description": "The gender of the student (Male or Female).",
+        "annotations": {},
+        "label": "Gender",
+        "type": "text"
+      },
+      {
+        "name": "gender_ar",
+        "description": "نوع الطالب (ذكر أو أنثى).",
+        "annotations": {},
+        "label": "النوع",
+        "type": "text"
+      },
+      {
+        "name": "number_of_new_students_dd",
+        "description": "The total number of new students enrolled abroad under scholarship programs.",
+        "annotations": {},
+        "label": "Number of New Students",
+        "type": "int"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Number of New Students on Scholarships Abroad by Field of Study, Scientific Degree, and Gender",
+        "description": "<div ccp_infra_copy_id=\"09b6a952-6cd3-4b1e-8a70-92f22e675a36\" ccp_infra_timestamp=\"1746950188490\" ccp_infra_user_hash=\"1835294196\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1746950188490\" style=\"font-size: medium;\"><table style=\"width: 212pt;\" width=\"283\"><colgroup><col style=\"width: 212pt;\" width=\"283\"/></colgroup><tbody><tr height=\"162\" style=\"height: 121.5pt;\"><td class=\"xl23\" height=\"162\" style=\"padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-width: initial; border-style: none; border-color: initial; width: 212pt; height: 121.5pt;\" width=\"283\">This dataset provides statistics on the number of new students who enrolled in scholarships abroad, categorized by field of study, scientific degree, and gender. It enables the analysis of academic trends and gender distribution across different fields and qualification levels.</td></tr></tbody></table></div>",
+        "theme": [
+          "Education",
+          "Social Development"
+        ],
+        "keyword": [
+          "scholarships",
+          "students abroad",
+          "new enrollment",
+          "field of study",
+          "scientific degree",
+          "gender"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-22T14:33:16.107000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-22T14:33:16.107000+00:00",
+        "metadata_processed": "2025-05-22T14:33:16.225000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "National Planning Council",
+        "references": "https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "records_count": 704,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Education Statistics - https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "arabic-source": "احصائات التعليم - https://www.npc.qa/ar/statistics/pages/subjectdetails.aspx",
+        "dataset-id": "NPC-OD-C0-00690"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "arriving-vessels-gross-and-net-tonnage-by-type-of-vessel-and-country-of-registration-al-rowais-port",
+    "dataset_uid": "da_3mdiow",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "Reference year",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "date"
+      },
+      {
+        "name": "country_of_registration",
+        "description": "Country where the vessel is registered",
+        "annotations": {},
+        "label": "Country of Registration",
+        "type": "text"
+      },
+      {
+        "name": "number_tonnage",
+        "description": "Type of measurement (e.g., No. of Vessels, Gross Tonnage, Net Tonnage)",
+        "annotations": {},
+        "label": "Number & Tonnage",
+        "type": "text"
+      },
+      {
+        "name": "others_khr",
+        "description": "Vessels categorized as \"Others\"",
+        "annotations": {},
+        "label": "Others / أخـــــرى",
+        "type": "double"
+      },
+      {
+        "name": "passengers_vessels_nqlt_rkb",
+        "description": "Passenger vessels",
+        "annotations": {},
+        "label": "Passengers Vessels / ناقلات ركاب",
+        "type": "double"
+      },
+      {
+        "name": "vehicles_vessels_nqlt_mrkbt",
+        "description": "Vehicle carrier vessels",
+        "annotations": {},
+        "label": "Vehicles Vessels / ناقلات مركبات",
+        "type": "double"
+      },
+      {
+        "name": "live_sheep_gnm_hy",
+        "description": "Vessels carrying live sheep",
+        "annotations": {},
+        "label": "Live Sheep / أغنام حية",
+        "type": "double"
+      },
+      {
+        "name": "loose_materials_mwd_sy_b",
+        "description": "Vessels transporting loose materials",
+        "annotations": {},
+        "label": "Loose Materials / مواد سائبة",
+        "type": "double"
+      },
+      {
+        "name": "containers_hwyt",
+        "description": "Container vessels",
+        "annotations": {},
+        "label": "Containers / حاويات",
+        "type": "double"
+      },
+      {
+        "name": "generals_goods_bdy_m",
+        "description": "Vessels transporting general goods",
+        "annotations": {},
+        "label": "Generals goods /  بضائع عامة",
+        "type": "double"
+      },
+      {
+        "name": "gas_tankers_nqlt_gz",
+        "description": "Gas tankers",
+        "annotations": {},
+        "label": "Gas Tankers / ناقلات غاز",
+        "type": "double"
+      },
+      {
+        "name": "oil_tankers_nqlt_nft",
+        "description": "Oil tankers",
+        "annotations": {},
+        "label": "Oil Tankers / ناقلات نفط",
+        "type": "double"
+      },
+      {
+        "name": "l_dd_wlhmwl",
+        "description": "نوع القياس",
+        "annotations": {},
+        "label": "الـعـدد والحمولة",
+        "type": "text"
+      },
+      {
+        "name": "bld_ltsjyl",
+        "description": "بلد التسجيل",
+        "annotations": {},
+        "label": "بلد التسجيل",
+        "type": "text"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Al- Rowais Port",
+        "description": "<p>This dataset presents the number, gross tonnage, and net tonnage of vessels arriving at Al-Ruwais Port in Qatar by vessel type and country of registration for the year 2023.</p>",
+        "theme": [
+          "Transport and Infrastructure"
+        ],
+        "keyword": [
+          "Maritime Transport",
+          "arriving vessels",
+          "type of vessel",
+          "vessel"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-24T21:08:00.166000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-24T21:08:00.166000+00:00",
+        "metadata_processed": "2025-05-24T21:08:13.570000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "National Planning Council",
+        "references": "https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "records_count": 339,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "National Planning Council – https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "arabic-source": "المجلس الوطني للتخطيط – https://www.npc.qa/ar/statistics/pages/subjectdetails.aspx",
+        "dataset-id": "NPC-OD-C0-00848"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "waste-and-scrap-exports-by-type-and-year",
+    "dataset_uid": "da_46zn2n",
+    "has_records": true,
+    "features": [
+      "timeserie",
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "year",
+        "description": "Calendar year of the observation",
+        "annotations": {
+          "timeserie_precision": "year"
+        },
+        "label": "Year",
+        "type": "date"
+      },
+      {
+        "name": "groups_of_goods",
+        "description": "Type/category of exported waste or scrap (e.g., plastic, rubber, scrap metal, etc.)",
+        "annotations": {},
+        "label": "Groups of Goods",
+        "type": "text"
+      },
+      {
+        "name": "lmjw_t_lsl_y",
+        "description": "نوع/فئة النفايات أو الخردة المصدّرة (مثل: البلاستيك، المطاط، المعادن الخردة، إلخ)",
+        "annotations": {},
+        "label": "المجوعات السلعية",
+        "type": "text"
+      },
+      {
+        "name": "weight_kg",
+        "description": "Exported weight of the waste or scrap material in kilograms",
+        "annotations": {},
+        "label": "Weight (KG)",
+        "type": "double"
+      },
+      {
+        "name": "value_qar",
+        "description": "Export value of the waste or scrap material in Qatari Riyals",
+        "annotations": {},
+        "label": "Value (QAR)",
+        "type": "double"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Waste and Scrap Exports by Type and Year",
+        "description": "<p>This dataset presents annual export figures for various types of waste and scrap from Qatar, including electronic waste, plastic, rubber, paper, scrap metal, and others (e.g., oil and glass waste). Each entry includes the export weight (in kilograms) and value (in Qatari Riyals). Missing values are indicated with ellipses.</p>",
+        "theme": [
+          "Energy and Environment"
+        ],
+        "keyword": [
+          "waste exports",
+          "scrap exports",
+          "Export value",
+          "waste type",
+          "environment"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-28T06:42:45.127000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-28T06:42:45.127000+00:00",
+        "metadata_processed": "2025-06-02T14:49:07.346000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "National Planning Council",
+        "references": "https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "records_count": 42,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Environment - https://www.npc.qa/en/statistics/pages/subjectdetails.aspx",
+        "arabic-source": "البيئة - https://www.npc.qa/ar/statistics/pages/subjectdetails.aspx",
+        "dataset-id": "NPC-OD-C0-00405"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  },
+  {
+    "visibility": "domain",
+    "dataset_id": "referees-training-courses-by-sports-activity-and-implementation-level-2023",
+    "dataset_uid": "da_u5vihg",
+    "has_records": true,
+    "features": [
+      "analyze"
+    ],
+    "attachments": [],
+    "alternative_exports": [],
+    "data_visible": true,
+    "fields": [
+      {
+        "name": "sports_activity",
+        "description": "Name of the sports federation or committee",
+        "annotations": {},
+        "label": "Sports Activity",
+        "type": "text"
+      },
+      {
+        "name": "sports_activity_ar",
+        "description": "اسم الاتحاد أو اللجنة الرياضية",
+        "annotations": {},
+        "label": "النشاط الرياضي",
+        "type": "text"
+      },
+      {
+        "name": "domestic",
+        "description": "Number of training courses held at the domestic level",
+        "annotations": {},
+        "label": "Domestic",
+        "type": "int"
+      },
+      {
+        "name": "gulf",
+        "description": "Number of training courses held at the Gulf level",
+        "annotations": {},
+        "label": "Gulf",
+        "type": "int"
+      },
+      {
+        "name": "arab",
+        "description": "Number of training courses held at the Arab level",
+        "annotations": {},
+        "label": "Arab",
+        "type": "boolean"
+      },
+      {
+        "name": "asian",
+        "description": "Number of training courses held at the Asian level",
+        "annotations": {},
+        "label": "Asian",
+        "type": "int"
+      },
+      {
+        "name": "international",
+        "description": "Number of training courses held at the international level",
+        "annotations": {},
+        "label": "International",
+        "type": "int"
+      },
+      {
+        "name": "total",
+        "description": "Total number of training courses across all levels",
+        "annotations": {},
+        "label": "Total",
+        "type": "int"
+      }
+    ],
+    "metas": {
+      "default": {
+        "title": "Referees’ Training Courses by Sports Activity and Implementation Level (2023)",
+        "description": "<p><span style='font-family: \"Aptos Narrow\"; font-size: 14.6667px; white-space-collapse: preserve;'>This dataset provides statistics on the number of referees’ training courses conducted in 2023, categorized by sports federation and implementation level (Domestic, Gulf, Arab, Asian, and International). The table supports insights into the scope and intensity of training programs across different sports disciplines in Qatar. This data helps in evaluating sports development efforts and referee capacity building.</span></p>",
+        "theme": [
+          "Culture, Sports and Tourism"
+        ],
+        "keyword": [
+          "sports",
+          "referees",
+          "training",
+          "federations",
+          "implementation level"
+        ],
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "language": "en",
+        "metadata_languages": [
+          "en",
+          "ar"
+        ],
+        "timezone": "Asia/Qatar",
+        "modified": "2025-05-29T07:21:36.879000+00:00",
+        "modified_updates_on_metadata_change": true,
+        "modified_updates_on_data_change": true,
+        "data_processed": "2025-05-29T07:21:36.879000+00:00",
+        "metadata_processed": "2025-05-29T07:21:36.949000+00:00",
+        "geographic_reference": [
+          "world_qa"
+        ],
+        "geographic_reference_auto": false,
+        "territory": [
+          "Qatar"
+        ],
+        "geometry_types": null,
+        "bbox": null,
+        "publisher": "Ministry of Sports and Youth",
+        "references": "https://www.msy.gov.qa/en/open-data-groups/",
+        "records_count": 43,
+        "attributions": null,
+        "source_domain": null,
+        "source_domain_title": null,
+        "source_domain_address": null,
+        "source_dataset": null,
+        "shared_catalog": null,
+        "federated": false,
+        "parent_domain": null,
+        "update_frequency": "ANNUAL"
+      },
+      "custom": {
+        "english-source": "Ministry of Sports and Youth - https://www.msy.gov.qa/en/open-data-groups/",
+        "arabic-source": "وزارة الرياضة والشباب - https://www.msy.gov.qa/ar/open-data-groups/",
+        "dataset-id": "MSY-OD-C0-00090"
+      },
+      "data-trust-index": {
+        "field-completeness-mandatory": null,
+        "critical-dataset": null,
+        "gender-column": null,
+        "non-key-fields": null,
+        "ready-for-publication": null,
+        "publisher": null
+      }
+    }
+  }
+]

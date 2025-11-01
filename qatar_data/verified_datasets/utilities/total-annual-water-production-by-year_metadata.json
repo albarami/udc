@@ -1,0 +1,13 @@
+{
+  "dataset_id": "total-annual-water-production-by-year",
+  "title": "Annual Water Production",
+  "category": "utilities",
+  "udc_business_value": "Utility capacity planning, infrastructure constraints",
+  "expected_records": 30,
+  "file_size_bytes": 159,
+  "downloaded_at": "2025-10-31T16:39:47.851577",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/total-annual-water-production-by-year/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

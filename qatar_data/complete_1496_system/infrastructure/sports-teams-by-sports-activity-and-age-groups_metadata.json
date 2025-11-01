@@ -1,0 +1,11 @@
+{
+  "dataset_id": "sports-teams-by-sports-activity-and-age-groups",
+  "title": "Sports Teams by Sports Activity and Age Groups",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 43,
+  "file_size_bytes": 4124,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/sports-teams-by-sports-activity-and-age-groups/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:12.043598",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

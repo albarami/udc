@@ -1,0 +1,12 @@
+{
+  "source": "Social Media APIs (Twitter/X, Instagram)",
+  "twitter_api": "https://developer.twitter.com/",
+  "strategic_value": "Brand sentiment, tourism trends, customer feedback",
+  "use_cases": [
+    "Brand monitoring",
+    "Tourism sentiment analysis",
+    "Customer insights"
+  ],
+  "cost": "FREE tier limited, Paid for volume",
+  "note": "X/Twitter API access significantly restricted in 2023-2024"
+}

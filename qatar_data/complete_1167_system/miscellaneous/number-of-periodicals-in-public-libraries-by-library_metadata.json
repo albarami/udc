@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-periodicals-in-public-libraries-by-library",
+  "title": "Number of Periodicals in Public Libraries by Library",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 7,
+  "file_size_bytes": 581,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-periodicals-in-public-libraries-by-library/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:34.639766",
+  "completion_phase": "missing_192_to_reach_1167"
+}

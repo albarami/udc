@@ -1,0 +1,13 @@
+{
+  "dataset_id": "arriving-vessels-gross-and-net-tonnage-by-type-of-vessel-and-country-of-registration-total",
+  "title": "Vessel Arrivals by Type and Country",
+  "category": "maritime",
+  "udc_business_value": "Marina demand analysis, maritime activity trends",
+  "expected_records": 789,
+  "file_size_bytes": 92059,
+  "downloaded_at": "2025-10-31T16:39:49.562404",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/arriving-vessels-gross-and-net-tonnage-by-type-of-vessel-and-country-of-registration-total/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

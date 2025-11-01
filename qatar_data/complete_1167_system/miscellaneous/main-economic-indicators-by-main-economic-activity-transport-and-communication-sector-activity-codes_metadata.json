@@ -1,0 +1,11 @@
+{
+  "dataset_id": "main-economic-indicators-by-main-economic-activity-transport-and-communication-sector-activity-codes-4922-5229-isic-rev4",
+  "title": "Main Economic Indicators by Main Economic Activity - Transport and Communication Sector (Activity Codes 4922-5229, ISIC Rev.4)",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 62,
+  "file_size_bytes": 10350,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/main-economic-indicators-by-main-economic-activity-transport-and-communication-sector-activity-codes-4922-5229-isic-rev4/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:46.633007",
+  "completion_phase": "missing_192_to_reach_1167"
+}

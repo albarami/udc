@@ -1,0 +1,11 @@
+{
+  "dataset_id": "registered-elderly-in-the-center-for-empowerment-and-care-of-the-elderly-ihsan-by-age-group",
+  "title": "Registered elderly in the Center for Empowerment and Care of the Elderly (Ihsan) by Age Group, Nationality and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 312,
+  "file_size_bytes": 21052,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-elderly-in-the-center-for-empowerment-and-care-of-the-elderly-ihsan-by-age-group/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:43.104915",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-enrolled-students-by-academic-program",
+  "title": "Number of Enrolled Students by Academic Program",
+  "category": "miscellaneous",
+  "publisher": "Doha Institute for Graduate Studies",
+  "actual_records": 28,
+  "file_size_bytes": 2003,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-enrolled-students-by-academic-program/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:36.837435",
+  "completion_phase": "missing_192_to_reach_1167"
+}

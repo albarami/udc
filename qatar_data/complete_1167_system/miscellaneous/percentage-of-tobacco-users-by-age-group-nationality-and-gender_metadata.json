@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-tobacco-users-by-age-group-nationality-and-gender",
+  "title": "Percentage of Tobacco Users By Age Group, Nationality, And Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 18,
+  "file_size_bytes": 741,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-tobacco-users-by-age-group-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.993952",
+  "completion_phase": "missing_192_to_reach_1167"
+}

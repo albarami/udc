@@ -1,0 +1,42 @@
+{
+  "region": "GCC",
+  "countries": [
+    {
+      "country_code": "SAU",
+      "country_name": "Saudi Arabia",
+      "gdp_growth_latest": 3.3,
+      "inflation_latest": null
+    },
+    {
+      "country_code": "ARE",
+      "country_name": "United Arab Emirates",
+      "gdp_growth_latest": 3.9,
+      "inflation_latest": null
+    },
+    {
+      "country_code": "KWT",
+      "country_name": "Kuwait",
+      "gdp_growth_latest": 2.3,
+      "inflation_latest": null
+    },
+    {
+      "country_code": "BHR",
+      "country_name": "Bahrain",
+      "gdp_growth_latest": 3.2,
+      "inflation_latest": null
+    },
+    {
+      "country_code": "OMN",
+      "country_name": "Oman",
+      "gdp_growth_latest": 3.6,
+      "inflation_latest": null
+    },
+    {
+      "country_code": "QAT",
+      "country_name": "Qatar",
+      "gdp_growth_latest": 3.4,
+      "inflation_latest": null
+    }
+  ],
+  "source": "IMF World Economic Outlook"
+}

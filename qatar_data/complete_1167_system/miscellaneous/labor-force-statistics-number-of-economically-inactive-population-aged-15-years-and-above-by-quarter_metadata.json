@@ -1,0 +1,11 @@
+{
+  "dataset_id": "labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0",
+  "title": "Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Educational Attainment",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 1148,
+  "file_size_bytes": 130281,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/labor-force-statistics-number-of-economically-inactive-population-aged-15-years-and-above-by-quarter0/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:48.673349",
+  "completion_phase": "missing_192_to_reach_1167"
+}

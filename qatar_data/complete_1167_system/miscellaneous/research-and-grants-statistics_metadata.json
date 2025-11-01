@@ -1,0 +1,11 @@
+{
+  "dataset_id": "research-and-grants-statistics",
+  "title": "Research and Grants Statistics",
+  "category": "miscellaneous",
+  "publisher": "Doha Institute for Graduate Studies",
+  "actual_records": 8,
+  "file_size_bytes": 1387,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/research-and-grants-statistics/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:34.646032",
+  "completion_phase": "missing_192_to_reach_1167"
+}

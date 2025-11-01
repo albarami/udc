@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-smokers-by-dependency-and-gender",
+  "title": "Percentage of Smokers By Dependency and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 3,
+  "file_size_bytes": 286,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-smokers-by-dependency-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.573651",
+  "completion_phase": "missing_192_to_reach_1167"
+}

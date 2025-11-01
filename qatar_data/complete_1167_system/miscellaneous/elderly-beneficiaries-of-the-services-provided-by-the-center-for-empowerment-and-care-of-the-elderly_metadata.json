@@ -1,0 +1,11 @@
+{
+  "dataset_id": "elderly-beneficiaries-of-the-services-provided-by-the-center-for-empowerment-and-care-of-the-elderly-ihsan-by-type-of-service-nationality-and-gender",
+  "title": "Elderly Beneficiaries of the Services Provided by the Center for Empowerment and Care of the Elderly (Ihsan) by Type of Service, Nationality, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 15,
+  "file_size_bytes": 2684,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/elderly-beneficiaries-of-the-services-provided-by-the-center-for-empowerment-and-care-of-the-elderly-ihsan-by-type-of-service-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:49.507988",
+  "completion_phase": "missing_192_to_reach_1167"
+}

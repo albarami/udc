@@ -1,0 +1,11 @@
+{
+  "dataset_id": "hotels-and-restaurants-statistics-value-of-intermediate-goods-and-services-in-hotels-and-restaurants0",
+  "title": "Value of Intermediate Goods and Services in Hotels and Restaurants by Type and Activity - Establishments with less than 10 Employees",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 40,
+  "file_size_bytes": 5798,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-value-of-intermediate-goods-and-services-in-hotels-and-restaurants0/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:49.107143",
+  "completion_phase": "missing_192_to_reach_1167"
+}

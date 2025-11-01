@@ -1,0 +1,41 @@
+{
+  "source": "OpenStreetMap (OSM)",
+  "website": "https://www.openstreetmap.org/",
+  "api": "https://www.openstreetmap.org/api",
+  "overpass_api": "https://overpass-api.de/api/interpreter",
+  "qatar_coverage": {
+    "buildings": "Complete building footprints for Doha and major cities",
+    "pois": "Points of interest (hotels, restaurants, attractions)",
+    "infrastructure": "Roads, utilities, public transport",
+    "land_use": "Zoning, parks, commercial areas"
+  },
+  "strategic_value": "Infrastructure mapping, competitor locations, development areas",
+  "use_cases": [
+    "Hotel site selection analysis",
+    "Competitor property mapping",
+    "Catchment area analysis",
+    "Infrastructure proximity assessment",
+    "Development opportunity identification"
+  ],
+  "sample_queries": {
+    "hotels_in_doha": {
+      "query": "[out:json];(node[\"tourism\"=\"hotel\"](25.1,51.3,25.5,51.7););out;",
+      "description": "Get all hotels in Doha area"
+    },
+    "construction_sites": {
+      "query": "[out:json];(way[\"construction\"](25.1,51.3,25.5,51.7););out geom;",
+      "description": "Active construction sites in Doha"
+    },
+    "commercial_buildings": {
+      "query": "[out:json];(way[\"building\"=\"commercial\"](25.1,51.3,25.5,51.7););out geom;",
+      "description": "Commercial buildings in Doha"
+    }
+  },
+  "integration_tools": [
+    "Python: osmnx library for network analysis",
+    "Python: overpy library for Overpass API queries",
+    "QGIS: Direct OSM import for GIS analysis"
+  ],
+  "cost": "FREE",
+  "update_frequency": "Real-time (community-updated)"
+}

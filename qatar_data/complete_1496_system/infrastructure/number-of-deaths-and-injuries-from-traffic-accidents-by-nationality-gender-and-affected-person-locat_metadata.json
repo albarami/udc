@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-and-injuries-from-traffic-accidents-by-nationality-gender-and-affected-person-location",
+  "title": "Number of Deaths and Injuries from Traffic Accidents by Nationality, Gender, and Affected Person Location",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 180,
+  "file_size_bytes": 16764,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-and-injuries-from-traffic-accidents-by-nationality-gender-and-affected-person-location/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:14.633845",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

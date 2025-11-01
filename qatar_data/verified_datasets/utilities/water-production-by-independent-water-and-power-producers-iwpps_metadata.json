@@ -1,0 +1,13 @@
+{
+  "dataset_id": "water-production-by-independent-water-and-power-producers-iwpps",
+  "title": "IWPP Water Production",
+  "category": "utilities",
+  "udc_business_value": "Qatar Cool demand forecasting, capacity analysis",
+  "expected_records": 576,
+  "file_size_bytes": 295,
+  "downloaded_at": "2025-10-31T16:39:48.506249",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/water-production-by-independent-water-and-power-producers-iwpps/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

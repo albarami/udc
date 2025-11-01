@@ -1,0 +1,11 @@
+{
+  "dataset_id": "coaches-training-courses-by-implementation-level",
+  "title": "Coaches’ Training Courses by Implementation Level",
+  "category": "miscellaneous",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 258,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/coaches-training-courses-by-implementation-level/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:41.698908",
+  "completion_phase": "missing_192_to_reach_1167"
+}

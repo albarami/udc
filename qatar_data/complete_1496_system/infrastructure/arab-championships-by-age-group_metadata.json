@@ -1,0 +1,11 @@
+{
+  "dataset_id": "arab-championships-by-age-group",
+  "title": "Arab Championships by Age Group",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 267,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/arab-championships-by-age-group/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:15.872781",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

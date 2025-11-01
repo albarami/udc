@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-tobacco-users-by-type-of-user-and-gender",
+  "title": "Percentage of Tobacco Users By Type of User, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 11,
+  "file_size_bytes": 657,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-tobacco-users-by-type-of-user-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:39.288005",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "corruption-perceptions-index-cpi",
+  "title": "Corruption Perceptions Index (CPI)",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 9,
+  "file_size_bytes": 146,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/corruption-perceptions-index-cpi/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:45.229730",
+  "completion_phase": "missing_192_to_reach_1167"
+}

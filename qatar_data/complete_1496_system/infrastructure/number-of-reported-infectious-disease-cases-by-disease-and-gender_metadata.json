@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-reported-infectious-disease-cases-by-disease-and-gender",
+  "title": "Number of Reported Infectious Disease Cases by Disease and Gender",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 234,
+  "file_size_bytes": 15162,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-reported-infectious-disease-cases-by-disease-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:14.027645",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

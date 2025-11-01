@@ -1,0 +1,11 @@
+{
+  "dataset_id": "sports-facilities-of-qatar-olympic-committee-by-type",
+  "title": "Sports facilities of Qatar Olympic Committee by type",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 10,
+  "file_size_bytes": 348,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/sports-facilities-of-qatar-olympic-committee-by-type/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:08.393615",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

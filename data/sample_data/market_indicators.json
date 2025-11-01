@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "source": "PSA Qatar, Market Research, UDC Analysis",
+    "last_updated": "2024-10-31",
+    "note": "Combines actual Qatar statistics with estimated UDC-specific metrics"
+  },
+  "qatar_macroeconomic": {
+    "2023": {
+      "gdp_billion_qar": 710,
+      "gdp_growth_percent": 1.2,
+      "inflation_percent": 3.2,
+      "population": 2950000,
+      "unemployment_percent": 0.1
+    },
+    "2024_forecast": {
+      "gdp_billion_qar": 726,
+      "gdp_growth_percent": 2.3,
+      "inflation_percent": 2.8,
+      "population": 2900000,
+      "note": "Post-World Cup normalization"
+    }
+  },
+  "real_estate_market_qatar": {
+    "residential": {
+      "total_units": 280000,
+      "average_occupancy_percent": 82,
+      "average_rental_yield_percent": 5.2,
+      "price_trend_yoy_percent": -2.3,
+      "sales_volume_units_annual": 12000,
+      "note": "Slight oversupply post-World Cup"
+    },
+    "premium_segment": {
+      "defined_as": "Properties >QAR 15,000/sqm",
+      "total_supply_units": 35000,
+      "occupancy_percent": 78,
+      "key_locations": ["Pearl Island", "West Bay", "Lusail", "Al Dafna"],
+      "target_demographics": "High-income expats, Qataris, investors"
+    }
+  },
+  "pearl_island_market_position": {
+    "competitive_analysis": {
+      "pearl_avg_price_qar_per_sqm": 17200,
+      "pearl_rental_yield_percent": 4.5,
+      "pearl_occupancy_percent": 75,
+      "strengths": [
+        "Established community (10+ years)",
+        "Freehold ownership",
+        "Marina lifestyle",
+        "Retail and dining amenities"
+      ],
+      "weaknesses": [
+        "Aging infrastructure in older precincts",
+        "Lusail price competition",
+        "Some areas oversupplied"
+      ]
+    },
+    "price_comparison": {
+      "pearl_island": 17200,
+      "lusail_city": 16500,
+      "west_bay": 18500,
+      "al_dafna": 15800,
+      "msheireb": 19000,
+      "note": "QAR per sqm, average"
+    }
+  },
+  "lusail_competitive_threat": {
+    "overview": {
+      "total_planned_units": 40000,
+      "completed_units_2024": 15000,
+      "under_construction_2024": 8000,
+      "pipeline_2025_2026": 12000,
+      "occupancy_current_percent": 65,
+      "occupancy_trend": "Improving but oversupplied"
+    },
+    "pricing_strategy": {
+      "avg_price_qar_per_sqm": 16500,
+      "discount_vs_pearl_percent": -4,
+      "discount_vs_gewan_percent": -15,
+      "rental_yield_percent": 4.8,
+      "strategy": "Aggressive pricing to drive absorption"
+    },
+    "key_advantages": {
+      "metro_access": "Connected to Doha Metro Red Line",
+      "smart_city": "Integrated technology, fiber optic",
+      "newer_stock": "Modern designs and amenities",
+      "master_plan": "Comprehensive urban planning"
+    },
+    "key_disadvantages": {
+      "oversupply": "8,000+ units coming in next 18 months",
+      "community_maturity": "Still developing, less established",
+      "construction_disruption": "Ongoing work impacts livability",
+      "price_pressure": "May need further discounts"
+    },
+    "threat_level": "HIGH - direct competition for Gewan target market"
+  },
+  "gewan_market_analysis": {
+    "target_market_size": {
+      "high_income_expats": 15000,
+      "affluent_qataris": 8000,
+      "international_investors": 5000,
+      "total_addressable_market": 28000,
+      "annual_purchasing_capacity_units": 800
+    },
+    "competitive_set": {
+      "direct_competitors": [
+        {
+          "project": "Lusail Marina District",
+          "units": 3000,
+          "price_qar_per_sqm": 17000,
+          "status": "Under construction",
+          "completion": "2025-2026"
+        },
+        {
+          "project": "West Bay Residences",
+          "units": 1200,
+          "price_qar_per_sqm": 20000,
+          "status": "Selling",
+          "absorption_rate": "Slow"
+        },
+        {
+          "project": "Al Dafna Waterfront",
+          "units": 800,
+          "price_qar_per_sqm": 18500,
+          "status": "60% sold",
+          "note": "Strong performance"
+        }
+      ]
+    },
+    "market_absorption_forecast": {
+      "optimistic": {
+        "annual_sales_gewan": 250,
+        "timeframe_years": 3.2,
+        "assumptions": "Strong marketing, price adjustment to QAR 18,000/sqm"
+      },
+      "base_case": {
+        "annual_sales_gewan": 180,
+        "timeframe_years": 4.4,
+        "assumptions": "Current pricing, moderate marketing"
+      },
+      "pessimistic": {
+        "annual_sales_gewan": 120,
+        "timeframe_years": 6.7,
+        "assumptions": "Lusail oversupply persists, price competition intensifies"
+      }
+    },
+    "recommended_strategy": {
+      "pricing": "Reduce to QAR 18,000-18,500/sqm (5% discount)",
+      "marketing": "Emphasize island exclusivity + sustainability",
+      "financing": "Attractive payment plans (3-year post-handover)",
+      "timing": "Accelerate completion to Q1 2025 if possible",
+      "phase_2": "Conditional on Phase 1 achieving 40%+ pre-sales"
+    }
+  },
+  "tourism_hospitality": {
+    "qatar_tourism_2024": {
+      "annual_visitors": 4200000,
+      "hotel_rooms_total": 35000,
+      "occupancy_percent": 68,
+      "adr_qar": 850,
+      "revpar_qar": 578,
+      "trend": "Stabilizing post-World Cup"
+    },
+    "pearl_island_hospitality": {
+      "hotels_total": 5,
+      "rooms_total": 800,
+      "estimated_occupancy_percent": 70,
+      "f_and_b_outlets": 45,
+      "marina_berths": 800,
+      "marina_occupancy_percent": 85
+    }
+  },
+  "demographic_trends": {
+    "qatar_population_forecast": {
+      "2024": 2900000,
+      "2025": 2920000,
+      "2030": 3100000,
+      "growth_rate_percent_annual": 0.7
+    },
+    "expat_composition": {
+      "indian": 24,
+      "nepali": 13,
+      "bangladeshi": 12,
+      "egyptian": 10,
+      "filipino": 9,
+      "western_expats": 6,
+      "other": 26,
+      "note": "Percentages of expat population"
+    },
+    "income_distribution": {
+      "high_income_15k_plus_monthly": 180000,
+      "mid_high_10_15k": 350000,
+      "mid_income_5_10k": 800000,
+      "lower_income_below_5k": 1200000,
+      "target_for_gewan": "High + Mid-High = 530,000 individuals"
+    }
+  },
+  "regulatory_environment": {
+    "freehold_areas": [
+      "The Pearl-Qatar",
+      "West Bay Lagoon (including Gewan)",
+      "Al Khor Resort",
+      "Lusail City (selected zones)"
+    ],
+    "foreign_ownership": "100% freehold in designated zones",
+    "mortgage_availability": "Up to 70% LTV for expats, 80% for Qataris",
+    "property_taxes": "None (as of 2024)",
+    "rental_laws": "Qatar Rental Law 2020 - tenant protections"
+  },
+  "sustainability_esg_trends": {
+    "qatar_national_vision_2030": {
+      "environmental_pillar": "25% emissions reduction by 2030",
+      "green_buildings_target": "All new buildings GSAS certified by 2025",
+      "renewable_energy_target": "20% of electricity by 2030"
+    },
+    "market_demand_sustainability": {
+      "buyer_preference_green_buildings_percent": 65,
+      "willingness_to_pay_premium_percent": 3,
+      "esg_investor_interest": "Growing, especially international buyers"
+    },
+    "gewan_opportunity": {
+      "gsas_4_5_star_target": "Differentiator vs competitors",
+      "solar_integration": "Cost savings + marketing value",
+      "district_cooling": "Energy efficient vs traditional AC",
+      "ev_infrastructure": "Future-proofing + young buyer appeal"
+    }
+  },
+  "market_sentiment_indicators": {
+    "consumer_confidence_index": 72,
+    "real_estate_sentiment": "Cautious optimism",
+    "investment_appetite": "Moderate - prefer proven locations",
+    "key_buyer_concerns": [
+      "Oversupply in luxury segment",
+      "Economic diversification progress",
+      "Long-term residency policies",
+      "Resale liquidity"
+    ],
+    "key_buyer_motivators": [
+      "Freehold ownership",
+      "Lifestyle amenities",
+      "Rental income potential",
+      "Long-term Qatar commitment"
+    ]
+  }
+}
+

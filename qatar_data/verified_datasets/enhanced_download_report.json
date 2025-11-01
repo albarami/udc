@@ -1,0 +1,172 @@
+{
+  "successful": [
+    {
+      "dataset_id": "buildings-by-buildings-status-and-municipality-in-census-2010-20200",
+      "category": "real_estate",
+      "title": "Buildings by Status and Municipality (2010-2020)",
+      "records": 24
+    },
+    {
+      "dataset_id": "housing-units-by-type-of-units-and-municipality-in-census-2010-2020",
+      "category": "real_estate",
+      "title": "Housing Units by Type and Municipality",
+      "records": 200
+    },
+    {
+      "dataset_id": "number-of-housing-units-by-occupancy-status-in-2010-and-2015-censuses",
+      "category": "real_estate",
+      "title": "Housing Units by Occupancy Status",
+      "records": 2
+    },
+    {
+      "dataset_id": "completed-buildings-residential-and-residentialcommercial-by-municipality-in-2015-census",
+      "category": "real_estate",
+      "title": "Completed Residential Buildings by Municipality",
+      "records": 14
+    },
+    {
+      "dataset_id": "number-of-hotel-guests-and-nights-of-stay-by-nationality",
+      "category": "hospitality",
+      "title": "Hotel Guests by Nationality",
+      "records": 9648
+    },
+    {
+      "dataset_id": "hotels-and-restaurants-statistics-number-of-employees-and-compensation-by-nationality-and-economic",
+      "category": "hospitality",
+      "title": "Hotel/Restaurant Employment & Compensation",
+      "records": 162
+    },
+    {
+      "dataset_id": "number-of-hotels-rooms-and-beds-by-hotel-type",
+      "category": "hospitality",
+      "title": "Hotel Inventory by Type",
+      "records": 162
+    },
+    {
+      "dataset_id": "number-of-hotel-guests-and-nights-of-stay-by-month",
+      "category": "hospitality",
+      "title": "Monthly Hotel Occupancy",
+      "records": 432
+    },
+    {
+      "dataset_id": "gdp-by-activity-at-current-prices-2019-2023",
+      "category": "economy",
+      "title": "GDP by Economic Activity (2019-2023)",
+      "records": 220
+    },
+    {
+      "dataset_id": "quarterly-gdp-by-activity-at-current-prices-2023-q4",
+      "category": "economy",
+      "title": "Quarterly GDP Data Q4 2023",
+      "records": 88
+    },
+    {
+      "dataset_id": "main-economic-indicators-by-main-economic-activity-10-employees-and-more-activity-codes-49-61-isic",
+      "category": "economy",
+      "title": "Main Economic Indicators by Activity",
+      "records": 3388
+    },
+    {
+      "dataset_id": "population-by-municipality-and-age-groups",
+      "category": "demographics",
+      "title": "Population by Municipality and Age",
+      "records": 1440
+    },
+    {
+      "dataset_id": "increase-in-number-of-households-and-their-members-during-the-years-of-census-1986-2015",
+      "category": "demographics",
+      "title": "Household Growth (1986-2015)",
+      "records": 3
+    },
+    {
+      "dataset_id": "registered-live-births-by-father-s-age-group-nationality-and-occupation",
+      "category": "demographics",
+      "title": "Birth Statistics by Father Profile",
+      "records": 1782
+    },
+    {
+      "dataset_id": "total-annual-water-production-by-year",
+      "category": "utilities",
+      "title": "Annual Water Production",
+      "records": 30
+    },
+    {
+      "dataset_id": "water-production-by-independent-water-and-power-producers-iwpps",
+      "category": "utilities",
+      "title": "IWPP Water Production",
+      "records": 576
+    },
+    {
+      "dataset_id": "arriving-vessels-gross-and-net-tonnage-by-type-of-vessel-and-country-of-registration-total",
+      "category": "maritime",
+      "title": "Vessel Arrivals by Type and Country",
+      "records": 789
+    }
+  ],
+  "failed": [
+    "employed-population-by-economic-activity-and-nationality-in-2020-census",
+    "average-wages-and-salaries-by-economic-activity-at-national-level"
+  ],
+  "by_category": {
+    "real_estate": {
+      "successful": 4,
+      "failed": 0,
+      "datasets": [
+        "buildings-by-buildings-status-and-municipality-in-census-2010-20200",
+        "housing-units-by-type-of-units-and-municipality-in-census-2010-2020",
+        "number-of-housing-units-by-occupancy-status-in-2010-and-2015-censuses",
+        "completed-buildings-residential-and-residentialcommercial-by-municipality-in-2015-census"
+      ]
+    },
+    "hospitality": {
+      "successful": 4,
+      "failed": 0,
+      "datasets": [
+        "number-of-hotel-guests-and-nights-of-stay-by-nationality",
+        "hotels-and-restaurants-statistics-number-of-employees-and-compensation-by-nationality-and-economic",
+        "number-of-hotels-rooms-and-beds-by-hotel-type",
+        "number-of-hotel-guests-and-nights-of-stay-by-month"
+      ]
+    },
+    "economy": {
+      "successful": 3,
+      "failed": 0,
+      "datasets": [
+        "gdp-by-activity-at-current-prices-2019-2023",
+        "quarterly-gdp-by-activity-at-current-prices-2023-q4",
+        "main-economic-indicators-by-main-economic-activity-10-employees-and-more-activity-codes-49-61-isic"
+      ]
+    },
+    "demographics": {
+      "successful": 3,
+      "failed": 0,
+      "datasets": [
+        "population-by-municipality-and-age-groups",
+        "increase-in-number-of-households-and-their-members-during-the-years-of-census-1986-2015",
+        "registered-live-births-by-father-s-age-group-nationality-and-occupation"
+      ]
+    },
+    "utilities": {
+      "successful": 2,
+      "failed": 0,
+      "datasets": [
+        "total-annual-water-production-by-year",
+        "water-production-by-independent-water-and-power-producers-iwpps"
+      ]
+    },
+    "maritime": {
+      "successful": 1,
+      "failed": 0,
+      "datasets": [
+        "arriving-vessels-gross-and-net-tonnage-by-type-of-vessel-and-country-of-registration-total"
+      ]
+    },
+    "employment": {
+      "successful": 0,
+      "failed": 2,
+      "datasets": []
+    }
+  },
+  "total_records": 18960,
+  "download_time": "2025-10-31T16:39:35.482645"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "distribution-of-business-establishments-and-employees-by-municipalities-according-to-census-2015",
+  "title": "Distribution of Business Establishments and Employees by Municipalities According to Census 2015",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 8,
+  "file_size_bytes": 654049,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/distribution-of-business-establishments-and-employees-by-municipalities-according-to-census-2015/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:05.147515",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

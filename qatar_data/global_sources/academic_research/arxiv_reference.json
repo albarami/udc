@@ -1,0 +1,51 @@
+{
+  "source": "arXiv.org + Semantic Scholar",
+  "website": "https://arxiv.org/",
+  "api": "https://arxiv.org/help/api/",
+  "semantic_scholar_api": "https://api.semanticscholar.org/graph/v1",
+  "semantic_scholar_api_key": "SAYzpCnxTxgayxysRRQM1wwrE7NslFn9uPKT2xy4",
+  "semantic_scholar_rate_limit": "1 request per second",
+  "strategic_value": "Latest research on real estate, tourism, urban development",
+  "research_categories": {
+    "economics": "econ.* - Economics papers",
+    "statistics": "stat.* - Statistical methods",
+    "computer_science": "cs.CY - Computers and Society",
+    "quantitative_finance": "q-fin.* - Quantitative finance"
+  },
+  "qatar_relevant_topics": [
+    "urban development",
+    "real estate economics",
+    "tourism forecasting",
+    "smart cities",
+    "construction technology",
+    "hospitality management",
+    "sustainable development qatar",
+    "gcc economic development"
+  ],
+  "use_cases": [
+    "Strategic insights from latest research",
+    "Best practices in real estate development",
+    "Tourism forecasting methodologies",
+    "Urban planning innovations",
+    "Construction technology trends",
+    "Sustainability frameworks"
+  ],
+  "api_usage": {
+    "search_query": "http://export.arxiv.org/api/query?search_query={query}&start=0&max_results=10",
+    "example": "search_query=all:real+estate+development&sortBy=submittedDate&sortOrder=descending",
+    "fields": [
+      "title",
+      "authors",
+      "summary",
+      "published",
+      "pdf_url"
+    ]
+  },
+  "python_integration": {
+    "library": "pip install arxiv",
+    "sample_code": "import arxiv\nsearch = arxiv.Search(query='real estate development', max_results=10, sort_by=arxiv.SortCriterion.SubmittedDate)\nfor result in search.results(): print(result.title)"
+  },
+  "cost": "FREE",
+  "rate_limits": "No strict limits, reasonable usage expected",
+  "update_frequency": "Daily (new papers added continuously)"
+}

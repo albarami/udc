@@ -1,0 +1,11 @@
+{
+  "dataset_id": "activities-rendered-by-the-family-consulting-center-and-number-of-beneficiaries",
+  "title": "Activities, rendered by the Family Consulting Center and number of beneficiaries",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 24,
+  "file_size_bytes": 3536,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/activities-rendered-by-the-family-consulting-center-and-number-of-beneficiaries/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:03.977366",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

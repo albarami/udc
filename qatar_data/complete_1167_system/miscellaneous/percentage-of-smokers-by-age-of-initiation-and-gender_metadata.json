@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-smokers-by-age-of-initiation-and-gender",
+  "title": "Percentage of Smokers By Age of Initiation, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 2,
+  "file_size_bytes": 209,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-smokers-by-age-of-initiation-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:41.914478",
+  "completion_phase": "missing_192_to_reach_1167"
+}

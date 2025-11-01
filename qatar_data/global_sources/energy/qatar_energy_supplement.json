@@ -1,0 +1,13 @@
+{
+  "source": "Qatar Energy Statistics (Supplemental)",
+  "note": "Qatar-specific energy data from Qatar Open Data Portal",
+  "datasets_available": [
+    "Electricity generation by source",
+    "Water and electricity consumption by sector",
+    "District cooling plant operations",
+    "Energy intensity indicators",
+    "Renewable energy capacity"
+  ],
+  "integration": "Already included in Qatar Open Data Portal (1,149 datasets)",
+  "recommendation": "Cross-reference with IEA/EIA for international benchmarking"
+}

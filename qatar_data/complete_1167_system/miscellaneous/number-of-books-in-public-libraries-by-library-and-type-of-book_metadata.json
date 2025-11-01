@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-books-in-public-libraries-by-library-and-type-of-book",
+  "title": "Number of Books in Public Libraries by Library and Type of Book",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 7,
+  "file_size_bytes": 1184,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-books-in-public-libraries-by-library-and-type-of-book/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.413088",
+  "completion_phase": "missing_192_to_reach_1167"
+}

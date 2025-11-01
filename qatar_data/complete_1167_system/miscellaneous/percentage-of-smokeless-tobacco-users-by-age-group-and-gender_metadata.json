@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-smokeless-tobacco-users-by-age-group-and-gender",
+  "title": "Percentage of Smokeless Tobacco Users By Age Group, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 18,
+  "file_size_bytes": 679,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-smokeless-tobacco-users-by-age-group-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:42.739080",
+  "completion_phase": "missing_192_to_reach_1167"
+}

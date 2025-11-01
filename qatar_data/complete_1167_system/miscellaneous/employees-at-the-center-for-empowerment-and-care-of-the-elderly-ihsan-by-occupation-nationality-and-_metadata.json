@@ -1,0 +1,11 @@
+{
+  "dataset_id": "employees-at-the-center-for-empowerment-and-care-of-the-elderly-ihsan-by-occupation-nationality-and-gender",
+  "title": "Employees at the Center for Empowerment and Care of the Elderly (Ihsan) by Occupation, Nationality and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 50,
+  "file_size_bytes": 3062,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-at-the-center-for-empowerment-and-care-of-the-elderly-ihsan-by-occupation-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:47.235439",
+  "completion_phase": "missing_192_to_reach_1167"
+}

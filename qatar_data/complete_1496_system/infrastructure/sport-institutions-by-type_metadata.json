@@ -1,0 +1,11 @@
+{
+  "dataset_id": "sport-institutions-by-type",
+  "title": "Sport Institutions by Type",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 72,
+  "file_size_bytes": 10173,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/sport-institutions-by-type/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:13.462088",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

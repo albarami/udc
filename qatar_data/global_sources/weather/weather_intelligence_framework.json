@@ -1,0 +1,37 @@
+{
+  "source": "OpenWeatherMap API",
+  "location": "Doha, Qatar",
+  "coordinates": {
+    "lat": 25.2854,
+    "lon": 51.531
+  },
+  "strategic_applications": [
+    "Construction planning - optimal working conditions",
+    "Tourism seasonality - visitor comfort analysis",
+    "Project scheduling - weather risk assessment",
+    "Outdoor event planning - precipitation forecasting"
+  ],
+  "key_metrics": {
+    "construction_optimal_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "tourism_peak_weather": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "extreme_heat_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "humidity_considerations": "High humidity May-October affects construction productivity"
+  },
+  "integration_date": "2025-10-31T16:50:43.476770",
+  "update_frequency": "Daily forecasts, Historical data on-demand"
+}

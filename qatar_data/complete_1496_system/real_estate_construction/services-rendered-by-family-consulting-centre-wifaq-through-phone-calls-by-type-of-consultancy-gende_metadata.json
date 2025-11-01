@@ -1,0 +1,11 @@
+{
+  "dataset_id": "services-rendered-by-family-consulting-centre-wifaq-through-phone-calls-by-type-of-consultancy-gender-and-nationality",
+  "title": "Services Rendered by Family Consulting Centre (Wifaq) through Phone Calls by Type of Consultancy, Gender and Nationality",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 15,
+  "file_size_bytes": 1043,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/services-rendered-by-family-consulting-centre-wifaq-through-phone-calls-by-type-of-consultancy-gender-and-nationality/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:04.949805",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

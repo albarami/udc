@@ -1,0 +1,11 @@
+{
+  "dataset_id": "employees-and-compensation-in-district-cooling-and-environmental-activities-by-nationality-and-gender-qr",
+  "title": "Employees and Compensation in District Cooling and Environmental Activities by Nationality and Gender (QR)",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 35,
+  "file_size_bytes": 7422,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/employees-and-compensation-in-district-cooling-and-environmental-activities-by-nationality-and-gender-qr/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:48.450697",
+  "completion_phase": "missing_192_to_reach_1167"
+}

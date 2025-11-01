@@ -1,0 +1,11 @@
+{
+  "dataset_id": "estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-4922-6190-isic-rev4",
+  "title": "Estimates of Value of Intermediate Services by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 900,
+  "file_size_bytes": 166932,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-4922-6190-isic-rev4/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:18.579368",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

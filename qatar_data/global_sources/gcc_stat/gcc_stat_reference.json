@@ -1,0 +1,22 @@
+{
+  "source": "GCC Statistical Center (GCC-STAT)",
+  "website": "https://gccstat.org/en/",
+  "data_type": "Reference - Registration required for data access",
+  "key_datasets": {
+    "gcc_population": "GCC countries population statistics",
+    "gcc_trade": "Intra-GCC and international trade data",
+    "gcc_construction": "Construction sector indicators across GCC",
+    "gcc_tourism": "Tourism statistics for GCC region",
+    "gcc_economic_indicators": "GDP, inflation, economic growth by country"
+  },
+  "strategic_value": "Regional benchmarking, GCC-wide economic data, competitive analysis",
+  "use_cases": [
+    "Regional competitive analysis vs other GCC countries",
+    "Market opportunity identification across GCC",
+    "Cross-border investment assessment",
+    "GCC construction market sizing"
+  ],
+  "access_notes": "FREE but requires registration at gccstat.org",
+  "update_frequency": "Quarterly and Annual",
+  "recommendation": "Register account to access detailed GCC comparative datasets"
+}

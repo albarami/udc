@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-employees-and-estimates-of-compensation-of-employees-by-nationality-and-main-economic-activity-activity-codes-53-5229-isic-rev4-10-or-more-employees",
+  "title": "Number of Employees & Estimates of Compensation of Employees By Nationality & Main Economic Activity (Activity Codes 53-5229, ISIC Rev.4) - 10 or More Employees",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 52,
+  "file_size_bytes": 7275,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-and-estimates-of-compensation-of-employees-by-nationality-and-main-economic-activity-activity-codes-53-5229-isic-rev4-10-or-more-employees/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.179317",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

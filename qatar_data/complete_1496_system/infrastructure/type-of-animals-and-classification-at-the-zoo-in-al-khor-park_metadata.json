@@ -1,0 +1,11 @@
+{
+  "dataset_id": "type-of-animals-and-classification-at-the-zoo-in-al-khor-park",
+  "title": "Type of Animals and Classification at the Zoo in Al-Khor Park",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 3,
+  "file_size_bytes": 261,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/type-of-animals-and-classification-at-the-zoo-in-al-khor-park/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:08.421195",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

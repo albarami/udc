@@ -1,0 +1,11 @@
+{
+  "dataset_id": "special-needs-statistics-number-of-people-with-disabilities-by-nationality-gender-type-of-difficulty",
+  "title": "Number of People with Disabilities by Nationality, Gender, Type of Difficulty, and Degree of Difficulty",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 192,
+  "file_size_bytes": 25174,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/special-needs-statistics-number-of-people-with-disabilities-by-nationality-gender-type-of-difficulty/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:04.559712",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

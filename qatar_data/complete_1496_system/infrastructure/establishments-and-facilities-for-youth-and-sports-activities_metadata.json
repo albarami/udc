@@ -1,0 +1,11 @@
+{
+  "dataset_id": "establishments-and-facilities-for-youth-and-sports-activities",
+  "title": "Establishments and Facilities for Youth and Sports Activities",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 21,
+  "file_size_bytes": 1645,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/establishments-and-facilities-for-youth-and-sports-activities/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:08.151766",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

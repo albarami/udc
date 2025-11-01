@@ -1,0 +1,20 @@
+{
+  "source": "UN Tourism (UNWTO) Global Trends",
+  "key_insights": {
+    "post_pandemic_recovery": "Global tourism recovery trends",
+    "gcc_positioning": "GCC tourism competitiveness",
+    "visitor_patterns": "International visitor trends by region",
+    "spending_patterns": "Tourism expenditure analysis"
+  },
+  "strategic_use_cases": [
+    "Tourism market sizing for UDC hospitality projects",
+    "Competitive positioning vs GCC destinations",
+    "Demand forecasting for hotel developments",
+    "International visitor analytics"
+  ],
+  "data_access": [
+    "UNWTO Dashboard: https://www.unwto.org/tourism-statistics/key-tourism-statistics",
+    "Reports: https://www.unwto.org/tourism-data",
+    "Some datasets free, detailed reports may require subscription"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "dataset_id": "gdp-by-activity-at-current-prices-2019-2023",
+  "title": "GDP by Economic Activity (2019-2023)",
+  "category": "economy",
+  "udc_business_value": "Sector performance, investment timing signals",
+  "expected_records": 220,
+  "file_size_bytes": 8050,
+  "downloaded_at": "2025-10-31T16:39:42.888262",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/gdp-by-activity-at-current-prices-2019-2023/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

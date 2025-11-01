@@ -1,0 +1,13 @@
+{
+  "dataset_id": "number-of-hotel-guests-and-nights-of-stay-by-nationality",
+  "title": "Hotel Guests by Nationality",
+  "category": "hospitality",
+  "udc_business_value": "Target market identification, demand segmentation",
+  "expected_records": 9648,
+  "file_size_bytes": 309,
+  "downloaded_at": "2025-10-31T16:39:39.520137",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-hotel-guests-and-nights-of-stay-by-nationality/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

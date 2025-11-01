@@ -1,0 +1,11 @@
+{
+  "dataset_id": "beneficiaries-of-social-security-servant-allowance-by-type-of-allowance-and-gender",
+  "title": "Beneficiaries of Social Security (Servant Allowance) by Type of Allowance and Gender",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 5,
+  "file_size_bytes": 377,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/beneficiaries-of-social-security-servant-allowance-by-type-of-allowance-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:04.793482",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

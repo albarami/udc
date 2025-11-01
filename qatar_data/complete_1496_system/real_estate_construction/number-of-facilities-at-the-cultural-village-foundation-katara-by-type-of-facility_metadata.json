@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-facilities-at-the-cultural-village-foundation-katara-by-type-of-facility",
+  "title": "Number of Facilities at the Cultural Village Foundation (Katara) by Type of Facility",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 377,
+  "file_size_bytes": 32735,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-facilities-at-the-cultural-village-foundation-katara-by-type-of-facility/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:04.106376",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

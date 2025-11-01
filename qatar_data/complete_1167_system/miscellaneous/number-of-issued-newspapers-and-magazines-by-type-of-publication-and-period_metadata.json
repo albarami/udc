@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-issued-newspapers-and-magazines-by-type-of-publication-and-period",
+  "title": "Number of Issued Newspapers and Magazines by Type of Publication and Period",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 4,
+  "file_size_bytes": 362,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-issued-newspapers-and-magazines-by-type-of-publication-and-period/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:34.885322",
+  "completion_phase": "missing_192_to_reach_1167"
+}

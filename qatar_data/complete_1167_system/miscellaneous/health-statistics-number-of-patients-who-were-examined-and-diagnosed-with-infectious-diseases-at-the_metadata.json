@@ -1,0 +1,11 @@
+{
+  "dataset_id": "health-statistics-number-of-patients-who-were-examined-and-diagnosed-with-infectious-diseases-at-the",
+  "title": "Number of Patients who were Examined and Diagnosed with Infectious Diseases at the Medical Commission by Disease",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 5,
+  "file_size_bytes": 215,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/health-statistics-number-of-patients-who-were-examined-and-diagnosed-with-infectious-diseases-at-the/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:43.060044",
+  "completion_phase": "missing_192_to_reach_1167"
+}

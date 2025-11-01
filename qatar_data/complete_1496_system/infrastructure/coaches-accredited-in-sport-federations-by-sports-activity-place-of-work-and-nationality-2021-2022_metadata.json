@@ -1,0 +1,11 @@
+{
+  "dataset_id": "coaches-accredited-in-sport-federations-by-sports-activity-place-of-work-and-nationality-2021-2022",
+  "title": "Coaches Accredited in Sport Federations by Sports Activity, Place of Work and Nationality",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 40,
+  "file_size_bytes": 2550,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/coaches-accredited-in-sport-federations-by-sports-activity-place-of-work-and-nationality-2021-2022/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:13.568373",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

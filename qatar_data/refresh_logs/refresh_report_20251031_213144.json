@@ -1,0 +1,50 @@
+{
+  "refresh_execution": {
+    "timestamp": "2025-10-31T21:31:22.479415",
+    "sources_attempted": [
+      "world_bank",
+      "imf",
+      "currency",
+      "flight_data"
+    ],
+    "total_sources": 4,
+    "errors_count": 0
+  },
+  "refresh_results": {
+    "world_bank": {
+      "status": "success",
+      "datasets_refreshed": 18,
+      "timestamp": "2025-10-31T21:31:37.795612"
+    },
+    "imf": {
+      "status": "success",
+      "datasets_refreshed": 2,
+      "timestamp": "2025-10-31T21:31:42.460338"
+    },
+    "currency": {
+      "status": "success",
+      "currencies_updated": 165,
+      "timestamp": "2025-10-31T21:31:43.420143"
+    },
+    "flight_data": {
+      "status": "rate_limited_or_error",
+      "note": "OpenSky has rate limits - 10 calls per 10 min"
+    }
+  },
+  "errors": [],
+  "next_refresh_schedule": {
+    "imf": "2026-01-29T21:20:09.948471",
+    "weather": "2025-11-01T16:50:43.478276",
+    "currency": "2025-11-01T21:20:11.442175"
+  },
+  "refresh_intervals": {
+    "world_bank": 30,
+    "imf": 90,
+    "weather": 1,
+    "flight_data": 1,
+    "currency": 1,
+    "google_trends": 7,
+    "commodity_prices": 30
+  },
+  "status": "completed"
+}

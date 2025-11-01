@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-and-injuries-from-traffic-accidents-by-drivers-experience",
+  "title": "Number of Deaths and Injuries from Traffic Accidents by Driver's Experience",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 47,
+  "file_size_bytes": 3033,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-and-injuries-from-traffic-accidents-by-drivers-experience/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:15.816538",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

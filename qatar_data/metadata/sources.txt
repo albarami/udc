@@ -1,0 +1,87 @@
+# Qatar Data Sources
+
+This file documents all data sources used in UDC Polaris.
+
+## Last Updated: 2025-10-31
+
+---
+
+## Primary Sources
+
+### 1. Qatar Open Data Portal
+- URL: https://www.data.gov.qa/
+- Owner: Planning and Statistics Authority (PSA)
+- Status: API access under investigation
+- Access Method: Manual download (temporary)
+- Update Frequency: Monthly/Quarterly
+- License: Qatar Open Data License (commercial use allowed)
+
+### 2. UDC Internal Reports
+- Source: UDC Annual Reports 2021-2024
+- Source: UDC Quarterly Financial Statements
+- Location: ../data/ directory
+- Status: Available
+- Access Method: Direct file access
+- Update Frequency: Quarterly
+
+### 3. Qatar Planning & Statistics Authority
+- URL: https://www.psa.gov.qa/en/statistics1/
+- Owner: PSA Qatar
+- Status: Available
+- Access Method: Direct website downloads
+- Update Frequency: Monthly
+
+---
+
+## Datasets Inventory
+
+### Real Estate
+*To be populated as data is acquired*
+
+### Population
+*To be populated as data is acquired*
+
+### Economy
+*To be populated as data is acquired*
+
+### Tourism
+*To be populated as data is acquired*
+
+### Labor
+*To be populated as data is acquired*
+
+### Energy
+*To be populated as data is acquired*
+
+### Infrastructure
+*To be populated as data is acquired*
+
+---
+
+## Data Quality Notes
+
+- All data sources are government-verified or from official UDC reports
+- Data undergoes validation before loading into system
+- Quality reports generated during processing (see metadata/quality_reports/)
+- Missing data documented and flagged for agent awareness
+
+---
+
+## Future Data Sources (Phase 2+)
+
+- PropertyShop Qatar (web scraping with permission)
+- KAHRAMAA energy data (direct feed)
+- UDC ERP system (direct integration)
+- UDC Property Management System
+- Qatar Cool SCADA data
+- Bloomberg real estate indices
+
+---
+
+## Notes
+
+- Sample datasets used for development until real data available
+- All data handling complies with Qatar data governance regulations
+- Data privacy: No PII stored in MVP (CEO only user)
+- Audit trail maintained for all data access
+

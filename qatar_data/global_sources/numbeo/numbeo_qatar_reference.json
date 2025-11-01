@@ -1,0 +1,35 @@
+{
+  "source": "Numbeo",
+  "website": "https://www.numbeo.com/",
+  "api": "https://www.numbeo.com/api/",
+  "qatar_coverage": {
+    "property_prices": "Doha property prices per sqm",
+    "rental_yields": "Residential and commercial rental yields",
+    "cost_of_living": "Cost of living index vs global cities",
+    "quality_of_life": "Quality of life indices"
+  },
+  "strategic_value": "Property price benchmarking, cost of living analysis",
+  "use_cases": [
+    "Real estate pricing strategy",
+    "Market positioning vs competitors",
+    "Expatriate cost analysis",
+    "Rental yield projections",
+    "Affordability assessment"
+  ],
+  "data_points": {
+    "price_per_sqm_city_centre": "Property price per sqm in city center",
+    "price_per_sqm_outside": "Property price per sqm outside center",
+    "rent_1bedroom_centre": "Monthly rent for 1-bedroom apartment in center",
+    "rent_3bedroom_centre": "Monthly rent for 3-bedroom apartment in center",
+    "price_rent_ratio": "Price to rent ratio",
+    "gross_rental_yield": "Gross rental yield percentage"
+  },
+  "api_access": "PAID subscription (~$200/month for API access)",
+  "free_alternative": "Manual data collection from Numbeo website",
+  "update_frequency": "Quarterly (community-contributed)",
+  "competitive_sources": [
+    "Global Property Guide",
+    "Expatistan (cost of living)",
+    "Local real estate portals"
+  ]
+}

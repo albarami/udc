@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-and-injuries-resulting-from-fires",
+  "title": "Number of Deaths and Injuries Resulting from Fires",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 30,
+  "file_size_bytes": 1200,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-and-injuries-resulting-from-fires/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:45.246081",
+  "completion_phase": "missing_192_to_reach_1167"
+}

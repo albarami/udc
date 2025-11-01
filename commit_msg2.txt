@@ -1,0 +1,6 @@
+chore: Remove large CSV files from git tracking
+
+Removed qatar_data/clean_1167_zero_duplicates/ from git index
+These files are too large for GitHub (some >100MB)
+Files are preserved locally but not pushed to remote
+.gitignore already configured to exclude them

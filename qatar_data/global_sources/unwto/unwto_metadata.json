@@ -1,0 +1,22 @@
+{
+  "source": "UN Tourism (UNWTO)",
+  "website": "https://www.unwto.org/tourism-statistics",
+  "datasets_created": 3,
+  "total_records": 5,
+  "data_type": "Reference templates for manual updates",
+  "note": "UNWTO doesn't provide public API - data requires manual updates from reports",
+  "update_frequency": "Annual (major reports), Quarterly (dashboard updates)",
+  "cost": "FREE for basic statistics, Subscription for detailed reports",
+  "strategic_value": "Global tourism trends, regional visitor statistics, competitive benchmarking",
+  "use_cases": [
+    "Tourism market sizing",
+    "Competitive positioning analysis",
+    "Demand forecasting",
+    "International visitor analytics"
+  ],
+  "recommended_supplements": [
+    "Qatar Tourism Authority data (integrated in Qatar Open Data Portal)",
+    "Hotel occupancy data from Qatar datasets",
+    "Visitor arrivals by mode of entry from Qatar datasets"
+  ]
+}

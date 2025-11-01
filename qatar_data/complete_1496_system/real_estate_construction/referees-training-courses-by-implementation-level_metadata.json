@@ -1,0 +1,11 @@
+{
+  "dataset_id": "referees-training-courses-by-implementation-level",
+  "title": "Referees’ Training Courses by Implementation Level",
+  "category": "real_estate_construction",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 184,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/referees-training-courses-by-implementation-level/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:04.895441",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

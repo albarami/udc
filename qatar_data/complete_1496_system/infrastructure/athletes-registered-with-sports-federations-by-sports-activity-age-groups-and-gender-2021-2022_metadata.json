@@ -1,0 +1,11 @@
+{
+  "dataset_id": "athletes-registered-with-sports-federations-by-sports-activity-age-groups-and-gender-2021-2022",
+  "title": "Athletes Registered with Sports Federations by Sports Activity, Age Groups and Gender (2021-2022)",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 44,
+  "file_size_bytes": 4347,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/athletes-registered-with-sports-federations-by-sports-activity-age-groups-and-gender-2021-2022/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:12.689109",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-health-facilities-by-type-of-health-facility-2019",
+  "title": "Number of Health Facilities by Type of Health Facility – 2019",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 68,
+  "file_size_bytes": 4400,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-health-facilities-by-type-of-health-facility-2019/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:42.979387",
+  "completion_phase": "missing_192_to_reach_1167"
+}

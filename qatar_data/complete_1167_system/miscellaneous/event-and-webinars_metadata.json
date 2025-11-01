@@ -1,0 +1,11 @@
+{
+  "dataset_id": "event-and-webinars",
+  "title": "Event and Webinars",
+  "category": "miscellaneous",
+  "publisher": null,
+  "actual_records": 4,
+  "file_size_bytes": 4158,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/event-and-webinars/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:48.168271",
+  "completion_phase": "missing_192_to_reach_1167"
+}

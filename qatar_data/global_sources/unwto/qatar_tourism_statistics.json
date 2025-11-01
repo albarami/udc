@@ -1,0 +1,36 @@
+{
+  "country": "Qatar",
+  "source": "UN Tourism (UNWTO) & Qatar Tourism Authority",
+  "tourism_indicators": {
+    "international_arrivals": {
+      "unit": "thousands",
+      "note": "Manual update from UNWTO reports or QTA",
+      "latest_year": 2023,
+      "latest_value": null,
+      "time_series": {}
+    },
+    "tourism_receipts": {
+      "unit": "USD millions",
+      "note": "Manual update from UNWTO reports",
+      "latest_year": 2023,
+      "latest_value": null,
+      "time_series": {}
+    },
+    "tourism_gdp_contribution": {
+      "unit": "Percentage of GDP",
+      "note": "From WTTC Economic Impact reports",
+      "latest_year": 2023,
+      "latest_value": null
+    },
+    "average_length_stay": {
+      "unit": "nights",
+      "note": "From Qatar Tourism Authority",
+      "latest_value": null
+    }
+  },
+  "data_sources": [
+    "UNWTO Tourism Dashboard: https://www.unwto.org/tourism-statistics/key-tourism-statistics",
+    "Qatar Tourism Authority: https://www.visitqatar.qa/",
+    "WTTC Economic Impact: https://wttc.org/research/economic-impact"
+  ]
+}

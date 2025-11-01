@@ -1,0 +1,13 @@
+{
+  "dataset_id": "quarterly-gdp-by-activity-at-current-prices-2023-q4",
+  "title": "Quarterly GDP Data Q4 2023",
+  "category": "economy",
+  "udc_business_value": "Recent economic performance, momentum indicators",
+  "expected_records": 88,
+  "file_size_bytes": 3518,
+  "downloaded_at": "2025-10-31T16:39:43.598294",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/quarterly-gdp-by-activity-at-current-prices-2023-q4/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

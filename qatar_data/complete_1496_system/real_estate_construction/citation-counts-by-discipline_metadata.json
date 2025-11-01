@@ -1,0 +1,11 @@
+{
+  "dataset_id": "citation-counts-by-discipline",
+  "title": "Citation Counts by Discipline",
+  "category": "real_estate_construction",
+  "publisher": "Hamad Bin Khalifa University",
+  "actual_records": 15,
+  "file_size_bytes": 707,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/citation-counts-by-discipline/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:05.654206",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

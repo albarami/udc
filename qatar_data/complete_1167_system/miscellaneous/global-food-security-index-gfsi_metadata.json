@@ -1,0 +1,11 @@
+{
+  "dataset_id": "global-food-security-index-gfsi",
+  "title": "Global Food Security Index (GFSI)",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 6,
+  "file_size_bytes": 104,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/global-food-security-index-gfsi/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:45.313481",
+  "completion_phase": "missing_192_to_reach_1167"
+}

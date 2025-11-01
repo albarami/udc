@@ -1,0 +1,13 @@
+{
+  "dataset_id": "population-by-municipality-and-age-groups",
+  "title": "Population by Municipality and Age",
+  "category": "demographics",
+  "udc_business_value": "Market sizing, demographic targeting",
+  "expected_records": 1440,
+  "file_size_bytes": 73487,
+  "downloaded_at": "2025-10-31T16:39:45.278637",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/population-by-municipality-and-age-groups/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "themes-npc-qatar",
+  "title": "Themes NPC Qatar",
+  "category": "miscellaneous",
+  "publisher": null,
+  "actual_records": 15,
+  "file_size_bytes": 4144,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/themes-npc-qatar/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:47.578769",
+  "completion_phase": "missing_192_to_reach_1167"
+}

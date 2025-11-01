@@ -1,0 +1,23 @@
+{
+  "source": "World Bank Commodity Markets (Pink Sheet)",
+  "website": "https://www.worldbank.org/en/research/commodity-markets",
+  "data_url": "https://thedocs.worldbank.org/en/doc/5d903e848db1d1b83e0ec8f744e55570-0350012021/related/CMO-Pink-Sheet-October-2023.xlsx",
+  "strategic_value": "Construction cost forecasting (steel, cement, oil)",
+  "construction_materials": {
+    "steel": "Steel rebar and sheet prices",
+    "cement": "Cement wholesale prices",
+    "crude_oil": "Oil prices (impacts asphalt, transport costs)",
+    "copper": "Copper prices (electrical work)",
+    "aluminum": "Aluminum prices (facades, windows)"
+  },
+  "use_cases": [
+    "Project cost estimation",
+    "Budget forecasting for construction",
+    "Material procurement timing",
+    "Cost escalation modeling",
+    "Supplier negotiation benchmarks"
+  ],
+  "data_frequency": "Monthly",
+  "cost": "FREE",
+  "note": "World Bank already integrated in TIER 1, commodity data accessible via same API"
+}

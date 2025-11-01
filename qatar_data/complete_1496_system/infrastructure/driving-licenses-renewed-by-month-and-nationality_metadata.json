@@ -1,0 +1,11 @@
+{
+  "dataset_id": "driving-licenses-renewed-by-month-and-nationality",
+  "title": "Driving licenses renewed by month and nationality",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 240,
+  "file_size_bytes": 12471,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/driving-licenses-renewed-by-month-and-nationality/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:08.365692",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

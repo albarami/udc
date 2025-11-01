@@ -1,0 +1,130 @@
+name: UDC Polaris CI/CD
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test-backend:
+    name: Backend Tests
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('backend/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      working-directory: backend
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Lint with ruff
+      working-directory: backend
+      run: |
+        pip install ruff
+        ruff check app/
+      continue-on-error: true
+    
+    - name: Format check with black
+      working-directory: backend
+      run: |
+        pip install black
+        black --check app/
+      continue-on-error: true
+    
+    - name: Type check with mypy
+      working-directory: backend
+      run: |
+        pip install mypy
+        mypy app/ --ignore-missing-imports
+      continue-on-error: true
+    
+    # Tests will be added when test suite is created
+    # - name: Run tests
+    #   working-directory: backend
+    #   run: |
+    #     pytest tests/ -v --cov=app
+
+  code-quality:
+    name: Code Quality Check
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Check file size
+      run: |
+        echo "Checking for files >500 lines (per project standards)..."
+        find backend/app -name "*.py" -exec wc -l {} + | awk '$1 > 500 {print "WARNING: " $2 " has " $1 " lines (max 500)"; exit 1}'
+      continue-on-error: true
+    
+    - name: Check for TODO/FIXME
+      run: |
+        echo "Scanning for TODO/FIXME comments..."
+        grep -r "TODO\|FIXME" backend/app/ || echo "No TODOs found"
+      continue-on-error: true
+
+  security-scan:
+    name: Security Scan
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Check for exposed secrets
+      run: |
+        echo "Checking for exposed API keys..."
+        if grep -r "sk-ant-" . --exclude-dir=.git; then
+          echo "ERROR: Anthropic API key found in code!"
+          exit 1
+        fi
+        if grep -r "sk-proj-" . --exclude-dir=.git; then
+          echo "ERROR: OpenAI API key found in code!"
+          exit 1
+        fi
+        echo "No exposed API keys found"
+    
+    - name: Check .env files
+      run: |
+        if git ls-files | grep -q "\.env$"; then
+          echo "ERROR: .env file committed to repository!"
+          exit 1
+        fi
+        echo ".env files properly ignored"
+
+  documentation:
+    name: Documentation Check
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Check README exists
+      run: |
+        if [ ! -f README.md ]; then
+          echo "ERROR: README.md not found"
+          exit 1
+        fi
+        echo "README.md exists"
+    
+    - name: Check documentation files
+      run: |
+        echo "Documentation files:"
+        ls -1 *.md
+        ls -1 docs/*.md
+

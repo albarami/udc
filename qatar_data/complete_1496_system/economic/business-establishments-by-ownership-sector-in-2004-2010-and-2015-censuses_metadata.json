@@ -1,0 +1,11 @@
+{
+  "dataset_id": "business-establishments-by-ownership-sector-in-2004-2010-and-2015-censuses",
+  "title": "Business Establishments by Ownership Sector in 2004, 2010 and 2015 Censuses",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 4,
+  "file_size_bytes": 302,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/business-establishments-by-ownership-sector-in-2004-2010-and-2015-censuses/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:19.586685",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

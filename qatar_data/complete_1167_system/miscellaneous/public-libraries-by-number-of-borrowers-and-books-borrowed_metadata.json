@@ -1,0 +1,11 @@
+{
+  "dataset_id": "public-libraries-by-number-of-borrowers-and-books-borrowed",
+  "title": "Public Libraries by Number of Borrowers and Books Borrowed",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 7,
+  "file_size_bytes": 892,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/public-libraries-by-number-of-borrowers-and-books-borrowed/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:41.005965",
+  "completion_phase": "missing_192_to_reach_1167"
+}

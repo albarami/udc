@@ -1,0 +1,11 @@
+{
+  "dataset_id": "estimates-value-added-by-main-economic-activity0",
+  "title": "Estimates value added by main economic activity",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 126,
+  "file_size_bytes": 26487,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-value-added-by-main-economic-activity0/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:19.510149",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

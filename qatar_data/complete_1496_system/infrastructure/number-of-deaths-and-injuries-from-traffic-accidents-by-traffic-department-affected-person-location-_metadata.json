@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-and-injuries-from-traffic-accidents-by-traffic-department-affected-person-location-and-gender",
+  "title": "Number of Deaths and Injuries from Traffic Accidents by Traffic Department, Affected Person Location, and Gender",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 720,
+  "file_size_bytes": 71874,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-and-injuries-from-traffic-accidents-by-traffic-department-affected-person-location-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:17.074347",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

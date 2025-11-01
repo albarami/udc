@@ -1,0 +1,13 @@
+{
+  "source": "Sentinel Hub / NASA EOSDIS",
+  "sentinel_hub": "https://www.sentinel-hub.com/",
+  "nasa_eosdis": "https://earthdata.nasa.gov/",
+  "strategic_value": "Construction progress monitoring, land use changes",
+  "use_cases": [
+    "Competitor project monitoring",
+    "Site analysis",
+    "Development tracking"
+  ],
+  "cost": "FREE (Sentinel - lower resolution), Paid for high-resolution",
+  "note": "Requires GIS expertise for analysis"
+}

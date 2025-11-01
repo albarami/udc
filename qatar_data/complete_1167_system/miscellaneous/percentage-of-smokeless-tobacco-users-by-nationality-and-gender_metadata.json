@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-smokeless-tobacco-users-by-nationality-and-gender",
+  "title": "Percentage of Smokeless Tobacco Users By Nationality, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 12,
+  "file_size_bytes": 946,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-smokeless-tobacco-users-by-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.532701",
+  "completion_phase": "missing_192_to_reach_1167"
+}

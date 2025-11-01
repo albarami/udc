@@ -1,0 +1,11 @@
+{
+  "dataset_id": "rescue-and-relief-services-furnished-by-civil-defense-department-by-number-of-operations-injuries-deaths-and-type-of-service",
+  "title": "Rescue and Relief Services Furnished By Civil Defense Department By Number of Operations, Injuries, Deaths And Type of Service",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 60,
+  "file_size_bytes": 5397,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/rescue-and-relief-services-furnished-by-civil-defense-department-by-number-of-operations-injuries-deaths-and-type-of-service/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:40.965240",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-6021-6420-isic-rev3-less-than-10-employees",
+  "title": "Estimates of Value of Intermediate Services By Main Economic Activity (Activity Codes 6021-6420, ISIC Rev.3) - Less than 10 Employees",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 390,
+  "file_size_bytes": 78423,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-activity-codes-6021-6420-isic-rev3-less-than-10-employees/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.541577",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

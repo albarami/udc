@@ -1,0 +1,317 @@
+{
+  "QAT": {
+    "country": "QAT",
+    "indicators": {
+      "ST.INT.ARVL": [
+        {
+          "year": "2020",
+          "value": 582000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2019",
+          "value": 2136500,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2018",
+          "value": 1819000,
+          "indicator_name": "International tourism, number of arrivals"
+        }
+      ],
+      "ST.INT.RCPT.CD": [
+        {
+          "year": "2020",
+          "value": 14318000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 15647000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 15239000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        }
+      ],
+      "ST.INT.RCPT.XP.ZS": [
+        {
+          "year": "2020",
+          "value": 20.1851764350477,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2019",
+          "value": 16.9990807287314,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2018",
+          "value": 14.8584760608804,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        }
+      ]
+    }
+  },
+  "SAU": {
+    "country": "SAU",
+    "indicators": {
+      "ST.INT.ARVL": [
+        {
+          "year": "2019",
+          "value": 20292000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2018",
+          "value": 17570000,
+          "indicator_name": "International tourism, number of arrivals"
+        }
+      ],
+      "ST.INT.RCPT.CD": [
+        {
+          "year": "2020",
+          "value": 5960000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 19849000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 16974000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        }
+      ],
+      "ST.INT.RCPT.XP.ZS": [
+        {
+          "year": "2020",
+          "value": 3.25953824254142,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2019",
+          "value": 6.94361064014203,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2018",
+          "value": 5.38999879984986,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        }
+      ]
+    }
+  },
+  "ARE": {
+    "country": "ARE",
+    "indicators": {
+      "ST.INT.ARVL": [
+        {
+          "year": "2020",
+          "value": 8084000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2019",
+          "value": 25282000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2018",
+          "value": 23092000,
+          "indicator_name": "International tourism, number of arrivals"
+        }
+      ],
+      "ST.INT.RCPT.CD": [
+        {
+          "year": "2020",
+          "value": 24615400390.625,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 38413300781.25,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 34609500000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        }
+      ],
+      "ST.INT.RCPT.XP.ZS": []
+    }
+  },
+  "KWT": {
+    "country": "KWT",
+    "indicators": {
+      "ST.INT.ARVL": [
+        {
+          "year": "2020",
+          "value": 2161000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2019",
+          "value": 8565000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2018",
+          "value": 8508000,
+          "indicator_name": "International tourism, number of arrivals"
+        }
+      ],
+      "ST.INT.RCPT.CD": [
+        {
+          "year": "2020",
+          "value": 524000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 1198000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 919000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        }
+      ],
+      "ST.INT.RCPT.XP.ZS": [
+        {
+          "year": "2020",
+          "value": 1.10510263094138,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2019",
+          "value": 1.6448481879762,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2018",
+          "value": 1.07865245178357,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        }
+      ]
+    }
+  },
+  "BHR": {
+    "country": "BHR",
+    "indicators": {
+      "ST.INT.ARVL": [
+        {
+          "year": "2020",
+          "value": 1909000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2019",
+          "value": 11061000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2018",
+          "value": 12045000,
+          "indicator_name": "International tourism, number of arrivals"
+        }
+      ],
+      "ST.INT.RCPT.CD": [
+        {
+          "year": "2020",
+          "value": 724000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 3860000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 3834000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        }
+      ],
+      "ST.INT.RCPT.XP.ZS": [
+        {
+          "year": "2020",
+          "value": 2.8192796039686,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2019",
+          "value": 12.8410528644105,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2018",
+          "value": 12.7974717255828,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        }
+      ]
+    }
+  },
+  "OMN": {
+    "country": "OMN",
+    "indicators": {
+      "ST.INT.ARVL": [
+        {
+          "year": "2020",
+          "value": 869000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2019",
+          "value": 3506000,
+          "indicator_name": "International tourism, number of arrivals"
+        },
+        {
+          "year": "2018",
+          "value": 3242000,
+          "indicator_name": "International tourism, number of arrivals"
+        }
+      ],
+      "ST.INT.RCPT.CD": [
+        {
+          "year": "2020",
+          "value": 669000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 3077000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 2874000000,
+          "indicator_name": "International tourism, receipts (current US$)"
+        }
+      ],
+      "ST.INT.RCPT.XP.ZS": [
+        {
+          "year": "2020",
+          "value": 1.87440359059699,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2019",
+          "value": 7.06599422347447,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        },
+        {
+          "year": "2018",
+          "value": 6.20448011482535,
+          "indicator_name": "International tourism, receipts (% of total exports)"
+        }
+      ]
+    }
+  }
+}

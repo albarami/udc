@@ -1,0 +1,11 @@
+{
+  "dataset_id": "government-e-services-directory-with-usage-statistics",
+  "title": "Government E-Services Directory with Usage Statistics",
+  "category": "infrastructure",
+  "publisher": "Ministry of Communications and Technology",
+  "actual_records": 1692,
+  "file_size_bytes": 924485,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/government-e-services-directory-with-usage-statistics/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:18.739246",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

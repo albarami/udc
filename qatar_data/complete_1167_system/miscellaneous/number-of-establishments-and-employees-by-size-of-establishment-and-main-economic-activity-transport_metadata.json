@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-establishments-and-employees-by-size-of-establishment-and-main-economic-activity-transport2",
+  "title": "Number of Establishments & Employees By Size of Establishment & Main Economic Activity - Transport & Communication Statistics (Activity Codes 6021-6420) ISIC Rev 3",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 154,
+  "file_size_bytes": 34015,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-establishments-and-employees-by-size-of-establishment-and-main-economic-activity-transport2/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:39.120151",
+  "completion_phase": "missing_192_to_reach_1167"
+}

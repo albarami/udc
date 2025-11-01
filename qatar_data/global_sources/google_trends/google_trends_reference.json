@@ -1,0 +1,45 @@
+{
+  "source": "Google Trends",
+  "website": "https://trends.google.com/trends/",
+  "unofficial_api": "pytrends library (Python)",
+  "strategic_value": "Tourism interest, real estate search trends, market sentiment",
+  "key_search_terms": {
+    "tourism": [
+      "visit qatar",
+      "doha hotels",
+      "qatar tourism",
+      "things to do in qatar"
+    ],
+    "real_estate": [
+      "qatar property",
+      "doha apartments",
+      "real estate qatar",
+      "buy property qatar"
+    ],
+    "business": [
+      "invest qatar",
+      "business setup qatar",
+      "qatar economy"
+    ]
+  },
+  "use_cases": [
+    "Tourism demand signals and forecasting",
+    "Real estate market interest tracking",
+    "Seasonal trend identification",
+    "Marketing campaign effectiveness",
+    "Competitive brand analysis"
+  ],
+  "data_types": [
+    "Interest over time",
+    "Regional interest by country",
+    "Related queries",
+    "Rising search terms"
+  ],
+  "python_integration": {
+    "library": "pip install pytrends",
+    "sample_code": "from pytrends.request import TrendReq\npytrends = TrendReq(hl='en-US', tz=360)\nkw_list = ['visit qatar']\npytrends.build_payload(kw_list, timeframe='today 12-m')\ndata = pytrends.interest_over_time()"
+  },
+  "cost": "FREE",
+  "rate_limits": "Reasonable usage, avoid excessive requests",
+  "update_frequency": "Real-time (daily aggregation)"
+}

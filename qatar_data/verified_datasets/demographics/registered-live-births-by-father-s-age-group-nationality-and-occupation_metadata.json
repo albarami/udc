@@ -1,0 +1,13 @@
+{
+  "dataset_id": "registered-live-births-by-father-s-age-group-nationality-and-occupation",
+  "title": "Birth Statistics by Father Profile",
+  "category": "demographics",
+  "udc_business_value": "Future demand forecasting, family demographics",
+  "expected_records": 1782,
+  "file_size_bytes": 246472,
+  "downloaded_at": "2025-10-31T16:39:47.150993",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/registered-live-births-by-father-s-age-group-nationality-and-occupation/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

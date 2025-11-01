@@ -1,0 +1,24 @@
+# Qatar Open Data Portal Web Scraper - Python Requirements
+# For UDC Polaris Multi-Agent System
+# Python 3.8+ required
+
+# Core Dependencies
+requests>=2.31.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optional but Recommended
+beautifulsoup4>=4.12.0
+schedule>=1.2.0
+
+# Database Connectors (for advanced integration)
+# Uncomment as needed:
+# neo4j>=5.12.0
+# psycopg2-binary>=2.9.0
+# sqlalchemy>=2.0.0
+
+# Data Quality & Validation
+# numpy>=1.24.0
+
+# Utilities
+python-dateutil>=2.8.0

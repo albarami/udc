@@ -1,0 +1,11 @@
+{
+  "dataset_id": "physiotherapists-accredited-by-sport-federations-by-place-of-work-and-nationality-2017-2022",
+  "title": "Physiotherapists Accredited by Sport Federations by Place of Work and Nationality (2017-2022)",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 179,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/physiotherapists-accredited-by-sport-federations-by-place-of-work-and-nationality-2017-2022/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:11.666562",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

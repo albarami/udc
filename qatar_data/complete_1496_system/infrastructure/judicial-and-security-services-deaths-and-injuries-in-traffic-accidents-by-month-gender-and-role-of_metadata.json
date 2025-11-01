@@ -1,0 +1,11 @@
+{
+  "dataset_id": "judicial-and-security-services-deaths-and-injuries-in-traffic-accidents-by-month-gender-and-role-of",
+  "title": "Judicial and Security Services - Deaths and Injuries in Traffic Accidents by Month, Gender, and Role of Injured",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 216,
+  "file_size_bytes": 21046,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/judicial-and-security-services-deaths-and-injuries-in-traffic-accidents-by-month-gender-and-role-of/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:16.202644",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

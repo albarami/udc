@@ -1,0 +1,11 @@
+{
+  "dataset_id": "special-needs-statistics-number-of-students-with-disabilities-integrated-into-public-schools-by",
+  "title": "Number of Students with Disabilities Integrated into Public Schools by Level of Education, Nationality, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 32,
+  "file_size_bytes": 2990,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/special-needs-statistics-number-of-students-with-disabilities-integrated-into-public-schools-by/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:45.568576",
+  "completion_phase": "missing_192_to_reach_1167"
+}

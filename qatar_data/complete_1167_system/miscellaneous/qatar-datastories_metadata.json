@@ -1,0 +1,11 @@
+{
+  "dataset_id": "qatar-datastories",
+  "title": "Qatar datastories",
+  "category": "miscellaneous",
+  "publisher": null,
+  "actual_records": 1,
+  "file_size_bytes": 838,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/qatar-datastories/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:36.913717",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,45 @@
+{
+  "source": "International Energy Agency (IEA)",
+  "website": "https://www.iea.org/",
+  "data_portal": "https://www.iea.org/data-and-statistics",
+  "strategic_value": "Energy costs, sustainability trends, utility planning",
+  "key_datasets": {
+    "energy_prices": "Electricity and gas prices by country",
+    "energy_consumption": "Sectoral energy consumption",
+    "renewable_energy": "Renewable energy capacity and generation",
+    "energy_efficiency": "Building and industrial efficiency metrics",
+    "co2_emissions": "CO2 emissions by sector"
+  },
+  "qatar_relevance": {
+    "electricity_prices": "Commercial and industrial electricity costs",
+    "natural_gas": "Natural gas production and consumption",
+    "renewable_targets": "Qatar renewable energy initiatives",
+    "building_efficiency": "Energy efficiency standards for construction",
+    "district_cooling": "Cooling energy consumption in buildings"
+  },
+  "use_cases": [
+    "Utility cost forecasting for developments",
+    "Sustainability planning and reporting",
+    "Energy efficiency benchmarking",
+    "District cooling system optimization",
+    "Carbon footprint estimation",
+    "Renewable energy integration planning"
+  ],
+  "data_access": {
+    "method": "Download from IEA website or use World Energy Statistics API",
+    "formats": [
+      "Excel",
+      "CSV",
+      "API (limited)"
+    ],
+    "api": "https://www.iea.org/data-and-statistics/data-tools (some datasets)",
+    "note": "Most comprehensive data requires IEA subscription"
+  },
+  "cost": "FREE for basic statistics, Subscription for detailed datasets",
+  "update_frequency": "Annual (some quarterly updates)",
+  "alternatives": [
+    "World Bank Energy data (free)",
+    "EIA International Energy Statistics (free)",
+    "BP Statistical Review of World Energy (free)"
+  ]
+}

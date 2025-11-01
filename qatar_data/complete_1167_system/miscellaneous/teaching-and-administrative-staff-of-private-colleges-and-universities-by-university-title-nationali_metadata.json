@@ -1,0 +1,11 @@
+{
+  "dataset_id": "teaching-and-administrative-staff-of-private-colleges-and-universities-by-university-title-nationality-and-gender",
+  "title": "Teaching and Administrative Staff of Private Colleges and Universities by University Title, Nationality, and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 120,
+  "file_size_bytes": 9905,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/teaching-and-administrative-staff-of-private-colleges-and-universities-by-university-title-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:38.152817",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "judges-serving-at-courts-by-job-title-nationality-and-gender",
+  "title": "Judges Serving at Courts by Job Title, Nationality and Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 18,
+  "file_size_bytes": 2250,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/judges-serving-at-courts-by-job-title-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:40.579119",
+  "completion_phase": "missing_192_to_reach_1167"
+}

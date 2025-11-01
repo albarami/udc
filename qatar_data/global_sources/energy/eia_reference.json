@@ -1,0 +1,47 @@
+{
+  "source": "U.S. Energy Information Administration (EIA)",
+  "website": "https://www.eia.gov/",
+  "api": "https://www.eia.gov/opendata/",
+  "strategic_value": "Global energy data, forecasts, analysis",
+  "key_datasets": {
+    "international_energy": "Energy statistics for 200+ countries",
+    "petroleum": "Oil and petroleum product data",
+    "natural_gas": "Natural gas production, consumption, prices",
+    "electricity": "Electricity generation, consumption, prices",
+    "renewables": "Renewable energy data",
+    "forecasts": "Short-term and long-term energy forecasts"
+  },
+  "qatar_data_available": {
+    "petroleum": "Crude oil production and exports",
+    "natural_gas": "Natural gas production and LNG exports",
+    "electricity": "Electricity generation by source",
+    "consumption": "Total primary energy consumption",
+    "co2": "Energy-related CO2 emissions"
+  },
+  "use_cases": [
+    "Energy price forecasting",
+    "Utility cost modeling",
+    "Construction material costs (oil-dependent)",
+    "Sustainability benchmarking",
+    "Energy market analysis",
+    "Regional energy comparison"
+  ],
+  "api_endpoints": {
+    "base": "https://api.eia.gov/v2/",
+    "international": "/international/data/?api_key={key}&country_code=QAT",
+    "petroleum": "/petroleum/crd/crpdn/data/?api_key={key}",
+    "natural_gas": "/natural-gas/data/?api_key={key}"
+  },
+  "sample_queries": {
+    "qatar_oil_production": "https://api.eia.gov/v2/international/data/?api_key={key}&data[]=value&facets[productId][]=53&facets[countryRegionId][]=QAT&facets[unit][]=TBPD",
+    "qatar_gas_production": "https://api.eia.gov/v2/international/data/?api_key={key}&data[]=value&facets[productId][]=3&facets[countryRegionId][]=QAT"
+  },
+  "python_integration": {
+    "sample_code": "import requests\napi_key = 'YOUR_EIA_API_KEY'\nurl = f'https://api.eia.gov/v2/international/data/?api_key={api_key}&data[]=value&facets[countryRegionId][]=QAT'\nresponse = requests.get(url).json()"
+  },
+  "api_registration": "https://www.eia.gov/opendata/register.php",
+  "cost": "FREE (API key required)",
+  "rate_limits": "No strict limits on API key usage",
+  "update_frequency": "Monthly (some weekly updates)",
+  "data_coverage": "1980-present for most series"
+}

@@ -1,0 +1,32 @@
+{
+  "source": "Open Exchange Rates",
+  "website": "https://openexchangerates.org/",
+  "api": "https://openexchangerates.org/api/",
+  "strategic_value": "Tourism affordability, international investment analysis",
+  "key_currencies": {
+    "QAR": "Qatari Riyal (base currency)",
+    "USD": "US Dollar (international benchmark)",
+    "EUR": "Euro (European tourism)",
+    "GBP": "British Pound (UK tourism)",
+    "SAR": "Saudi Riyal (GCC tourism)",
+    "AED": "UAE Dirham (GCC tourism)",
+    "INR": "Indian Rupee (labor costs, tourism)",
+    "CNY": "Chinese Yuan (Asian tourism)"
+  },
+  "use_cases": [
+    "Tourism affordability analysis (strong/weak currency impacts)",
+    "International investment return calculations",
+    "Foreign labor cost projections",
+    "Import cost estimation",
+    "Multi-currency revenue modeling"
+  ],
+  "api_endpoints": {
+    "latest_rates": "/latest.json?app_id={api_key}&base=QAR",
+    "historical": "/historical/{YYYY-MM-DD}.json?app_id={api_key}",
+    "time_series": "/time-series.json?start={start_date}&end={end_date}"
+  },
+  "cost": "FREE tier (1000 requests/month), Paid for higher volumes",
+  "free_alternative": "exchangerate-api.com (1500 free requests/month)",
+  "update_frequency": "Daily (some APIs offer real-time)",
+  "note": "Qatar Riyal is pegged to USD at 3.64 QAR = 1 USD (stable)"
+}

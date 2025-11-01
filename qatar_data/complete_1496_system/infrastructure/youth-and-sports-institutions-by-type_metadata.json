@@ -1,0 +1,11 @@
+{
+  "dataset_id": "youth-and-sports-institutions-by-type",
+  "title": "Youth and Sports Institutions by Type",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 219,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/youth-and-sports-institutions-by-type/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:12.576630",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

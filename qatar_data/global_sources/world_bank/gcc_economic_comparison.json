@@ -1,0 +1,224 @@
+{
+  "QAT": {
+    "country": "QAT",
+    "indicators": {
+      "NY.GDP.MKTP.CD": [
+        {
+          "year": "2023",
+          "value": 213002809340.659,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2022",
+          "value": 235709325714.286,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2021",
+          "value": 179732009560.44,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2020",
+          "value": 144411363351.648,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 176371267692.308,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 183334953818.681,
+          "indicator_name": "GDP (current US$)"
+        }
+      ]
+    }
+  },
+  "SAU": {
+    "country": "SAU",
+    "indicators": {
+      "NY.GDP.MKTP.CD": [
+        {
+          "year": "2023",
+          "value": 1218584533333.33,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2022",
+          "value": 1239075200000,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2021",
+          "value": 982661066666.667,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2020",
+          "value": 767951200000,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 888890133333.333,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 886564800000,
+          "indicator_name": "GDP (current US$)"
+        }
+      ]
+    }
+  },
+  "ARE": {
+    "country": "ARE",
+    "indicators": {
+      "NY.GDP.MKTP.CD": [
+        {
+          "year": "2023",
+          "value": 514130432648.06,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2022",
+          "value": 502731935194.01,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2021",
+          "value": 415178792756.978,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2020",
+          "value": 349473015330.157,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 417989721742.682,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 427049432157.931,
+          "indicator_name": "GDP (current US$)"
+        }
+      ]
+    }
+  },
+  "KWT": {
+    "country": "KWT",
+    "indicators": {
+      "NY.GDP.MKTP.CD": [
+        {
+          "year": "2023",
+          "value": 165384407267.056,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2022",
+          "value": 183502046669.15,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2021",
+          "value": 148350671614.185,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2020",
+          "value": 111045470461.207,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 140856394870.02,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 138646316321.596,
+          "indicator_name": "GDP (current US$)"
+        }
+      ]
+    }
+  },
+  "BHR": {
+    "country": "BHR",
+    "indicators": {
+      "NY.GDP.MKTP.CD": [
+        {
+          "year": "2023",
+          "value": 46192260638.2979,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2022",
+          "value": 46458191489.3617,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2021",
+          "value": 40840212765.9574,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2020",
+          "value": 35837632978.7234,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 40446808510.6383,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 39567978723.4043,
+          "indicator_name": "GDP (current US$)"
+        }
+      ]
+    }
+  },
+  "OMN": {
+    "country": "OMN",
+    "indicators": {
+      "NY.GDP.MKTP.CD": [
+        {
+          "year": "2023",
+          "value": 105895708712.614,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2022",
+          "value": 109852795838.752,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2021",
+          "value": 87323797139.1417,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2020",
+          "value": 75909492847.8544,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2019",
+          "value": 88060858257.4772,
+          "indicator_name": "GDP (current US$)"
+        },
+        {
+          "year": "2018",
+          "value": 91505851755.5267,
+          "indicator_name": "GDP (current US$)"
+        }
+      ]
+    }
+  }
+}

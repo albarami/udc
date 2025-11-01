@@ -1,0 +1,11 @@
+{
+  "dataset_id": "dataset-of-datasets",
+  "title": "dataset-of-datasets",
+  "category": "miscellaneous",
+  "publisher": null,
+  "actual_records": 1167,
+  "file_size_bytes": 1006085,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/dataset-of-datasets/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:50.054849",
+  "completion_phase": "missing_192_to_reach_1167"
+}

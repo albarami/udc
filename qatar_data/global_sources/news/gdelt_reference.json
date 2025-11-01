@@ -1,0 +1,52 @@
+{
+  "source": "GDELT Project",
+  "website": "https://www.gdeltproject.org/",
+  "api": "https://api.gdeltproject.org/api/v2/doc/doc",
+  "strategic_value": "Global event tracking, news analysis, sentiment monitoring",
+  "data_types": {
+    "events": "Coded events extracted from news (CAMEO taxonomy)",
+    "gkg": "Global Knowledge Graph - entities, themes, emotions",
+    "doc": "Document-level news article search",
+    "tv": "Television news monitoring"
+  },
+  "qatar_monitoring": {
+    "geographic": "Monitor all mentions of 'Qatar' or 'Doha'",
+    "themes": [
+      "ECON_REALESTATE",
+      "ECON_CONSTRUCTION",
+      "ECON_TOURISM"
+    ],
+    "entities": [
+      "Qatar",
+      "Doha",
+      "UDC",
+      "Lusail",
+      "Pearl Qatar"
+    ]
+  },
+  "use_cases": [
+    "Global news monitoring for Qatar mentions",
+    "Event detection and tracking",
+    "Sentiment analysis at scale",
+    "Competitive intelligence",
+    "Crisis monitoring",
+    "Media coverage analysis"
+  ],
+  "api_endpoints": {
+    "doc_search": "/api/v2/doc/doc?query={query}&mode=artlist&maxrecords=250&format=json",
+    "timeline": "/api/v2/doc/doc?query={query}&mode=timelinevolinfo&format=json",
+    "geo": "/api/v2/geo/geo?query={query}&format=geojson"
+  },
+  "sample_queries": {
+    "qatar_news": "query=qatar&mode=artlist&maxrecords=100",
+    "real_estate_theme": "query=theme:ECON_REALESTATE qatar&sortby=datedesc",
+    "sentiment": "query=qatar sentiment:positive&mode=tonechart"
+  },
+  "python_integration": {
+    "library": "No official library - use requests",
+    "sample_code": "import requests\nurl = 'https://api.gdeltproject.org/api/v2/doc/doc'\nparams = {'query': 'qatar', 'mode': 'artlist', 'maxrecords': 100, 'format': 'json'}\nresponse = requests.get(url, params=params)"
+  },
+  "cost": "FREE",
+  "rate_limits": "No published limits, but reasonable usage expected",
+  "update_frequency": "Every 15 minutes (news processed continuously)"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "human-development-index",
+  "title": "Human Development Index",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 8,
+  "file_size_bytes": 149,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/human-development-index/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:03.719371",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

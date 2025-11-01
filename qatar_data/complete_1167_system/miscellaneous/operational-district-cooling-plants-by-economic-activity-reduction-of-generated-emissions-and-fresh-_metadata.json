@@ -1,0 +1,11 @@
+{
+  "dataset_id": "operational-district-cooling-plants-by-economic-activity-reduction-of-generated-emissions-and-fresh-water-savings",
+  "title": "Operational District Cooling Plants by Economic Activity, Reduction of Generated Emissions and Fresh Water Savings",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 54,
+  "file_size_bytes": 2760,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/operational-district-cooling-plants-by-economic-activity-reduction-of-generated-emissions-and-fresh-water-savings/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:48.130578",
+  "completion_phase": "missing_192_to_reach_1167"
+}

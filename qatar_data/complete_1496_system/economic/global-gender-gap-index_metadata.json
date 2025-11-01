@@ -1,0 +1,11 @@
+{
+  "dataset_id": "global-gender-gap-index",
+  "title": "Global Gender Gap Index",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 7,
+  "file_size_bytes": 127,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/global-gender-gap-index/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:20.004195",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

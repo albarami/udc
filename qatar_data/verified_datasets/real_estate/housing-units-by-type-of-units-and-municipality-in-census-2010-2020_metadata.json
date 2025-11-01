@@ -1,0 +1,13 @@
+{
+  "dataset_id": "housing-units-by-type-of-units-and-municipality-in-census-2010-2020",
+  "title": "Housing Units by Type and Municipality",
+  "category": "real_estate",
+  "udc_business_value": "Residential demand patterns, product type optimization",
+  "expected_records": 200,
+  "file_size_bytes": 2252,
+  "downloaded_at": "2025-10-31T16:39:36.996951",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/housing-units-by-type-of-units-and-municipality-in-census-2010-2020/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

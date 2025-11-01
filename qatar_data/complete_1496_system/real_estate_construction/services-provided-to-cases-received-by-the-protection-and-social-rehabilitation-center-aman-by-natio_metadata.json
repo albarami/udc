@@ -1,0 +1,11 @@
+{
+  "dataset_id": "services-provided-to-cases-received-by-the-protection-and-social-rehabilitation-center-aman-by-nationality-gender-and-service-type",
+  "title": "Services Provided to Cases Received by the Protection and Social Rehabilitation Center (Aman) by Nationality, Gender and Service Type",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 20,
+  "file_size_bytes": 1792,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/services-provided-to-cases-received-by-the-protection-and-social-rehabilitation-center-aman-by-nationality-gender-and-service-type/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:04.956831",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

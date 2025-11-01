@@ -1,0 +1,21 @@
+{
+  "test_date": "2025-10-31T23:19:12.780344",
+  "api_key_used": "SAYzpCnxTxgayxysRRQM...",
+  "queries": {
+    "real_estate": {
+      "query": "\"qatar real estate\" OR \"doha property\"",
+      "papers_found": 0,
+      "top_papers": []
+    },
+    "tourism": {
+      "query": "\"qatar tourism\" OR \"qatar hospitality\"",
+      "papers_found": 0,
+      "top_papers": []
+    },
+    "urban_development": {
+      "query": "\"gcc urban development\" OR \"gulf cities\"",
+      "papers_found": 0,
+      "top_papers": []
+    }
+  }
+}

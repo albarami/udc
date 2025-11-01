@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "source": "UDC Annual Reports and Market Analysis",
+    "last_updated": "2024-10-31",
+    "note": "Some metrics estimated where exact data not publicly disclosed"
+  },
+  "the_pearl_qatar": {
+    "overview": {
+      "location": "The Pearl-Qatar Island, Doha",
+      "total_area_sqm": 4000000,
+      "built_area_sqm": 1500000,
+      "residents": 52000,
+      "units_total": 18000,
+      "ownership": "Freehold for all nationalities",
+      "precincts": 10
+    },
+    "residential_units": {
+      "apartments": 15000,
+      "townhouses": 2000,
+      "villas": 1000,
+      "average_occupancy_percent": 75,
+      "estimated_range": "72-78%",
+      "note": "Varies significantly by precinct"
+    },
+    "precinct_performance": [
+      {
+        "name": "Porto Arabia",
+        "units": 3500,
+        "estimated_occupancy_percent": 85,
+        "avg_rental_rate_qar_per_sqm_annual": 180,
+        "status": "Strong performance"
+      },
+      {
+        "name": "Qanat Quartier",
+        "units": 2800,
+        "estimated_occupancy_percent": 80,
+        "avg_rental_rate_qar_per_sqm_annual": 170,
+        "status": "Stable"
+      },
+      {
+        "name": "Viva Bahriya",
+        "units": 2200,
+        "estimated_occupancy_percent": 78,
+        "avg_rental_rate_qar_per_sqm_annual": 165,
+        "status": "Good"
+      },
+      {
+        "name": "Floresta",
+        "units": 1800,
+        "estimated_occupancy_percent": 55,
+        "avg_rental_rate_qar_per_sqm_annual": 150,
+        "status": "Underperforming - action needed",
+        "concerns": "Distance from amenities, family orientation mismatch"
+      },
+      {
+        "name": "Medina Centrale",
+        "units": 2000,
+        "estimated_occupancy_percent": 70,
+        "avg_rental_rate_qar_per_sqm_annual": 160,
+        "status": "Below target",
+        "retail_occupancy_percent": 60,
+        "retail_note": "Retail struggling more than residential"
+      }
+    ],
+    "commercial_space": {
+      "retail_sqm": 150000,
+      "office_sqm": 50000,
+      "estimated_retail_occupancy_percent": 70,
+      "estimated_office_occupancy_percent": 75,
+      "key_tenants": "Various F&B, retail, services"
+    },
+    "amenities": {
+      "marinas": 2,
+      "marina_berths": 800,
+      "marina_occupancy_percent": 85,
+      "beaches": 3,
+      "parks": 12,
+      "schools": 1,
+      "hotels": 5
+    },
+    "pricing_trends": {
+      "2023_avg_sale_price_qar_per_sqm": 17500,
+      "2024_q3_avg_sale_price_qar_per_sqm": 17200,
+      "trend": "Slight softening due to Lusail competition",
+      "rental_yield_percent": 4.5,
+      "sales_velocity_units_per_month": 45
+    }
+  },
+  "gewan_island": {
+    "overview": {
+      "location": "Off West Bay Lagoon, Doha",
+      "total_project_value": 6000000000,
+      "total_area_sqm": 400000,
+      "project_phases": 2,
+      "current_phase": 1,
+      "sustainability": "GSAS 4-5 star target"
+    },
+    "phase_1_crystal_residence": {
+      "status": "Under construction",
+      "expected_completion": "Q2 2025",
+      "units_total": 800,
+      "apartments": 700,
+      "penthouses": 100,
+      "pre_sales_rate_percent": 18,
+      "pre_sales_rate_note": "As of Q3 2024, below target",
+      "target_sale_price_qar_per_sqm": 19000,
+      "actual_achieved_qar_per_sqm": 18200,
+      "capital_committed": 650000000
+    },
+    "phase_1_amenities": {
+      "beach_club": "Planned",
+      "marina": "50 berths",
+      "retail": "15,000 sqm",
+      "restaurants": "10+ outlets",
+      "pools": "Multiple infinity pools",
+      "sustainability_features": "Solar panels, district cooling, EV charging"
+    },
+    "phase_2_planning": {
+      "status": "Conditional - awaiting Phase 1 performance",
+      "planned_units": 1200,
+      "estimated_investment": 3500000000,
+      "decision_gates": {
+        "gate_1": "Phase 1 pre-sales >40% by Q1 2025",
+        "gate_2": "Debt-to-equity <0.50 by Q2 2025",
+        "gate_3": "Market demand validation by Q3 2025"
+      }
+    },
+    "competitive_positioning": {
+      "target_customer": "High-income expats and Qataris, investors",
+      "key_differentiators": [
+        "Island exclusivity",
+        "Marina lifestyle",
+        "Sustainability leadership",
+        "West Bay proximity"
+      ],
+      "key_challenges": [
+        "Price premium vs Lusail (12% higher)",
+        "Slower pre-sales than projected",
+        "Lusail supply overhang risk"
+      ]
+    }
+  },
+  "other_properties": {
+    "lusail_plots": {
+      "location": "Lusail City",
+      "status": "Land bank - future development",
+      "estimated_value": 500000000
+    },
+    "costa_malaz": {
+      "location": "Malaz Island",
+      "status": "For sale",
+      "book_value": 180000000,
+      "potential_sale_price": 200000000,
+      "note": "Asset optimization opportunity"
+    }
+  },
+  "market_context": {
+    "qatar_real_estate_market": {
+      "total_population": 2900000,
+      "expat_percentage": 88,
+      "gdp_growth_2024_percent": 2.3,
+      "major_competitors": [
+        "Lusail City",
+        "West Bay",
+        "Msheireb Downtown",
+        "Al Dafna"
+      ]
+    },
+    "lusail_threat_assessment": {
+      "residential_supply_2024": 5000,
+      "residential_supply_2025_projected": 8000,
+      "avg_price_qar_per_sqm": 16500,
+      "price_advantage_vs_pearl_percent": -5,
+      "price_advantage_vs_gewan_percent": -15,
+      "key_advantages": "Smart city tech, newer, Metro access",
+      "key_disadvantages": "Less established community, ongoing construction"
+    }
+  },
+  "strategic_priorities": {
+    "pearl_island": [
+      "Increase Floresta occupancy to 65%+ by Q2 2025",
+      "Stabilize Medina retail (tenant mix optimization)",
+      "Maintain Porto Arabia premium positioning",
+      "Community activation events"
+    ],
+    "gewan_island": [
+      "Accelerate pre-sales to 40% by Q1 2025",
+      "Consider pricing adjustment (-5% selective)",
+      "Complete on time with quality (Q2 2025)",
+      "Phase 2 decision based on gates"
+    ],
+    "portfolio_optimization": [
+      "Divest non-core: Costa Malaz sale target Q4 2024",
+      "Selective Lusail plot development or sale",
+      "Focus capital on high-ROI projects"
+    ]
+  }
+}
+

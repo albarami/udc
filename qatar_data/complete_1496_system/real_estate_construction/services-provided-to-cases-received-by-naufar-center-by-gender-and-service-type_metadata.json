@@ -1,0 +1,11 @@
+{
+  "dataset_id": "services-provided-to-cases-received-by-naufar-center-by-gender-and-service-type",
+  "title": "Services provided to cases received by Naufar Center by gender and service type",
+  "category": "real_estate_construction",
+  "publisher": "National Planning Council",
+  "actual_records": 20,
+  "file_size_bytes": 1560,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/services-provided-to-cases-received-by-naufar-center-by-gender-and-service-type/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:05.644625",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

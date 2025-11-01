@@ -1,0 +1,13 @@
+{
+  "dataset_id": "completed-buildings-residential-and-residentialcommercial-by-municipality-in-2015-census",
+  "title": "Completed Residential Buildings by Municipality",
+  "category": "real_estate",
+  "udc_business_value": "Supply pipeline analysis, competitive landscape",
+  "expected_records": 14,
+  "file_size_bytes": 654130,
+  "downloaded_at": "2025-10-31T16:39:38.854838",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/completed-buildings-residential-and-residentialcommercial-by-municipality-in-2015-census/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

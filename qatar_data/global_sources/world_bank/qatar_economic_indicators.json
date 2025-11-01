@@ -1,0 +1,160 @@
+{
+  "country": "QAT",
+  "indicators": {
+    "NY.GDP.MKTP.CD": [
+      {
+        "year": "2023",
+        "value": 213002809340.659,
+        "indicator_name": "GDP (current US$)"
+      },
+      {
+        "year": "2022",
+        "value": 235709325714.286,
+        "indicator_name": "GDP (current US$)"
+      },
+      {
+        "year": "2021",
+        "value": 179732009560.44,
+        "indicator_name": "GDP (current US$)"
+      },
+      {
+        "year": "2020",
+        "value": 144411363351.648,
+        "indicator_name": "GDP (current US$)"
+      },
+      {
+        "year": "2019",
+        "value": 176371267692.308,
+        "indicator_name": "GDP (current US$)"
+      },
+      {
+        "year": "2018",
+        "value": 183334953818.681,
+        "indicator_name": "GDP (current US$)"
+      }
+    ],
+    "NY.GDP.MKTP.KD.ZG": [
+      {
+        "year": "2023",
+        "value": 1.18715991623776,
+        "indicator_name": "GDP growth (annual %)"
+      },
+      {
+        "year": "2022",
+        "value": 4.18500970982862,
+        "indicator_name": "GDP growth (annual %)"
+      },
+      {
+        "year": "2021",
+        "value": 1.62684671918775,
+        "indicator_name": "GDP growth (annual %)"
+      },
+      {
+        "year": "2020",
+        "value": -3.5576039896784,
+        "indicator_name": "GDP growth (annual %)"
+      },
+      {
+        "year": "2019",
+        "value": 0.688240954592672,
+        "indicator_name": "GDP growth (annual %)"
+      },
+      {
+        "year": "2018",
+        "value": 1.23487220191065,
+        "indicator_name": "GDP growth (annual %)"
+      }
+    ],
+    "BX.KLT.DINV.CD.WD": [
+      {
+        "year": "2023",
+        "value": -474175824.175824,
+        "indicator_name": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      {
+        "year": "2022",
+        "value": 76098901.0989008,
+        "indicator_name": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      {
+        "year": "2021",
+        "value": -1093406593.40659,
+        "indicator_name": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      {
+        "year": "2020",
+        "value": -2434065934.06593,
+        "indicator_name": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      {
+        "year": "2019",
+        "value": -2812637362.63736,
+        "indicator_name": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      {
+        "year": "2018",
+        "value": -2186263736.26373,
+        "indicator_name": "Foreign direct investment, net inflows (BoP, current US$)"
+      }
+    ],
+    "NE.CON.TOTL.ZS": [
+      {
+        "year": "2022",
+        "value": 32.3736186203497,
+        "indicator_name": "Final consumption expenditure (% of GDP)"
+      },
+      {
+        "year": "2021",
+        "value": 38.5255624175213,
+        "indicator_name": "Final consumption expenditure (% of GDP)"
+      },
+      {
+        "year": "2020",
+        "value": 47.9321343381865,
+        "indicator_name": "Final consumption expenditure (% of GDP)"
+      },
+      {
+        "year": "2019",
+        "value": 41.9332498475232,
+        "indicator_name": "Final consumption expenditure (% of GDP)"
+      },
+      {
+        "year": "2018",
+        "value": 39.2956223708568,
+        "indicator_name": "Final consumption expenditure (% of GDP)"
+      }
+    ],
+    "NV.IND.TOTL.ZS": [
+      {
+        "year": "2023",
+        "value": 60.3680507871752,
+        "indicator_name": "Industry (including construction), value added (% of GDP)"
+      },
+      {
+        "year": "2022",
+        "value": 65.3488994932063,
+        "indicator_name": "Industry (including construction), value added (% of GDP)"
+      },
+      {
+        "year": "2021",
+        "value": 59.9840087955078,
+        "indicator_name": "Industry (including construction), value added (% of GDP)"
+      },
+      {
+        "year": "2020",
+        "value": 52.333430723643,
+        "indicator_name": "Industry (including construction), value added (% of GDP)"
+      },
+      {
+        "year": "2019",
+        "value": 57.1645660780351,
+        "indicator_name": "Industry (including construction), value added (% of GDP)"
+      },
+      {
+        "year": "2018",
+        "value": 60.3815234948425,
+        "indicator_name": "Industry (including construction), value added (% of GDP)"
+      }
+    ]
+  }
+}

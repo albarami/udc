@@ -1,0 +1,11 @@
+{
+  "dataset_id": "judicial-and-security-services-number-of-defendants-by-gender-and-age",
+  "title": "Judicial and Security Services - Number of Defendants By Gender And Age",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 972,
+  "file_size_bytes": 100592,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/judicial-and-security-services-number-of-defendants-by-gender-and-age/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:44.554963",
+  "completion_phase": "missing_192_to_reach_1167"
+}

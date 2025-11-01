@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-tobacco-smokers-by-type-of-smoker-nationality-and-gender",
+  "title": "Percentage of Tobacco Smokers By Type of Smoker, Nationality, And Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 18,
+  "file_size_bytes": 1185,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-tobacco-smokers-by-type-of-smoker-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:43.066578",
+  "completion_phase": "missing_192_to_reach_1167"
+}

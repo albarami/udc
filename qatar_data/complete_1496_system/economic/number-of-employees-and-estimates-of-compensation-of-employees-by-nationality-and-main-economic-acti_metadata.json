@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-employees-and-estimates-of-compensation-of-employees-by-nationality-and-main-economic-activity",
+  "title": "Number of Employees and Estimates of Compensation of Employees by Nationality and Main Economic Activity",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 62,
+  "file_size_bytes": 8885,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-and-estimates-of-compensation-of-employees-by-nationality-and-main-economic-activity/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:18.449897",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

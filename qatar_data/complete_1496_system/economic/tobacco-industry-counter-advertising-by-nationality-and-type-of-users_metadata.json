@@ -1,0 +1,11 @@
+{
+  "dataset_id": "tobacco-industry-counter-advertising-by-nationality-and-type-of-users",
+  "title": "Tobacco Industry Counter Advertising By Nationality and Type of Users",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 9,
+  "file_size_bytes": 1022,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/tobacco-industry-counter-advertising-by-nationality-and-type-of-users/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:19.786137",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

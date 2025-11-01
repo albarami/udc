@@ -1,0 +1,2545 @@
+
+
+====================================================================================================
+CATEGORY: Economic & Financial
+====================================================================================================
+
+[Confidence: 100] Number of Lawsuits Filed in the Investment and Trade Court by Lawsuit Classification
+
+[Confidence:  80] GDP by Activity at Constant 2018 prices
+
+[Confidence:  80] GDP by Activity at Current Prices, 2019-2023
+
+[Confidence:  80] GDP by Components of Expenditure at Current Prices, 2019-2023
+
+[Confidence:  80] Households benefiting of monthly financial assistance provided by Social Development Center by nationality
+
+[Confidence:  80] Quarterly GDP by Activity at constant 2018 Prices, 2023 (Q4)
+
+[Confidence:  80] Quarterly GDP by Activity at Current Prices, 2023 (Q4)
+
+[Confidence:  80] State Budget Financial Data
+
+[Confidence:  60] Annual Main Macro-Economic Indicators, 2019–2023
+
+[Confidence:  60] Annual Main Macro-Economic Indicators, 2019–2023
+
+[Confidence:  60] Average Monthly Air Pollutants Indicator – Movenpick (Qatar University)
+
+[Confidence:  60] Average Monthly Air Pollutants Indicator – Movenpick (Qatar University)
+
+[Confidence:  60] Average Monthly of the Air Pollutants Indicator - Aspire Zone
+
+[Confidence:  60] Average Monthly of the Air Pollutants Indicator - Aspire Zone
+
+[Confidence:  60] Average Monthly of the Air Pollutants Indicator - Movenpick (Al Corniche)
+
+[Confidence:  60] Average Monthly of the Air Pollutants Indicator - Movenpick (Al Corniche)
+
+[Confidence:  60] Average monthly wages by economic activity
+
+[Confidence:  60] Average monthly wages by economic activity
+
+[Confidence:  60] Economic Dependency Ratio by Gender
+
+[Confidence:  60] Economic Freedom Index
+
+[Confidence:  60] Economic Indicators for Mining and Quarrying by Activity, Component, and Unit
+
+[Confidence:  60] Economically Active Females (15 Years & Above) by Sector and Economic Activity
+
+[Confidence:  60] Economically Active Males (15 Years & Above) by Sector and Economic Activity
+
+[Confidence:  60] Estimates of gross value, depreciation and net value added by main economic activity
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Constant Prices (2018 = 100), Q2 2024
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Constant Prices (2018 = 100), Q3, 2024
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Constant Prices (2018 = 100), Q4 2024
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Constant Prices (2018=100) in Million Q.R.
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Current Prices
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Current Prices, Q2, 2024
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Current Prices, Q3, 2024
+
+[Confidence:  60] Estimates of Quarterly Gross Domestic Product by Economic Activities at Current Prices, Q4, 2024
+
+[Confidence:  60] Estimates of Value Added by Main Economic Activity
+
+[Confidence:  60] Estimates of Value Added by Main Economic Activity (Activity Codes 49-61, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value Added by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value Added By Main Economic Activity (Activity Codes 5-61, ISIC Rev.4) - Less than 10 Employees
+
+[Confidence:  60] Estimates of Value Added by Main Economic Activity (Activity Codes 53-5229, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value Added by Main Economic Activity (Activity Codes 60-64, ISIC Rev.3)
+
+[Confidence:  60] Estimates of Value Added by Main Economic Activity (Activity Codes 6021-6420) ISIC Rev.3
+
+[Confidence:  60] Estimates of Value of Intermediate Goods by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value of Intermediate Goods by Main Economic Activity (Activity Codes 53-5229, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value of Intermediate Goods By Main Economic Activity (Less Than 10 Employees) (Activity Codes 6021-6420) ISIC Rev 3
+
+[Confidence:  60] Estimates of Value of Intermediate Services by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value of Intermediate Services by Main Economic Activity (Activity Codes 53-5229, ISIC Rev.4)
+
+[Confidence:  60] Estimates of Value of Intermediate Services By Main Economic Activity (Activity Codes 6021-6420, ISIC Rev.3) - Less than 10 Employees
+
+[Confidence:  60] Estimates value added by main economic activity
+
+[Confidence:  60] Female Economic Participation Rate by Educational Status and Age Group
+
+[Confidence:  60] Firms, Investment and Labors of Undefined Industrial Sectors
+
+[Confidence:  60] Incidence Rate of Communicable Diseases by Indicator – Annual
+
+[Confidence:  60] Main Economic Indicators by Distribution of Net Value Added and Main Economic Activity
+
+[Confidence:  60] Main Economic Indicators by Insurance Company Nationality
+
+[Confidence:  60] Main Economic Indicators By Main Economic Activity
+
+[Confidence:  60] Main Economic Indicators by Main Economic Activity (Activity Codes 49-61, ISIC Rev.4)
+
+[Confidence:  60] Main Economic Indicators by Main Economic Activity (Activity Codes 4922-6190, ISIC Rev.4)
+
+[Confidence:  60] Main Economic Indicators By Main Economic Activity (Activity Codes 5-4925, ISIC Rev.4) - Less than 10 Employees
+
+[Confidence:  60] Main Economic Indicators by Main Economic Activity (Activity Codes 60-64, ISIC Rev.3)
+
+[Confidence:  60] Main Economic Indicators by Main Economic Activity (Activity Codes 6021-6420, ISIC Rev.3)
+
+[Confidence:  60] Main Economic Indicators by Main Economic Activity (Establishments with 10 Employees or more)
+
+[Confidence:  60] Main Economic Indicators By Main Economic Activity of Trasnport and Communication Sectors (10 Employees & More)
+
+[Confidence:  60] Main economic indicators of transportation and communication activity by size of establishment
+
+[Confidence:  60] Number of Employees & Estimates of Compensations of Employees by Nationality & Main Economic Activity (2014-2019)
+
+[Confidence:  60] Number of Employees by Sex, Nationality & Main Economic Activity (2014–2019)
+
+[Confidence:  60] Number of Employees by Sex, Nationality & Main Economic Activity (2020–2021)
+
+[Confidence:  60] Number of Employees by Sex, Nationality & Main Economic Activity (Activity Codes 6021-6420, ISIC Rev.3) - Less than 10 Employees
+
+[Confidence:  60] Number of establishments & employees by size of establishment & main economic activity
+
+[Confidence:  60] Number of Establishments and Employees by Size of Establishment and Main Economic Activity
+
+[Confidence:  60] Number of Operating Establishments by Economic Sector in 2004, 2010, and 2015 Censuses
+
+[Confidence:  60] Percentage Change Of Gross Domestic Product by Economic Activities  at Current Prices-Quarterly basis
+
+[Confidence:  60] Percentage Change Of Gross Domestic Product by Economic Activities at Constant Prices (2018=100)- Annual basis
+
+[Confidence:  60] Percentage Change Of Gross Domestic Product by Economic Activities at Constant Prices (2018=100)-Quarterly basis
+
+[Confidence:  60] Percentage Change of Gross Domestic Product by Economic Activities at Current Prices – Annual Basis
+
+[Confidence:  60] Percentage Distribution Of Gross Domestic Product by Economic Activities at Constant Prices (2018=100)-Quarterly basis
+
+[Confidence:  60] Percentage Distribution Of Gross Domestic Product by Economic Activities at Current Prices-Quarterly basis
+
+[Confidence:  60] Qatar Economic Performance Compared with Other Regions, 2021-2023
+
+[Confidence:  60] Quarterly Main Macro-Economic Indicators 2022-2023
+
+[Confidence:  60] Quarterly Main Macro-Economic Indicators 2022-2023 - for visualisation
+
+[Confidence:  60] Total Exports, Imports and Merchandise Trade Balance, 2023 (Q4)
+
+[Confidence:  60] Trade Data for Aircraft, Spacecraft and Parts
+
+[Confidence:  60] Trade Data for Aluminium And Articles Thereof
+
+[Confidence:  60] Trade Data for Amino-resins and Related Polymers
+
+[Confidence:  60] Trade Data for Arms And Ammunition
+
+[Confidence:  60] Trade Data for Articles Of Iron Or Steel
+
+[Confidence:  60] Trade Data for Beverages, Spirits And Vinegar
+
+[Confidence:  60] Trade Data for Carpets And Textile Floor Coverings
+
+[Confidence:  60] Trade Data for Ceramic Products
+
+[Confidence:  60] Trade Data for Cereals
+
+[Confidence:  60] Trade Data for Chemical Products (Misc., Heading 3824)
+
+[Confidence:  60] Trade Data for Clocks And Watches And Parts
+
+[Confidence:  60] Trade Data for Cocoa And Cocoa Preparations
+
+[Confidence:  60] Trade Data for Coffee, Tea, Mate And Spices
+
+[Confidence:  60] Trade Data for Copper And Articles Thereof
+
+[Confidence:  60] Trade Data for Cork And Articles Of Cork
+
+[Confidence:  60] Trade Data for Cotton
+
+[Confidence:  60] Trade Data for Dairy Produce, Eggs, Honey, and Other Edible Animal Products
+
+[Confidence:  60] Trade Data for Edible Fruit And Nuts, Peel Of Citrus Fruits Or Melons
+
+[Confidence:  60] Trade Data for Edible Vegetables And Certain Roots And Tubers
+
+[Confidence:  60] Trade Data for Electrical Machinery and Equipment
+
+[Confidence:  60] Trade Data for Explosives and Pyrotechnics
+
+[Confidence:  60] Trade Data for Fats and Oils of Animal or Vegetable Origin
+
+[Confidence:  60] Trade Data for Feathers, Artificial Flowers, Human Hair Articles
+
+[Confidence:  60] Trade Data for Fertilizers
+
+[Confidence:  60] Trade Data for Fish And Crustaceans, Molluscs And Other Aquatic Invertebrates
+
+[Confidence:  60] Trade Data for Footwear and Parts
+
+[Confidence:  60] Trade Data for Furniture, Lamps, Bedding and Similar Articles
+
+[Confidence:  60] Trade Data for Furskins and Artificial Fur
+
+[Confidence:  60] Trade Data for Glass And Glassware
+
+[Confidence:  60] Trade Data for Glues, Enzymes and Related Substances
+
+[Confidence:  60] Trade Data for Gums, Resins, and Vegetable Extracts
+
+[Confidence:  60] Trade Data for Headgear and Parts Thereof
+
+[Confidence:  60] Trade Data for Hides And Skins (Other Than Furskins) And Leather
+
+[Confidence:  60] Trade Data for Inorganic and Precious Metal Compounds
+
+[Confidence:  60] Trade Data for Iron And Steel
+
+[Confidence:  60] Trade Data for Knitted Apparel and Accessories
+
+[Confidence:  60] Trade Data for Knitted Or Crocheted Fabrics
+
+[Confidence:  60] Trade Data for Lead And Articles Thereof
+
+[Confidence:  60] Trade Data for Leather Goods and Animal Gut Articles
+
+[Confidence:  60] Trade Data for Live Animals
+
+[Confidence:  60] Trade Data for Live Plants, Bulbs, Cut Flowers and Foliage
+
+[Confidence:  60] Trade Data for Man-Made Filaments
+
+[Confidence:  60] Trade Data for Man-Made Staple Fibres
+
+[Confidence:  60] Trade Data for Meat And Edible Meat Offal
+
+[Confidence:  60] Trade Data for Medicaments with Alkaloids (Norephedrine)
+
+[Confidence:  60] Trade Data for Medicaments with Alkaloids (Pseudoephedrine)
+
+[Confidence:  60] Trade Data for Milling Products, Malt, Starches, Inulin, Gluten
+
+[Confidence:  60] Trade Data for Mineral Fuels and Distillation Products
+
+[Confidence:  60] Trade Data for Miscellaneous Base Metal Articles
+
+[Confidence:  60] Trade Data for Miscellaneous Chemical Products
+
+[Confidence:  60] Trade Data for Miscellaneous Edible Preparations
+
+[Confidence:  60] Trade Data for Miscellaneous Manufactured Articles
+
+[Confidence:  60] Trade Data for Mixed Juices with Sweeteners (Concentrated)
+
+[Confidence:  60] Trade Data for Mixed Juices with Sweeteners (Unfocused)
+
+[Confidence:  60] Trade Data for Musical Instruments and Accessories
+
+[Confidence:  60] Trade Data for Nickel And Articles Thereof
+
+[Confidence:  60] Trade Data for Non-Knitted Apparel and Accessories
+
+[Confidence:  60] Trade Data for Nuclear Reactors, Boilers, Machinery
+
+[Confidence:  60] Trade Data for Oil Seeds, Grains, and Fodder Plants
+
+[Confidence:  60] Trade Data for Optical and Medical Instruments
+
+[Confidence:  60] Trade Data for Ores, Slag And Ash
+
+[Confidence:  60] Trade Data for Organic Chemicals
+
+[Confidence:  60] Trade Data for Other Animal Products
+
+[Confidence:  60] Trade Data for Other Base Metals and Cermets
+
+[Confidence:  60] Trade Data for Other Tanning or Dyeing Extracts
+
+[Confidence:  60] Trade Data for Other Vegetable Fibers and Paper Yarn
+
+[Confidence:  60] Trade Data for Paints, Dyes, Inks and Related Materials
+
+[Confidence:  60] Trade Data for Paper and Paperboard Products
+
+[Confidence:  60] Trade Data for Pearls, Stones, Precious Metals, Jewellery
+
+[Confidence:  60] Trade Data for Perfumes, Cosmetics and Toiletries
+
+[Confidence:  60] Trade Data for Personal Effects
+
+[Confidence:  60] Trade Data for Pharmaceutical Products
+
+[Confidence:  60] Trade Data for Photographic and Cinematographic Products
+
+[Confidence:  60] Trade Data for Plastics And Plastic Products
+
+[Confidence:  60] Trade Data for Preparations Of Cereals, Flour, Starch Or Milk
+
+[Confidence:  60] Trade Data for Preparations Of Vegetables, Fruit, Nuts Or Other Parts Of Plants
+
+[Confidence:  60] Trade Data for Prepared Meat, Fish or Aquatic Invertebrates
+
+[Confidence:  60] Trade Data for Printed Material
+
+[Confidence:  60] Trade Data for Railway and Tramway Equipment
+
+[Confidence:  60] Trade Data for Salt, Sulphur, Earths And Stone, Cement
+
+[Confidence:  60] Trade Data for Ships, Boats And Floating Structures
+
+[Confidence:  60] Trade Data for Silk
+
+[Confidence:  60] Trade Data for Soaps, Detergents, Waxes, Candles, and Polishes
+
+[Confidence:  60] Trade Data for Special Fabrics and Embroidery
+
+[Confidence:  60] Trade Data for Stone, Plaster, Cement, Asbestos, Mica Products
+
+[Confidence:  60] Trade Data for Sugars And Sugar Confectionery
+
+[Confidence:  60] Trade Data for Technical Textile Fabrics
+
+[Confidence:  60] Trade Data for Tin And Articles Thereof
+
+[Confidence:  60] Trade Data for Tobacco And Manufactured Tobacco Substitutes
+
+[Confidence:  60] Trade Data for Tools, Cutlery, and Tableware
+
+[Confidence:  60] Trade Data for Toys, Games And Sports Equipment
+
+[Confidence:  60] Trade Data for Umbrellas, Walking Sticks and Similar Articles
+
+[Confidence:  60] Trade Data for Vegetable Plaiting and Other Plant Products
+
+[Confidence:  60] Trade Data for Vehicles and Parts (Non-Rail)
+
+[Confidence:  60] Trade Data for Wadding, Felt, Twine and Rope
+
+[Confidence:  60] Trade Data for Wickerwork And Basketwork
+
+[Confidence:  60] Trade Data for WOOD - RED WOOD
+
+[Confidence:  60] Trade Data for Wood Joinery (Bamboo)
+
+[Confidence:  60] Trade Data for Wood Joinery (Other than Bamboo)
+
+[Confidence:  60] Trade Data for Wood Pulp, Cellulose Fibers, Paper Scrap
+
+[Confidence:  60] Trade Data for Wood, Articles Of Wood, and Wood Charcoal
+
+[Confidence:  60] Trade Data for Wool, Animal Hair, and Horsehair Fabrics
+
+[Confidence:  60] Trade Data for Works Of Art, Collectors' Pieces And Antiques
+
+[Confidence:  60] Trade Data for Worn Clothing and Used Textiles
+
+[Confidence:  60] Trade Data for Zinc And Articles Thereof
+
+[Confidence:  60] Trade Statistics for Rubber and Articles Thereof
+
+[Confidence:  30] Accident
+
+[Confidence:  30] Accident
+
+[Confidence:  30] Activities, rendered by the Family Consulting Center (Wifaq)
+
+[Confidence:  30] Activities, rendered by the Family Consulting Center (Wifaq)
+
+[Confidence:  30] Activities, rendered by the Family Consulting Center and number of beneficiaries
+
+[Confidence:  30] Activities, rendered by the Family Consulting Center and number of beneficiaries
+
+[Confidence:  30] Adult Athletes' Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Adult Athletes' Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Adult Athletes’ Championships by Implementation Level
+
+[Confidence:  30] Adult Athletes’ Championships by Implementation Level
+
+[Confidence:  30] Adult Athletes’ Championships by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Adult Athletes’ Championships by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Air Traffic Data
+
+[Confidence:  30] Air Traffic Data
+
+[Confidence:  30] Annual Average of Air Quality - Doha City
+
+[Confidence:  30] Annual Average of Air Quality - Doha City
+
+[Confidence:  30] Annual average wind speed by selected weather monitoring stations
+
+[Confidence:  30] Annual average wind speed by selected weather monitoring stations
+
+[Confidence:  30] Annual Birth And Mortality Statistics
+
+[Confidence:  30] Annual Birth And Mortality Statistics
+
+[Confidence:  30] Annual Certificates of Origin by Type and Importing Country
+
+[Confidence:  30] Annual Certificates of Origin by Type and Importing Country
+
+[Confidence:  30] Annual Certificates of Origin by Type and Importing Country (Open Access Data)
+
+[Confidence:  30] Annual Certificates of Origin by Type and Importing Country (Open Access Data)
+
+[Confidence:  30] Annual Graduation Rate by Student Cohort
+
+[Confidence:  30] Annual Graduation Rate by Student Cohort
+
+[Confidence:  30] Annual Load Factors by Sector (%)
+
+[Confidence:  30] Annual Load Factors by Sector (%)
+
+[Confidence:  30] Annual Relative Humidity and Rainfall – Qatar
+
+[Confidence:  30] Annual Relative Humidity and Rainfall – Qatar
+
+[Confidence:  30] Area of Greenspaces and Road Medians by Municipality in Qatar
+
+[Confidence:  30] Area of Greenspaces and Road Medians by Municipality in Qatar
+
+[Confidence:  30] Area of Greenspaces, Area of Road Sides and Median Strips in Qatar, by Municipality
+
+[Confidence:  30] Area of Greenspaces, Area of Road Sides and Median Strips in Qatar, by Municipality
+
+[Confidence:  30] Area of Palms, Trees, Shrubs and Other Greenery in Public Parks by Municipality and Type of Vegetation
+
+[Confidence:  30] Area of Palms, Trees, Shrubs and Other Greenery in Public Parks by Municipality and Type of Vegetation
+
+[Confidence:  30] Area of Public Parks by Municipality
+
+[Confidence:  30] Area of Public Parks by Municipality
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Al- Rowais Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Al- Rowais Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Doha Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Doha Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Halul Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Halul Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Hamad Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Hamad Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Mesaieed Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Mesaieed Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Total
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Country of Registration Total
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Doha Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Doha Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Halul Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Halul Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Hamad Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Hamad Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Mesaieed Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Mesaieed Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Rowais Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Rowais Port
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Total
+
+[Confidence:  30] Arriving Vessels' Gross and Net Tonnage By Type of Vessel and Month Total
+
+[Confidence:  30] Asian Cup in Qatar Matches by Stages, Date and Stadiums (2023)
+
+[Confidence:  30] Asian Cup in Qatar Matches by Stages, Date and Stadiums (2023)
+
+[Confidence:  30] Assistance provided by Qatar Foundation for Child and Woman by type of service
+
+[Confidence:  30] Assistance provided by Qatar Foundation for Child and Woman by type of service
+
+[Confidence:  30] Assistant Coaches Accredited in Sports Federations by Place of Work and Nationality
+
+[Confidence:  30] Assistant Coaches Accredited in Sports Federations by Place of Work and Nationality
+
+[Confidence:  30] Assistant Coaches Accredited in Sports Federations, by Sports Activity, Place of Work and Nationality (2023)
+
+[Confidence:  30] Assistant Coaches Accredited in Sports Federations, by Sports Activity, Place of Work and Nationality (2023)
+
+[Confidence:  30] Assistant Coaches in Sports Federations by Activity, Workplace and Nationality (2021-2022)
+
+[Confidence:  30] Assistant Coaches in Sports Federations by Activity, Workplace and Nationality (2021-2022)
+
+[Confidence:  30] Average Daily Sunshine Hours
+
+[Confidence:  30] Average Daily Sunshine Hours
+
+[Confidence:  30] Average marine acidity (pH) measured at agreed suite of representative sampling stations
+
+[Confidence:  30] Average marine acidity (pH) measured at agreed suite of representative sampling stations
+
+[Confidence:  30] Beneficiaries of Security by Location of Branch
+
+[Confidence:  30] Beneficiaries of Security by Location of Branch
+
+[Confidence:  30] Beneficiaries of Social Security by Location
+
+[Confidence:  30] Beneficiaries of Social Security by Location
+
+[Confidence:  30] Breakdown of Total Emission – CO₂ Equivalents
+
+[Confidence:  30] Breakdown of Total Emission – CO₂ Equivalents
+
+[Confidence:  30] Bribery Risk Matrix
+
+[Confidence:  30] Bribery Risk Matrix
+
+[Confidence:  30] Budget for Health Sector Projects 2021
+
+[Confidence:  30] Cases Raised In Courts By Type of Case and Crime
+
+[Confidence:  30] Cases Raised In Courts By Type of Case and Crime
+
+[Confidence:  30] Cigarettes and Shisha Industry Advertising By Nationality and Type of User
+
+[Confidence:  30] Cigarettes and Shisha Industry Advertising By Nationality and Type of User
+
+[Confidence:  30] Cigarettes and Shisha Industry Advertising By Type of User
+
+[Confidence:  30] Cigarettes and Shisha Industry Advertising By Type of User
+
+[Confidence:  30] Citation Counts by Discipline
+
+[Confidence:  30] Citation Counts by Discipline
+
+[Confidence:  30] CO2 emission per unit of value added
+
+[Confidence:  30] Coaches Accredited in Sport Federations by Place of Work and Nationality
+
+[Confidence:  30] Coaches Accredited in Sport Federations by Sports Activity, Place of Work and Nationality
+
+[Confidence:  30] Coaches Accredited in Sport Federations by Sports Activity, Place of Work and Nationality (2023)
+
+[Confidence:  30] Coaches’ Training Courses by Implementation Level
+
+[Confidence:  30] Coaches’ Training Courses by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Coaches’ Training Courses by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Consumption of Ozone Depleting Substances by Type
+
+[Confidence:  30] Consumption of Ozone Depleting Substances Per Person (Kg)
+
+[Confidence:  30] Contracted Capacities by IWPPs
+
+[Confidence:  30] Corruption Perceptions Index (CPI)
+
+[Confidence:  30] Course Program Statistics at Qatar Digital Academy (2024)
+
+[Confidence:  30] Coverage of Protected Areas in Relation to Marine Areas
+
+[Confidence:  30] Daily Percentages of Air Quality Indicators - Movenpick (Al Corniche)
+
+[Confidence:  30] Daily Percentages of Air Quality Indicators - Qatar University
+
+[Confidence:  30] Daily Percentages of Air Quality Indicators – Aspire Zone
+
+[Confidence:  30] dataset-of-datasets
+
+[Confidence:  30] Departing Vessels' Gross and Net Tonnage By Type of Vessel and Month - Halul Port
+
+[Confidence:  30] Departing Vessels' Gross and Net Tonnage by Type of Vessel and Month - Mesaieed Port
+
+[Confidence:  30] Distribution of the number of households and their members by municipality
+
+[Confidence:  30] Drama and theater activities in Katara
+
+[Confidence:  30] Driving licenses renewed by month and nationality
+
+[Confidence:  30] E-Government Services Transactions (Hukoomi) by Year
+
+[Confidence:  30] E-Participation Index
+
+[Confidence:  30] E-Participation Index derived
+
+[Confidence:  30] Economics Of Tobacco Industry
+
+[Confidence:  30] Establishments and Facilities for Youth and Sports Activities
+
+[Confidence:  30] Estimates of Intermediate Goods Value by Insurance Company Nationality – Insurance Statistics
+
+[Confidence:  30] Estimates of Intermediate Services Value by Insurance Company Nationality – Insurance Statistics
+
+[Confidence:  30] Event and Webinars
+
+[Confidence:  30] Exhibition Data
+
+[Confidence:  30] Expenditures of Current Activity by Type and Nationality of Insurance Company
+
+[Confidence:  30] Export Unit Value Index (EXUVI)
+
+[Confidence:  30] Federations' Overseas Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Federations’ Overseas Championships by Implementation Level
+
+[Confidence:  30] Federations’ Overseas Championships by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Fixed meteorological and marine monitoring stations and seismic stations
+
+[Confidence:  30] Fog, Dust Storm and Haze – Monthly Occurrence
+
+[Confidence:  30] Funded Projects by Funding Source
+
+[Confidence:  30] Gas Consumption by IWPP (MMBTU) in 2023
+
+[Confidence:  30] General Visits Data
+
+[Confidence:  30] Government E-Services Directory with Usage Statistics
+
+[Confidence:  30] Graduate Job Placement by Location and Academic Year
+
+[Confidence:  30] Graduates of Public Colleges and universities by college, type of specialization and nationality
+
+[Confidence:  30] Graduation Rates by Program and Completion Time at Hamad Bin Khalifa University
+
+[Confidence:  30] Gross Domestic Product by Components Of Expenditure at Current Prices in Million Q.R.
+
+[Confidence:  30] Health Care Facility Classification by Type (2024)
+
+[Confidence:  30] Health Risk Prevalence Data (STEPwise Survey 2023)
+
+[Confidence:  30] High Education Staff
+
+[Confidence:  30] High Voltage Overhead Transmission Lines by Voltage Level (CKm)
+
+[Confidence:  30] Hydraulic design capacity of operating wastewater treatment plants by type of treatment (1,000 m3, day)
+
+[Confidence:  30] Implemented Championships by Implementation Level
+
+[Confidence:  30] Implemented Championships by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Implemented Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Implemented Training Camps by Implementation Level
+
+[Confidence:  30] Implemented Training Camps by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Implemented Training Camps by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Import Unit Value Index (IMUVI)
+
+[Confidence:  30] Industrial Producation Index (IPI)
+
+[Confidence:  30] Judicial and Security Services - Cases, and Closed Reports By Type
+
+[Confidence:  30] Junior Athletes (U 18) Championships by Sports’ Activity and Implementation Level
+
+[Confidence:  30] Junior Athletes (U16) Championships by Implementation Level
+
+[Confidence:  30] Junior Athletes (U16) Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Junior Athletes (U16) Championships by Sports’ Activity and Implementation Level
+
+[Confidence:  30] Junior Athletes (U18) Championships by Implementation Level
+
+[Confidence:  30] Junior Athletes (U18) Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Kid Athletes' Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Kid Athletes Championships by Sports Activity and Implementation Level
+
+[Confidence:  30] Kid Athletes’ Championships by Implementation Level
+
+[Confidence:  30] Length of Mains Laid by Year
+
+[Confidence:  30] License
+
+[Confidence:  30] Local Events Implemented by Type and Participant Demographics
+
+[Confidence:  30] Machinery & Equipment Price Index (MEPI)
+
+[Confidence:  30] Manufacture of Basic Metals
+
+[Confidence:  30] Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparations
+
+[Confidence:  30] Manufacture of Beverages
+
+[Confidence:  30] Manufacture of Chemicals and Chemical Products
+
+[Confidence:  30] Manufacture of Coke and Refined Petroleum Products
+
+[Confidence:  30] Manufacture of Computer, Electronic and Optical Products
+
+[Confidence:  30] Manufacture of Electrical Equipment
+
+[Confidence:  30] Manufacture of Fabricated Metal Products (Except Machinery and Equipment)
+
+[Confidence:  30] Manufacture of Food Products
+
+[Confidence:  30] Manufacture of Furniture
+
+[Confidence:  30] Manufacture of Leather and Related Products
+
+[Confidence:  30] Manufacture of Machinery and Equipment nec
+
+[Confidence:  30] Manufacture of Motor Vehicles, Trailers, and Semi-Trailers
+
+[Confidence:  30] Manufacture of Other Non-Metallic Mineral Products
+
+[Confidence:  30] Manufacture of Paper and Paper Products
+
+[Confidence:  30] Manufacture of Rubber and Plastics Products
+
+[Confidence:  30] Manufacture of Textiles
+
+[Confidence:  30] Manufacture of Wearing Apparel
+
+[Confidence:  30] Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials
+
+[Confidence:  30] Mass of Consumption of Ozone Depleting Substances, GWP and ODP
+
+[Confidence:  30] Matches Played According by Implementation Level
+
+[Confidence:  30] Matches Played by Sports Activity and Implementation Level
+
+[Confidence:  30] Maximum and Minimum System Load (MW)
+
+[Confidence:  30] Million Man Hours Without Loss Time Injury
+
+[Confidence:  30] MOCI Active Certificates by Municipality and Business Activity
+
+[Confidence:  30] MOCI Canceled Certificates by Municipality and Business Activity
+
+[Confidence:  30] MOCI Issued Certificates by Municipality and Business Activity
+
+[Confidence:  30] Monthly Average Daily Sunshine Duration – Hours
+
+[Confidence:  30] Monthly Average of Sport Practitioners at Ferjan Playgrounds
+
+[Confidence:  30] Monthly Average of Sports Practitioners in Ferjan Playgrounds
+
+[Confidence:  30] Monthly Environmental Indicators – Doha City
+
+[Confidence:  30] Monthly scheduled and non-scheduled aircrafts traffic by type, year and airline
+
+[Confidence:  30] Monthly Temperature and Relative Humidity Statistics – Qatar
+
+[Confidence:  30] Monthly Wastewater Volume
+
+[Confidence:  30] municipalities-in-qatar-2025-geojoin
+
+[Confidence:  30] Municipalities in Qatar 2025
+
+[Confidence:  30] Museum Collections & Exhibits
+
+[Confidence:  30] National Total GHG Inventory
+
+[Confidence:  30] Network Readiness Index
+
+[Confidence:  30] New driving licenses issued by month and nationality
+
+[Confidence:  30] Number and Length Of Bulk Service Connections (2023)
+
+[Confidence:  30] Number and Rate for Health Indicators in Government Sector
+
+[Confidence:  30] Number and Rate for Health Indicators in Private Sector
+
+[Confidence:  30] Number and Value of Insurance Policies by Type and Insurance Company Nationality – Insurance Statistics
+
+[Confidence:  30] Number of Ambulance Reports by Cause
+
+[Confidence:  30] Number of Ambulance Reports by Municipality
+
+[Confidence:  30] Number of Ambulance Reports by Time
+
+[Confidence:  30] Number of Animals and Different Type of Species in Zoological Garden by Type of Animal
+
+[Confidence:  30] Number of Beds in Government Hospitals
+
+[Confidence:  30] Number of Beds in Government Hospitals by Hospital
+
+[Confidence:  30] Number of Beds in Private Hospitals
+
+[Confidence:  30] Number of beneficiaries of health services in hospitals and health centers in Qatar by nationality
+
+[Confidence:  30] Number of boats and fishermen and the quantity of catch and fishing effort and aquaculture
+
+[Confidence:  30] Number of Books in Public Libraries by Library and Type of Book
+
+[Confidence:  30] Number of Cases from Traffic Accidents by Type of Case
+
+[Confidence:  30] Number of Cases from Traffic Accidents by Type of Case and Cause of the Accident
+
+[Confidence:  30] Number of Cases from Traffic Accidents by Type of Case and Traffic Department
+
+[Confidence:  30] Number of Cinema Halls
+
+[Confidence:  30] Number of Covid-19 Cases and Rate by Year
+
+[Confidence:  30] Number of Enrolled Students by Academic Program
+
+[Confidence:  30] Number of Enrolled Students by College
+
+[Confidence:  30] Number of Fire Accidents by Cause of Fire
+
+[Confidence:  30] Number of Fire Accidents by Place of Occurrence
+
+[Confidence:  30] Number of government and private hospitals and health centers
+
+[Confidence:  30] Number of Graduates by Degree and Academic Year
+
+[Confidence:  30] Number of Health Facilities by Type of Health Facility – 2019
+
+[Confidence:  30] Number of Insured Individuals (2024)
+
+[Confidence:  30] Number of Issued Newspapers and Magazines by Type of Publication and Period
+
+[Confidence:  30] Number of Laboratory Tests Done in Hamad Medical Corporation by Type of Laboratory
+
+[Confidence:  30] Number of Movies Shown in Movie Theaters by Language
+
+[Confidence:  30] Number of Newly Enrolled Students By Academic Year
+
+[Confidence:  30] Number of Organisms Traded Legally and Illegally
+
+[Confidence:  30] Number of Paramedics' Patients by Nationality
+
+[Confidence:  30] Number of Patents Filed by Year
+
+[Confidence:  30] Number of Patients who were Examined and Diagnosed with Infectious Diseases at the Medical Commission by Disease
+
+[Confidence:  30] Number of Patients who were Examined at the Medical Commission
+
+[Confidence:  30] Number of Periodicals in Public Libraries by Library
+
+[Confidence:  30] Number of Playground in Schools by Type of Playground, Municipality, and Year
+
+[Confidence:  30] Number of post offices, agencies and mail boxes by year
+
+[Confidence:  30] Number of private centers, number of training courses and number of trainees
+
+[Confidence:  30] Number of Public Parks by Municipality
+
+[Confidence:  30] Number of Public Schools and their Students by Municipality, Level of Education, and Type of School
+
+[Confidence:  30] Number of Public Schools, and their Classes, Students, and Teachers by Level of Education and Type of School
+
+[Confidence:  30] Number of Reconciliation and Anonymous Reporting Accidents
+
+[Confidence:  30] Number of recorded terrestrial violations by type of violation
+
+[Confidence:  30] Number of Reported Cases of Tuberculosis by Nationality
+
+[Confidence:  30] Number of Reports by Procuratorates
+
+[Confidence:  30] Number of Research and Writings Published by Academic Year
+
+[Confidence:  30] Number of Resources at the Ambulance Service in Hamad Medical Corporation
+
+[Confidence:  30] Number of Schools by Municipality and Year
+
+[Confidence:  30] Number of Schools by Type of School and Year
+
+[Confidence:  30] Number of Schools, Classes, Students, and Teachers by Level of Education and Type of School
+
+[Confidence:  30] Number of Students by Nationality
+
+[Confidence:  30] Number of Students by Nationality and Academic Year
+
+[Confidence:  30] Number of Students Enrolled in Executive Master's Programs
+
+[Confidence:  30] Number of Students Enrolled in Master's Programs
+
+[Confidence:  30] Number of Students Enrolled in PhD Programs
+
+[Confidence:  30] Number of Surgical Operations Carried Out in Hamad Medical Corporation by Type of Surgery
+
+[Confidence:  30] Number of Teaching Staff in Public Colleges and Universities by University Title and Nationality
+
+[Confidence:  30] Number of Tuberculosis Cases and Rate by Year
+
+[Confidence:  30] Number of Visitors to Outpatient Clinics by Hospital
+
+[Confidence:  30] Numbers of Arabian Oryx in Different Protected Areas
+
+[Confidence:  30] Other Manufacturing Industry
+
+[Confidence:  30] Other Payments and Transfers by Insurance Company Nationality
+
+[Confidence:  30] Other Revenues from Non-Insurance Activities by Insurance Company Nationality
+
+[Confidence:  30] Overseas Meetings, Conferences and Forums by Implementation Level (2017-2022)
+
+[Confidence:  30] Overseas Meetings, Conferences and Forums by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Overseas Meetings, Conferences and Forums by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Overview of Balance of Payments 2019 – 2023
+
+[Confidence:  30] Ozone Depleting Potential (ODP Metric Tons) According to Montreal Protocol
+
+[Confidence:  30] Ozone Depleting Potential by Substance and GHG Potential (Tons CO₂ Equivalents)
+
+[Confidence:  30] Participation at Qatar Digital Academy by Nationality (2024)
+
+[Confidence:  30] Percentage Change Of Gross Domestic Product by Components Of Expenditure at Current Prices- Annual basis
+
+[Confidence:  30] Percentage Change Of Gross Domestic Product by Components Of Expenditure at Current Prices- Quarterly basis
+
+[Confidence:  30] Percentage Distribution Of Gross Domestic Product by Components Of Expenditure at Current Prices-Quarterly basis
+
+[Confidence:  30] Percentage Of Perceptions On Smoking By Smoker Type
+
+[Confidence:  30] Percentage of Projects by Funding Source
+
+[Confidence:  30] Percentage of Types of Perceptions By Type of Smokers Or Users, And Nationality
+
+[Confidence:  30] Percentages (%) of Air Quality Indicators - Aspire Zone
+
+[Confidence:  30] PHCC Annual Statistical Summary
+
+[Confidence:  30] PHCC Patient Visits by Health Center and Region
+
+[Confidence:  30] Physiotherapists Accredited by Sport Federations by Place of Work and Nationality (2017-2022)
+
+[Confidence:  30] Physiotherapists Accredited by Sports Federations by Sports Activity, Work Location and Nationality (2021-2022)
+
+[Confidence:  30] Physiotherapists Accredited in Sports Federations by Sports Activity, Place of Work and Nationality (2023)
+
+[Confidence:  30] Plastic Debris Density
+
+[Confidence:  30] Playground in Schools by Education Level, Type of Playground and Year
+
+[Confidence:  30] Postal Services by Year, Type and Category
+
+[Confidence:  30] Principal Cause of Death by Year
+
+[Confidence:  30] Printing and Reproduction of Recorded Media
+
+[Confidence:  30] Private Schools’ Teaching and Administrative Staff by Level of Education
+
+[Confidence:  30] Producer Price Index (PPI)
+
+[Confidence:  30] Production and Value Added of Transportation and Communication Activity by Size of Establishment
+
+[Confidence:  30] Programs by University of Doha for Science and Technology (2024-2025)
+
+[Confidence:  30] Progress towards Sustainable Forest Management
+
+[Confidence:  30] Projects By Thematic Area
+
+[Confidence:  30] Proportion of Countries Adopting Legislation and Resources for Invasive Alien Species Management
+
+[Confidence:  30] Proportion of Important Sites for Terrestrial and Freshwater Biodiversity Covered by Protected Areas, by Ecosystem Type
+
+[Confidence:  30] Public Integrity Index
+
+[Confidence:  30] Public Libraries by Number of Borrowers and Books Borrowed
+
+[Confidence:  30] Publications by Discipline
+
+[Confidence:  30] Qatar's Main Imports of Sports Goods by Unit Price
+
+[Confidence:  30] Qatar's Main Imports of Sports Goods by Value (QAR)
+
+[Confidence:  30] Qatar datastories
+
+[Confidence:  30] Qatar Export Statistics 2019-2024
+
+[Confidence:  30] Qatar Imports 2019-2024
+
+[Confidence:  30] Qatar University 150% Graduation Rate Per Cohort
+
+[Confidence:  30] Qatar University Graduated Students Per Semester
+
+[Confidence:  30] Qatar University Registered Students Per Semester
+
+[Confidence:  30] Qatar University Retention Rate Per Cohort
+
+[Confidence:  30] Quality of Life Index
+
+[Confidence:  30] Quantities of Fertilizers Used by Type
+
+[Confidence:  30] Quantity of Imported Food and the Number of Tested Samples by Food Item Category
+
+[Confidence:  30] Quarterly Balance of Payments, 2022–2023 (Q4)
+
+[Confidence:  30] Quarterly Consumer Price Index (CPI), 2023 (Q4) (2018=100)
+
+[Confidence:  30] Quarterly Producer Price Index (PPI), 2023 (Q4) (2018=100)
+
+[Confidence:  30] Rainfall average (mm) at selected monitoring stations in Qatar
+
+[Confidence:  30] Recycled Material Quantities by Material Type
+
+[Confidence:  30] Referees Accredited in the Sports Federations by Grade and Nationality
+
+[Confidence:  30] Referees Accredited in the Sports Federations by Sports Activity, Grades and Nationality (2021-2022)
+
+[Confidence:  30] Referees Accredited in the Sports Federations by Sports Activity, Grades and Nationality (2023)
+
+[Confidence:  30] Referees’ Training Courses by Implementation Level
+
+[Confidence:  30] Referees’ Training Courses by Sports Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Referees’ Training Courses by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Registered New Vehicles and Motor Cycles by Type of License
+
+[Confidence:  30] Registered Private Societies by Activity
+
+[Confidence:  30] Registered Vehicles and Motor Cycles by Type of License
+
+[Confidence:  30] Registered Vital Events
+
+[Confidence:  30] Repair and Installation of Machinery and Equipment
+
+[Confidence:  30] Research and Grants Statistics
+
+[Confidence:  30] Research Collaborations by Type
+
+[Confidence:  30] Retirees Registered in Pension Funds and Systems by Annual Pension
+
+[Confidence:  30] Retirees Registered in Pension Funds and Systems by Reason for Retirement
+
+[Confidence:  30] Revenues of Current Activity by Type and Insurance Company Nationality
+
+[Confidence:  30] Schools Staff
+
+[Confidence:  30] Sectoral Report for National Greenhouse Gas Inventories for Agriculture
+
+[Confidence:  30] Sectoral Report for National Greenhouse Gas Inventories for Industrial Processes
+
+[Confidence:  30] Sectoral Report for National Greenhouse Gas Inventories for Solvent and Other Product Use
+
+[Confidence:  30] Sectoral Report for National Greenhouse Gas Inventories for Waste Management
+
+[Confidence:  30] Specialized Training Courses Implemented by Legal and Judicial Studies Center
+
+[Confidence:  30] Sport facilities by type
+
+[Confidence:  30] Sport Facilities by Type (2018-2022)
+
+[Confidence:  30] Sport Facilities by Type (2022)
+
+[Confidence:  30] Sport Facilities by Type and Year
+
+[Confidence:  30] Sport Institutions by Type
+
+[Confidence:  30] Sport Institutions by Type (2019–2021)
+
+[Confidence:  30] Sport Institutions by Type (2022–2023)
+
+[Confidence:  30] Sports Facilities by Agency
+
+[Confidence:  30] Sports Facilities by Type and Agency
+
+[Confidence:  30] Sports Facilities by Type and Agency (2021-2022)
+
+[Confidence:  30] Sports Facilities by Type and Agency (2022)
+
+[Confidence:  30] Sports Facilities by Type and Agency (2023)
+
+[Confidence:  30] Sports facilities of Qatar Olympic Committee by type
+
+[Confidence:  30] Sports Team Officials Accredited by Sports Federations by Place of Work and Nationality
+
+[Confidence:  30] Sports Team Officials Accredited in Sports Federations by Activity, Place of Work, and Nationality (2023)
+
+[Confidence:  30] Sports Team Officials Accredited With Sports Federations by Sports’ Activity, Place of Work and Nationality (2021-2022)
+
+[Confidence:  30] Statistics of Customers Served by Tankers
+
+[Confidence:  30] Student-to-Faculty Ratio - Overall - AY 2023-24
+
+[Confidence:  30] Student Enrollment by College and Nationality (2019–2024)
+
+[Confidence:  30] Students being offered overseas scholarships (By country)
+
+[Confidence:  30] Telephone and Internet Services by Type and Year
+
+[Confidence:  30] Themes NPC Qatar
+
+[Confidence:  30] Tobacco Industry Counter Advertising By Nationality and Type of Users
+
+[Confidence:  30] Tobacco Industry Counter Advertising By Type of Users
+
+[Confidence:  30] Tonnes of Material Recycled Nationally
+
+[Confidence:  30] Top Importing Countries by Certificate Type
+
+[Confidence:  30] Total Certificates Issued by Year and Certificate Type
+
+[Confidence:  30] Total Consumption of Ozone-Depleting Substances
+
+[Confidence:  30] Total Exports by Headings of Harmonized System, 2023 (Q4)
+
+[Confidence:  30] Total Imports by Main Country of Origin, Q4 2023
+
+[Confidence:  30] Total Imports by Main Country of Origin, Q4 2023 (%)
+
+[Confidence:  30] Total Imports by Sections of SITC, 2023 (Q4)
+
+[Confidence:  30] Total Ozone-Depleting Potential (ODP Metric Tons) According to Montreal Protocol
+
+[Confidence:  30] Total Ozone-Depleting Potential by Year and Greenhouse Gas Potential (Tons CO₂ Equivalents)
+
+[Confidence:  30] Total Public and Online Attendance for Asian Cup Matches in Qatar
+
+[Confidence:  30] Traffic Accidents By Cause of The Accident and Cases
+
+[Confidence:  30] Traffic Accidents by Conciliation Unknown Cause
+
+[Confidence:  30] Traffic Violations By Type of Violation
+
+[Confidence:  30] Type Classification of Animals at the Zoo in Khor Park (2024)
+
+[Confidence:  30] Type of Animals and Classification at the Zoo in Al-Khor Park
+
+[Confidence:  30] Urban wastewater generated by method of handling and discharge without treatment (million m3)
+
+[Confidence:  30] Urban wastewater treatment plants by type of treatment, design capacity and amount of wastewater received
+
+[Confidence:  30] Vaccinations
+
+[Confidence:  30] Value of Assets, Additions to Assets and Depreciation by Type of Asset
+
+[Confidence:  30] Value of Assets, Additions to Assets and Depreciation by Type of Asset – Banks Statistics
+
+[Confidence:  30] Value of Gross Output and Value Added by Insurance Company Nationality
+
+[Confidence:  30] Vehicle
+
+[Confidence:  30] Vehicle Registration Transactions by Plate Type and Year
+
+[Confidence:  30] Wastewater Treatment and Reuse Statistics by Year
+
+[Confidence:  30] Weighted Country-Specific GHG Emission Factors Computed for Qatar
+
+[Confidence:  30] Youth and Sports Institutions by Municipality
+
+[Confidence:  30] Youth and Sports Institutions by Type
+
+[Confidence:  30] Youth Athletes' Championships by Sports Activity and Implementation Level (2023)
+
+[Confidence:  30] Youth Athletes’ Championships by Implementation Level
+
+[Confidence:  30] Youth Athletes’ Championships by Sports’ Activity and Implementation Level (2021-2022)
+
+[Confidence:  30] Youth Hostel Guests by Nationality and Nights of Stay
+
+
+
+====================================================================================================
+CATEGORY: Employment & Labor
+====================================================================================================
+
+[Confidence: 100] Employee Count & Compensation Estimates by Nationality & Economic Activity (ISIC Rev.4, Codes 4922-6190) - Under 10 Employees
+
+[Confidence: 100] Number of employees & compensation of employees by nationality & main economic activity
+
+[Confidence: 100] Number of Employees & Estimate Compensation of Employees by Nationality & Main Economic Activity
+
+[Confidence: 100] Number of Employees and Compensation by Nationality and Economic Activity
+
+[Confidence: 100] Number of Employees and Estimates of Compensation of Employees by Nationality and Main Economic Activity
+
+[Confidence: 100] Percentage Distribution of Labor Force (15 Years +) by Employment Status, 2023
+
+[Confidence: 100] Percentage of Self-employed and Family Workers of Total Labor Force
+
+[Confidence:  80] Economically Active Non-Qatari Population (15 Years & Above) by Status in Employment & Occupation
+
+[Confidence:  80] Economically Active Qatari Population (15 Years & Above) by Status in Employment & Occupation
+
+[Confidence:  80] Employment Rate - From Graduate 2023-24
+
+[Confidence:  80] Employment Rate After Graduation By Academic Year
+
+[Confidence:  80] Employment Rate by Nationality and Gender
+
+[Confidence:  80] Female Labor Force Participation Rate by Age Group and Nationality
+
+[Confidence:  80] Females (15 Years and Above) Labor Force Participation Rate by Educational Status, Age Group, and Nationality
+
+[Confidence:  80] Healthcare Workforce Statistics by Type and Sector (2024)
+
+[Confidence:  80] Labor Force Participation Rate (LFPR) by Nationality & Gender
+
+[Confidence:  80] Labor Force Participation Rate (LFPR) by Nationality & Gender - copy
+
+[Confidence:  80] Number of Labor Force (15 years+) by Economic Activity (Thousand)
+
+[Confidence:  80] Number of Labor Force (15 years+) by Occupation (Thousand)
+
+[Confidence:  80] Number of Labor Force by Sector (Thousand)
+
+[Confidence:  80] Number of People with difficulties by Nationality, Gender, and Relation to Workforce
+
+[Confidence:  80] Percentage Distribution of Labor Force (15 Years and Above) by Economic Activity, Nationality and Gender
+
+[Confidence:  80] Percentage Distribution of Labor Force (15 Years+) by Education, Nationality and Gender
+
+[Confidence:  80] Percentage Distribution of Labor Force (15 Years+) by Profession, Nationality and Gender
+
+[Confidence:  80] Percentage of Qataris in Private Sector of Total Qataris Labor Force During 2019–2023
+
+[Confidence:  80] Percentage of Qataris in Private Sector of Total Qataris Labor Force During 2019–2023 - copy
+
+[Confidence:  80] Qataris benefiting from assistance rendered by Ministry of Administrative Development and Labor and Social Affairs
+
+[Confidence:  80] Retirees Registered in Pension Funds and Systems by Labor Sector (Government / Private)
+
+[Confidence:  80] Retirees Registered in Pension Funds and Systems by Length of Employment
+
+[Confidence:  80] Share of Females in Wage-Earning Jobs in Non-Agricultural Sector
+
+[Confidence:  80] Trainees at the private training centers by employment status, gender, nationality and field of training
+
+[Confidence:  40] Number of Employees and Estimated Compensation by Nationality and Insurance Company Nationality – Insurance Statistics
+
+[Confidence:  20] Distribution of Business Establishments by Categories of Employees Number Between 2010 and 2015 Censuses
+
+[Confidence:  20] Distribution of the number of employees by categories of employees number between 2010 and 2015 Censuses
+
+[Confidence:  20] Employees at the Center for Empowerment and Care of the Elderly (Ihsan) by Occupation, Nationality and Gender
+
+[Confidence:  20] Employees in Journal and Magazines by Occupation, Gender, and Nationality
+
+[Confidence:  20] Employees in Youth and Sports Institutions by Occupation, Type of Work, Nationality and Gender
+
+[Confidence:  20] Employees in Youth Institutions by Occupation, Type of Work, Nationality and Gender
+
+[Confidence:  20] Employees in Youth Institutions by Occupation, Type of Work, Nationality, and Gender (2021-2022)
+
+[Confidence:  20] Estimates of Compensations of Employees by Sex & Occupation
+
+[Confidence:  20] Evolution of Number of Employees by Nationality Between 2010 and 2015 Censuses
+
+[Confidence:  20] Evolution of Number of Qatari Employees in Business Establishments by Sex in 2010 and 2015 Censuses
+
+[Confidence:  20] Evolution of the Number of Employees in Business Establishments by Sex in 2010 and 2015 Censuses
+
+[Confidence:  20] Number of Employees at Disabled Centers by Nationality, Gender, and Occupation
+
+[Confidence:  20] Number of Employees by Gender and Occupation
+
+[Confidence:  20] Number of Employees by Gender and Occupation
+
+[Confidence:  20] Number of Employees by Gender and Occupation (Establishments with less than 10 Employees)
+
+[Confidence:  20] Number of Non-Qatari Employees in Business Establishments by Sex in 2010 and 2015 Censuses
+
+[Confidence:  20] Total Number of Employees by Type
+
+[Confidence:   0] Number of Medical Staff by Occupation in Government Sector
+
+[Confidence:   0] Number of Medical Staff by Occupation in Private Sector
+
+[Confidence:   0] Qatarization in Kahramaa by Year
+
+
+
+====================================================================================================
+CATEGORY: Energy & Sustainability
+====================================================================================================
+
+[Confidence:  80] Energy Transmitted by IWPP (MWh)
+
+[Confidence:  80] Global Sustainability Assessment System (GSAS) Project Certifications
+
+[Confidence:  80] Qatar National GHG Emissions
+
+[Confidence:  80] Sectoral Report for National Greenhouse Gas Inventories for Energy
+
+[Confidence:  80] Total Greenhouse Gas Emissions Per Year
+
+[Confidence:  20] Climate Indicators (Monthly)
+
+[Confidence:  20] Monthly Physical and Climate Indicators – Table 2
+
+
+
+====================================================================================================
+CATEGORY: Infrastructure & Utilities
+====================================================================================================
+
+[Confidence: 100] Characteristics of Operational District Cooling Plants by Municipality and Economic Activity
+
+[Confidence: 100] Characteristics of Operational District Cooling Plants by Municipality and Economic Activity
+
+[Confidence: 100] Contracted Capacities by Independent Power & Water Producers (IPWP)
+
+[Confidence: 100] District Cooling Plant Characteristics by Economic Activity
+
+[Confidence: 100] District Cooling Plants by Economic Activity and Disposal Method for Rejected Cooling Water (m3)
+
+[Confidence: 100] District Cooling Plants by Economic Activity, Water Source, and Quantity Used (m³)
+
+[Confidence: 100] District Cooling Plants by Municipality, Sector, Quantity Used, and Disposal Method (m³)
+
+[Confidence: 100] District Cooling Plants by Municipality, Sector, Water Source, and Quantity Used (m³)
+
+[Confidence: 100] District Cooling Projects by Project Status and Economic Activity
+
+[Confidence: 100] District Cooling Services Providers Expenditures on Environmental Protection Activities and Management(QR)
+
+[Confidence: 100] Employees and Compensation in District Cooling and Environmental Activities by Nationality and Gender (QR)
+
+[Confidence: 100] Environmental Commitments in District Cooling Service Providers
+
+[Confidence: 100] Non-Potable Water Used in District Cooling
+
+[Confidence: 100] Number and Type of Environmental Rewards Attained by District Cooling Service Providers
+
+[Confidence: 100] Number of Establishments and Employees by Size of Establishment and Main Economic Activity - Electricity and Water
+
+[Confidence: 100] Operational District Cooling Plants
+
+[Confidence: 100] Operational District Cooling Plants by Economic Activity, Reduction of Generated Emissions and Fresh Water Savings
+
+[Confidence: 100] Operational Peak District Cooling Load
+
+[Confidence: 100] Savings in Operational District Cooling Plants by Municipality, Economic Activity and Saving Type
+
+[Confidence: 100] The Capacity of the Design Cooling Plants for District Cooling Projects by the Project Status and Economic Activity (Cooling Tons)
+
+[Confidence: 100] Water Production by Independent Water and Power Producers (IWPPs)
+
+[Confidence:  80] Aggregate Water Use Balance (million m3)
+
+[Confidence:  80] Aggregate Water Use Balance (million m3)
+
+[Confidence:  80] Annual Electricity Generation
+
+[Confidence:  80] Annual Electricity Generation
+
+[Confidence:  80] Annual Growth in Peak Electricity Demand by Sector (%)
+
+[Confidence:  80] Annual Growth in Peak Electricity Demand by Sector (%)
+
+[Confidence:  80] Average Water Per Capita Consumption by Year
+
+[Confidence:  80] Average Water Per Capita Consumption by Year
+
+[Confidence:  80] Biological Water Quality Compliance by Year
+
+[Confidence:  80] Biological Water Quality Compliance by Year
+
+[Confidence:  80] Completed Infrastructure Projects by Work Category, Type, and Year
+
+[Confidence:  80] Cooling Energy Consumption and Savings by Municipality and Economic Activity (MWh)
+
+[Confidence:  80] Demand for water by type, number and growth rate of subscribers
+
+[Confidence:  80] Design Cooling Capacity by Status, Municipality, and Sector (TR)
+
+[Confidence:  80] Details of water use balance (water balance, million m3)
+
+[Confidence:  80] Electricity And Peak Load
+
+[Confidence:  80] Electricity Cables Laid by Voltage Level (RKm)
+
+[Confidence:  80] Electricity Sub-Stations by Voltage Level
+
+[Confidence:  80] Employees by Sex, Nationality & Main Economic Activity – Transport and Communication Sector (Less than 10 Employees) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Establishments, employees and compensations of employees in transport and communication sector by size of establishment
+
+[Confidence:  80] Estimates of Value Added By Main Economic Activity - Transport & Communication Statistics (10 Employees & More) (Activity Codes 53-5229) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value Added By Main Economic Activity (Less Than 10 Employees) in Transport and Communication Sectors (Activity Codes 49-61) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value Added By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 49-61) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value Added By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value Added By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 60-64) ISIC Rev 3
+
+[Confidence:  80] Estimates of Value Added By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication sector (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication Sector (10 Employees & More) (Activity Codes 53-5229) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 6021-6301) ISIC REV 3
+
+[Confidence:  80] Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922 - 6190) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value of Intermediate Goods By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 5 - 4925) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value of Intermediate Services By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Estimates of Value of Intermediate Services By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922 - 6190) ISIC Rev 4
+
+[Confidence:  80] Key Electricity Growth Indicators
+
+[Confidence:  80] Key Water Growth Indicators
+
+[Confidence:  80] Main Economic Indicators by Main Economic Activity - Transport and Communication Sector (Activity Codes 4922-5229, ISIC Rev.4)
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sector (10 Employees & More) (Activity Codes 49-61) ISIC Rev 4
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 53-5229) ISIC Rev 4
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 6021-6420) ISIC Rev 3
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 49-61) ISIC Rev 4
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Main Economic Indicators By Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 5-61) ISIC Rev 4
+
+[Confidence:  80] Manufacture of Other Transport Equipment
+
+[Confidence:  80] Maximum Electricity Demand by Sector (MW)
+
+[Confidence:  80] Monthly Electricity Generation by IWPP (MWh)
+
+[Confidence:  80] Monthly Water Production (Cubic Meters)
+
+[Confidence:  80] National Digital Infrastructure Overview
+
+[Confidence:  80] Natural water balance of Qatar’s aquifers (Annual average 2014-2021)
+
+[Confidence:  80] Number of Districts Cooling Projects by Project Status, Municipality and Economic Activity
+
+[Confidence:  80] Number of Electricity Customers and Annual Growth Rate
+
+[Confidence:  80] Number of Employees & Estimates of Compensation of Employees By Nationality & Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190)
+
+[Confidence:  80] Number of Employees & Estimates of Compensation of Employees By Nationality & Main Economic Activity in Transport and Communication Sectors (Less Than 10 Employees) (Activity Codes 5-4925)
+
+[Confidence:  80] Number of Employees & Estimates of Compensation of Employees By Sex & Occupation in transport & communication sector (Less Than 10 Employees)
+
+[Confidence:  80] Number of Employees & Estimates of Compensation of Employees By Sex & Occupation in Transport and Communication Sectors (10 Employees & More)
+
+[Confidence:  80] Number of Employees By Sex, Nationality & Main Economic Activity in Transport and Communication Sector (10 Employees & More) (Activity Codes 53-5229) ISIC Rev 4
+
+[Confidence:  80] Number of Employees By Sex, Nationality & Main Economic Activity in Transport and Communication Sectors (10 Employees & More) (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Number of Employees By Sex, Nationality & Main Economic Activity in Transport and Communication Sectors (Activity Codes 6021-6420) ISIC Rev 3
+
+[Confidence:  80] Number of Employees by Sex, Nationality & Main Economic Activity Transport & Communication Statistics (Less than 10 Employees) (Activity Codes 5-4925) ISIC Rev 4
+
+[Confidence:  80] Number of Establishments & Employees By Size of Establishment & Main Economic Activity - Transport & Communication Statistics (Activity Codes 49-61) ISIC Rev 4
+
+[Confidence:  80] Number of Establishments & Employees By Size of Establishment & Main Economic Activity - Transport & Communication Statistics (Activity Codes 60-64) ISIC Rev 3
+
+[Confidence:  80] Number of Establishments & Employees by Size of Establishment & Main Economic Activity – Transport and Communication Sector (Activity Codes 4922-6190) ISIC Rev 4
+
+[Confidence:  80] Number Of Water Customers by Year
+
+[Confidence:  80] Per Capita Electricity Consumption by Method of Calculation
+
+[Confidence:  80] Per capita water consumption for different usages (m3, year, per capita)
+
+[Confidence:  80] Population and Electricity Supply Statistics
+
+[Confidence:  80] Potable Water Production Capacities from Wells and Reverse Osmosis (RO)
+
+[Confidence:  80] Road Infrastructure Components Constructed
+
+[Confidence:  80] Rural Potable Water Production by Month (2023)
+
+[Confidence:  80] Sectoral Electricity Consumption (MWh)
+
+[Confidence:  80] Sectoral Maximum Electricity Demand and Dates (MW)
+
+[Confidence:  80] Tanker Water Supply by Station (2023)
+
+[Confidence:  80] Total Abstraction from Ground Water
+
+[Confidence:  80] Total Annual Water Production (Million Cubic Meters)
+
+[Confidence:  80] Total Annual Water Production by Year
+
+[Confidence:  80] Total Water Storage (2023)
+
+[Confidence:  80] Total Water Storage by Type (2023)
+
+[Confidence:  80] Total Water Storage by Year
+
+[Confidence:  80] Transport and Communication Estimates of Value Added By Main Economic Activity (Activity Codes 5-4925) ISIC Rev 4 (Less than 10 Employees)
+
+[Confidence:  80] Water Demand by Type and Years
+
+[Confidence:  80] Water Distribution Maximum and Minimum Demand by Year
+
+[Confidence:  80] Water Forwarding Maximum and Minimum Demand by Year
+
+[Confidence:  80] Water indicators in sustainable development
+
+[Confidence:  80] Water Storage in Elevated Tanks (2023)
+
+[Confidence:  80] Water Storage in Ground Tanks (2023)
+
+[Confidence:  80] Water Storage in IWPP Reservoirs (2023)
+
+[Confidence:  80] Water Storage In KM Reservoirs (2023)
+
+[Confidence:  80] Water Storage in Towers (2023)
+
+[Confidence:  80] Water Tanker Services by Year
+
+[Confidence:  80] Water Total Production
+
+[Confidence:  80] Water used in agricultural activity by water source and agricultural GDP (at constant prices of 2018)
+
+[Confidence:  80] Water used in domestic activity by water source (million m3, year)
+
+[Confidence:  80] Water used in government activity by water source (million m3, year)
+
+[Confidence:  80] Water used in industrial activity by water source and industrial GDP (at constant prices of 2018)
+
+[Confidence:   0] Collection, Processing, Disposal, and Recycling of Waste Materials
+
+[Confidence:   0] Hazardous Waste Generated Per Capita
+
+[Confidence:   0] Hazardous Waste Indicators
+
+[Confidence:   0] Hazardous Waste Management
+
+[Confidence:   0] Incoming Waste by Type and Waste Management Facility
+
+[Confidence:   0] Length of roads annually completed by road type and year
+
+[Confidence:   0] Production Capacity of Solid Waste Management Center in Mesaieed by Type
+
+[Confidence:   0] Proportion of Hazardous Waste Treated, by Type of Treatment
+
+[Confidence:   0] Recycled Waste by Type
+
+[Confidence:   0] Solid Waste and Hazardous Waste Management Facilities
+
+[Confidence:   0] Solid Waste Daily Generation by Type
+
+[Confidence:   0] Total Incoming Waste by Type, Facility and Year
+
+[Confidence:   0] Total Waste Generated by Type and Recycled
+
+[Confidence:   0] Trade Data for Residues And Waste From The Food Industries
+
+[Confidence:   0] Waste and Scrap Exports by Type and Year
+
+[Confidence:   0] Waste and Scrap Imports
+
+
+
+====================================================================================================
+CATEGORY: Population & Demographics
+====================================================================================================
+
+[Confidence: 100] Economically Active Population (15 Years & Above) by Age Group & Occupation
+
+[Confidence: 100] Economically Active Population (15 Years & Above) by Age Group & Occupation - copy
+
+[Confidence: 100] Economically Active Population (15 Years & Above) by Nationality & Gender
+
+[Confidence: 100] Economically Active Population (15 Years & Above) by Nationality & Gender - copy
+
+[Confidence: 100] Economically Active Population (15 Years & Above) by Nationality, Gender and Sector
+
+[Confidence: 100] Economically Active Population (15 Years & Above) by Nationality, Gender and Sector - copy
+
+[Confidence: 100] Economically Active Population (15 Years and Above) by Nationality, Gender and Age Groups
+
+[Confidence: 100] Educational Attainment For Population ( 10 Years and above ) by Nationality in Census ( 2010 , 2020 )
+
+[Confidence: 100] Female Population (15 Years & above) by Relation to Labour Force and Age Groups
+
+[Confidence: 100] Females Population by Municipality and Age Groups – December 2020
+
+[Confidence: 100] General Marriage Rate By Nationality and Gender per 1000 Population (15 Year and Above)
+
+[Confidence: 100] Labor Force Statistics - Number of Economically Inactive Population Aged 15 Years and Above by Quarter, Nationality, Gender, and Educational Attainment
+
+[Confidence: 100] Male Population (15 Years and Above) by Relation to Labor Force and Age Groups
+
+[Confidence: 100] Males Population by Municipality and Age Groups – December 2020
+
+[Confidence: 100] Number of Employees by Gender, Nationality, and Main Economic Activity (Establishments with 10 Employees or more)
+
+[Confidence: 100] Number of Employees by Gender, Nationality, and Main Economic Activity (Establishments with less than 10 Employees)
+
+[Confidence: 100] Percentage Distribution of Population by Age Group and Sex, Census 2015
+
+[Confidence: 100] Percentage Distribution of Population by Sex and Municipality, Census 2015
+
+[Confidence: 100] Population (15 Years and above) by Marital Status, Nationality and Age Groups in Census (2020)
+
+[Confidence: 100] Population by Age Group
+
+[Confidence: 100] Population by Gender
+
+[Confidence: 100] Population By Municipality and Age Groups
+
+[Confidence: 100] Population by Type of Household, Gender, and Place of Residence on the Census Night – December 2020
+
+[Confidence: 100] Population Economically Active (15 Years and above) by Nationality and Economic Activity in Census (2010 , 2020)
+
+[Confidence: 100] Population Economically Active (15 Years and above) by Nationality and Employment Status in Census ( 2010 , 2020 )
+
+[Confidence: 100] Population Economically Active (15 Years and above) by Nationality and Occupation in Census (2010 , 2020)
+
+[Confidence: 100] Population Economically Active (15 Years and above) by Nationality and Sector in Census ( 2010 , 2020 )
+
+[Confidence: 100] Population Economically Inactive (15 Years and above) by Nationality and Relation to Workforce in Census ( 2010 , 2020 )
+
+[Confidence: 100] Population Estimates by Gender and Age Groups
+
+[Confidence: 100] Population Estimates by Gender and Single Ages
+
+[Confidence: 100] Population Estimates By Gender As of Mid-Year (1986 - 2023)
+
+[Confidence: 100] Qatari (4 Years and above) Who Use The Computer by Age Group and Place of Usage in Census (2020)
+
+[Confidence: 100] Qatari (4 Years and above) Who Use The Internet by Age Group and Place of Usage in Census (2020)
+
+[Confidence: 100] Total Population and Population Density by Municipality in Census (2010 , 2020 )
+
+[Confidence: 100] Total Population by Age Groups and Sex in Census ( 2010 , 2020 )
+
+[Confidence: 100] Total Population by Age Groups in Census ( 2010 , 2020 )
+
+[Confidence: 100] Total Population by Sex in Census (1986 , 1997 , 2004 , 2010 , 2020 )
+
+[Confidence: 100] Working people with difficulties (15 years and above) by nationality, gender and economic activity
+
+[Confidence:  80] Annual Mean Levels of Fine Particulate Matter (PM10) in Cities (Population Weighted)
+
+[Confidence:  80] Annual Mean Levels of Fine Particulate Matter (PM10) in Cities (Population Weighted)
+
+[Confidence:  80] Business Establishments and Employees by Sector According to Census 2015
+
+[Confidence:  80] Business Establishments and Employees by Sector According to Census 2015
+
+[Confidence:  80] Distribution of Business Establishments and Employees by Municipalities According to Census 2015
+
+[Confidence:  80] Distribution of Occupied/Closed/Vacant Units in 2015 Census
+
+[Confidence:  80] Distribution of the Number of Households and Their Members by Municipality, Census 2015
+
+[Confidence:  80] Economically Active Population (15 Years and Above) by Sector and Economic Activity
+
+[Confidence:  80] Growth of Business Establishments and Employees in Census 2010 Compared to Census 2015
+
+[Confidence:  80] Growth of Some Population Indicators in Qatar during 1986-2015
+
+[Confidence:  80] Incidence Rate (Per 10,000 Person of the Population) of Globally Targeted Communicable Diseases by Indicator and Year
+
+[Confidence:  80] Increase in Number of Households and Their Members During the Years of Census (1986-2015)
+
+[Confidence:  80] Key Economic Activities of Non-Qatari Employees According to Census 2015
+
+[Confidence:  80] Key Economic Activities of Qatari Employees According to Census 2015
+
+[Confidence:  80] Non Qatari Economically Active (15 Years and above) by Sex and Economic Activity in Census (2010 , 2020)
+
+[Confidence:  80] Non Qatari Economically Active (15 Years and above) by Sex and Employment Status in Census (2010 , 2020)
+
+[Confidence:  80] Non Qatari Economically Active (15 Years and above) by Sex and Occupation in Census ( 2010 , 2020 )
+
+[Confidence:  80] Non Qatari Economically Active (15 Years and above) by Sex and Sector in Census ( 2010 , 2020 )
+
+[Confidence:  80] Non Qatari Economically Inactive (15 Years and above) by Sex and Relation to Workforce in Census (2010 , 2020)
+
+[Confidence:  80] Number of Business Establishments by Economic Activity in Census (2010, 2020)
+
+[Confidence:  80] Number of Difficulties by Type and Degree of Difficulty in Census (2010, 2020)
+
+[Confidence:  80] Percentage Distribution of Population by Municipalities in Qatar Between 2010 and 2015 Censuses
+
+[Confidence:  80] PHCC Registered Patient Population by Health Center and Region
+
+[Confidence:  80] Population and Their Percentage Distribution by Educational Status – March 1986 to April 2010
+
+[Confidence:  80] Population Growth in Qatar by Sex Between 2010 and 2015 Censuses
+
+[Confidence:  80] Population, Area and Population Density Per Square Kilometers By Zone
+
+[Confidence:  80] Qatar Population Estimates (Mid-year)
+
+[Confidence:  80] Qatari Economically Active (15 Years and above) by Sex and Economic Activity in Census ( 2010 , 2020 )
+
+[Confidence:  80] Qatari Economically Active (15 Years and above) by Sex and Occupation in Census ( 2010 , 2020 )
+
+[Confidence:  80] Qatari Economically Active (15 Years and above) by Sex and Sector in Census ( 2010 , 2020 )
+
+[Confidence:  80] Qatari Economically Inactive (15 Years and above) by Sex and Relation to Workforce in Census (2010 , 2020)
+
+[Confidence:  80] Qatari Marital Status ( 15 Years and above ) by Sex in Census ( 2010 , 2020 )
+
+[Confidence:  80] Total Employees by Economic Activity in Census (2010, 2020)
+
+[Confidence:  80] Trade Data for Used Personal Effects and Appliances (Returning Nationals/Residents)
+
+[Confidence:  60] Deaths and Injuries in Traffic Accidents by Age Group, Gender, and Role of Injured
+
+[Confidence:  60] Deaths and Injuries in Traffic Accidents During the First Year of License Issuance by Age Group, Gender, and Role of Injured
+
+[Confidence:  60] Number of Deaths and Injuries from Traffic Accidents by Age Group, Gender, and Affected Person Location
+
+[Confidence:  60] Qatari Deaths Overseas by Age Groups and Gender
+
+[Confidence:  60] Registered Deaths (15 Years Old and Over) by Marital Status, Gender and Age Group
+
+[Confidence:  60] Registered deaths (15 years old and over) by marital status, gender and age groups qataris
+
+[Confidence:  60] Registered Deaths by Nationality, Gender, and Age
+
+[Confidence:  60] Registered Deaths by Nationality, Gender, and Age – Annual
+
+[Confidence:  60] Registered Live Births by Nationality, Gender and Age Group of Mother
+
+[Confidence:  60] Registered Qatari Deaths by Place of Death, Gender and Age Groups
+
+[Confidence:  40] Athletes Registered in Disabled Sports Federation by Type of Disability, Age Groups and Gender (2023)
+
+[Confidence:  40] Athletes Registered in Disabled Sports Federation by Type of Disability, Age Groups and Gender (2023)
+
+[Confidence:  40] Athletes Registered in Sports Federations by Sports Activity, Age Groups and Gender (2023)
+
+[Confidence:  40] Athletes Registered in Sports Federations by Sports Activity, Age Groups and Gender (2023)
+
+[Confidence:  40] Athletes Registered with Disabled Sports Federation by Type of Disability, Age Groups and Gender (2021-2022)
+
+[Confidence:  40] Athletes Registered with Disabled Sports Federation by Type of Disability, Age Groups and Gender (2021-2022)
+
+[Confidence:  40] Athletes Registered with Sports Federations by Age Group and Gender
+
+[Confidence:  40] Athletes Registered with Sports Federations by Age Group and Gender
+
+[Confidence:  40] Athletes Registered with Sports Federations by Sports Activity, Age Groups and Gender (2021-2022)
+
+[Confidence:  40] Athletes Registered with Sports Federations by Sports Activity, Age Groups and Gender (2021-2022)
+
+[Confidence:  40] Average Age Of daily Smoking Initiation By Gender
+
+[Confidence:  40] Average Age Of daily Smoking Initiation By Gender
+
+[Confidence:  40] Deaths and Injuries in Traffic Accidents During the First Year of License Issuance by Traffic Department, Gender, and Role of Injured
+
+[Confidence:  40] Employee trainees who received training at private training centers, by educational status, gender, nationality and age group
+
+[Confidence:  40] Judicial and Security Services - Deaths and Injuries in Traffic Accidents by Cause, Gender, and Role of Injured
+
+[Confidence:  40] Judicial and Security Services - Deaths and Injuries in Traffic Accidents by Month, Gender, and Role of Injured
+
+[Confidence:  40] Judicial and Security Services - Number of Defendants By Gender And Age
+
+[Confidence:  40] Non-Employee Trainees at Private Training Centers by Educational Status, Gender, Nationality, and Age Group
+
+[Confidence:  40] Non-Registered Live births by Nationality and Gender
+
+[Confidence:  40] Number of Deaths and Injuries from Traffic Accidents by Accident Cause, Affected Person Location, and Gender
+
+[Confidence:  40] Number of Deaths and Injuries from Traffic Accidents by Driver's Experience, Gender, and Affected Person Location
+
+[Confidence:  40] Number of Deaths and Injuries from Traffic Accidents by Month, Affected Person Location, and Gender
+
+[Confidence:  40] Number of Deaths and Injuries from Traffic Accidents by Nationality, Gender, and Affected Person Location
+
+[Confidence:  40] Number of Deaths and Injuries from Traffic Accidents by Occupation, Affected Person Location, and Gender
+
+[Confidence:  40] Number of Deaths and Injuries from Traffic Accidents by Traffic Department, Affected Person Location, and Gender
+
+[Confidence:  40] Number of Deaths from Road Traffic Accidents by Gender
+
+[Confidence:  40] Number of People Registered at Disabled Centers by Nationality, Gender, and Age Group
+
+[Confidence:  40] Number of Students by Age, Level of Education, and Gender
+
+[Confidence:  40] Participants in Youth and Sports Institutions by Activity, Age, Nationality, and Gender (2023)
+
+[Confidence:  40] People with difficulties by nationality, gender and age groups (5 years & above)
+
+[Confidence:  40] Percentage of Smokeless Tobacco Users By Age Group, and Gender
+
+[Confidence:  40] Percentage of Smokers By Age of Initiation, and Gender
+
+[Confidence:  40] Percentage of Smokers By Age Of Initiation, Gender, and Nationality
+
+[Confidence:  40] Percentage of Tobacco Smokers By Age Group, Nationality, And Gender
+
+[Confidence:  40] Percentage of Tobacco Users By Age Group, Nationality, And Gender
+
+[Confidence:  40] Registered Deaths by Nationality and Gender
+
+[Confidence:  40] Registered Deaths by Nationality, Gender, and Month
+
+[Confidence:  40] Registered Deaths by Nationality, Gender, and Municipality (Expanded)
+
+[Confidence:  40] Registered elderly in the Center for Empowerment and Care of the Elderly (Ihsan) by Age Group, Nationality and Gender
+
+[Confidence:  40] Registered Live Births By Duration of Marriage and Age Group of Mother - Non-Qataris
+
+[Confidence:  40] Registered live births by duration of marriage and mother's age group total
+
+[Confidence:  40] Registered Live Births by Father's Age Group, Nationality and Occupation
+
+[Confidence:  40] Registered Live Births by Month, Gender, and Municipality – Non-Qataris
+
+[Confidence:  40] Registered Live Births By Month, Municipality and Gender - Qataris
+
+[Confidence:  40] Registered Live Births by Mother's Age Group and Birth Order – Females
+
+[Confidence:  40] Registered Live Births by Mother's Age Group and Birth Order – Males
+
+[Confidence:  40] Registered Live Births by Mother's Age Group and Birth Order – Non-Qataris
+
+[Confidence:  40] Registered Live Births by Mother's Age Group and Birth Order – Qataris
+
+[Confidence:  40] Registered Live Births by Mother's Age Group and Birth Order – Total
+
+[Confidence:  40] Registered Live Births By Mother's Age Group, Occupation and Nationality
+
+[Confidence:  40] Registered Live Births by Nationality and Gender
+
+[Confidence:  40] Registered Live Births by Nationality, Gender and Birth Weight
+
+[Confidence:  40] Registered Live Births by Nationality, Gender and Gender Ratio at Birth
+
+[Confidence:  40] Registered Live Births by Nationality, Gender and Municipality
+
+[Confidence:  40] Services provided by Naufar Center by age group, and gender
+
+[Confidence:  40] Services provided to cases received by the Protection and Social Rehabilitation Center by nationality, age group, gender and service type
+
+[Confidence:  40] Services Rendered in Social Rehabilitation Center (Owain) by Service Type, Age Group, Nationality and Gender
+
+[Confidence:  40] Those Who Practice Activities in Youth and Sports Institutions by Activity, Age Group, Nationality and Gender
+
+[Confidence:  40] Trainees at the private training centers by educational status, gender, nationality and age groups
+
+[Confidence:  40] TRAINEES AT THE PRIVATE TRAINING CENTERS BY FIELD OF TRAINING, GENDER, NATIONALITY AND AGE GROUPS
+
+[Confidence:  40] Trainees at Training Centers by Training Agency, Gender, and Age Group
+
+[Confidence:  40] Volunteers Registered in Qatar Voluntary Center by Nationality, Gender and Age Groups
+
+[Confidence:  20] Accredited Judicial Experts by Gender and Nationality
+
+[Confidence:  20] Accredited Judicial Experts by Gender and Nationality
+
+[Confidence:  20] Age-Sex Distribution of Youth by Activity Type and Nationality – 2022
+
+[Confidence:  20] Age-Sex Distribution of Youth by Activity Type and Nationality – 2022
+
+[Confidence:  20] Arab Championships by Age Group
+
+[Confidence:  20] Arab Championships by Age Group
+
+[Confidence:  20] Arab Championships by Sports Activity and Age Groups (2021-2022)
+
+[Confidence:  20] Arab Championships by Sports Activity and Age Groups (2021-2022)
+
+[Confidence:  20] Arab Championships by Sports Activity and Age Groups (2023)
+
+[Confidence:  20] Arab Championships by Sports Activity and Age Groups (2023)
+
+[Confidence:  20] Asian Championships by Age Group
+
+[Confidence:  20] Asian Championships by Age Group
+
+[Confidence:  20] Asian Championships by Sports Activity and Age Groups (2021-2022)
+
+[Confidence:  20] Asian Championships by Sports Activity and Age Groups (2021-2022)
+
+[Confidence:  20] Asian Championships by Sports Activity and Age Groups (2023)
+
+[Confidence:  20] Asian Championships by Sports Activity and Age Groups (2023)
+
+[Confidence:  20] Beneficiaries of Social Security (Servant Allowance) by Type of Allowance and Gender
+
+[Confidence:  20] Beneficiaries of Social Security (Servant Allowance) by Type of Allowance and Gender
+
+[Confidence:  20] Beneficiaries of the services of Education Support and Professional Development Programs provided by the Social Development Center (Nama) by nationality, gender and program type
+
+[Confidence:  20] Beneficiaries of the services of Education Support and Professional Development Programs provided by the Social Development Center (Nama) by nationality, gender and program type
+
+[Confidence:  20] Beneficiaries of the Services of Entrepreneurship Support Programs by the Social Development Center (NAMA) by Nationality, Gender and Program Type
+
+[Confidence:  20] Beneficiaries of the Services of Entrepreneurship Support Programs by the Social Development Center (NAMA) by Nationality, Gender and Program Type
+
+[Confidence:  20] Beneficiaries of the Social Security by Type of Security and Gender
+
+[Confidence:  20] Beneficiaries of the Social Security by Type of Security and Gender
+
+[Confidence:  20] Beneficiaries received training services in Project Service Program rendered by Social Development Center by nationality, gender
+
+[Confidence:  20] Beneficiaries received training services in Project Service Program rendered by Social Development Center by nationality, gender
+
+[Confidence:  20] Beneficiaries received training services rendered by Social Development Center by nationality, gender and type of programs
+
+[Confidence:  20] Beneficiaries received training services rendered by Social Development Center by nationality, gender and type of programs
+
+[Confidence:  20] Child Mortality Rate by Nationality and Gender
+
+[Confidence:  20] Child Mortality Rate by Nationality and Gender
+
+[Confidence:  20] Cigarettes and Shisha Industry Counter Advertising By Gender
+
+[Confidence:  20] Cigarettes and Shisha Industry Counter Advertising By Gender
+
+[Confidence:  20] Cigarettes and Shisha Industry Counter Advertising By Nationality and Gender
+
+[Confidence:  20] Cigarettes and Shisha Industry Counter Advertising By Nationality and Gender
+
+[Confidence:  20] Deaths and Injuries in Traffic Accidents by Driver’s Experience
+
+[Confidence:  20] Domestic Championships by Age Groups
+
+[Confidence:  20] Domestic Championships by Sports Activity and Age Groups (2021-2022)
+
+[Confidence:  20] Domestic Championships by Sports Activity and Age Groups (2023)
+
+[Confidence:  20] Driving licenses renewed by year ,vehicle type and gender
+
+[Confidence:  20] Economics Of Tobacco Smoking By Nationality, And Gender
+
+[Confidence:  20] Elderly Beneficiaries of the Programs and Services Offered by the Comprehensive Care Section of the Center for Empowerment and Care of the Elderly (Ihsan) by Type of Service, Nationality, and Gender
+
+[Confidence:  20] Elderly Beneficiaries of the Services Provided by the Center for Empowerment and Care of the Elderly (Ihsan) by Type of Service, Nationality, and Gender
+
+[Confidence:  20] Employed Persons (15 Years & Above) and Average Work Hours by Gender & Sector
+
+[Confidence:  20] Employees in Journal and Magazines by Nationality & Gender
+
+[Confidence:  20] Employees in Journals and Magazines by Nationality & Gender
+
+[Confidence:  20] Female Participation Rate (15 Years & Above) by Age Group
+
+[Confidence:  20] Global Gender Gap Index
+
+[Confidence:  20] Judges Serving at Courts by Job Title, Nationality and Gender
+
+[Confidence:  20] Lawyers By Gender And Nationality
+
+[Confidence:  20] Locally Executed Youth and Sports Activities by Events, Nationality and Gender
+
+[Confidence:  20] Marriages by Nationality and Place of Husband
+
+[Confidence:  20] Marriages by Nationality and Place of Wife
+
+[Confidence:  20] Mean age of Women at childbearing
+
+[Confidence:  20] New driving licenses issued by year, vehicle type and gender
+
+[Confidence:  20] Non-Qatari Female Participation Rate (15 Years & Above) by Age Group
+
+[Confidence:  20] Non-Qatari Male Participation Rate (15 Years & Above) by Age Group
+
+[Confidence:  20] Number of Deaths and Injuries from Traffic Accidents
+
+[Confidence:  20] Number of Deaths and Injuries from Traffic Accidents by Driver's Experience
+
+[Confidence:  20] Number of Deaths and Injuries Resulting from Fires
+
+[Confidence:  20] Number of Deaths and Injuries Resulting from Fires by Month
+
+[Confidence:  20] Number of Deaths and Injuries Resulting from Fires that are Subject to Public Safety and Security Conditions
+
+[Confidence:  20] Number of Deaths by Type
+
+[Confidence:  20] Number of Deaths from Traffic Accidents by Affected Person Location
+
+[Confidence:  20] Number of Discharged Cases, Deaths, and Average Daily Stay at Hamad Medical Corporation Hospitals by Type of Disease
+
+[Confidence:  20] Number of Employees by Nationality, Gender, and Insurance Company Nationality – Insurance Statistics
+
+[Confidence:  20] Number of Graduates by Age Group and Academic Year
+
+[Confidence:  20] Number of Graduates by Gender and Academic Year
+
+[Confidence:  20] Number of Graduates of Private Colleges and Universities by Educational Institution, Nationality, and Gender
+
+[Confidence:  20] Number of Graduates of Public Colleges and Universities by Academic Degree, Academic Program, Educational Institution, Nationality, and Gender
+
+[Confidence:  20] Number of Graduates on Scholarships Abroad by Field of Study and Gender
+
+[Confidence:  20] Number of Graduates on Scholarships Abroad by Field of Study, Scientific Degree, and Gender
+
+[Confidence:  20] Number of Graduates with Disabilities by Academic Degree, Nationality, and Gender
+
+[Confidence:  20] Number of Judges Serving at Courts by Job Title, Nationality, and Gender
+
+[Confidence:  20] Number of Lawyers by Nationality, Gender, and Occupation
+
+[Confidence:  20] Number of New Students on Scholarships Abroad by Country of Study and Gender
+
+[Confidence:  20] Number of New Students on Scholarships Abroad by Field of Study and Gender
+
+[Confidence:  20] Number of New Students on Scholarships Abroad by Field of Study, Scientific Degree, and Gender
+
+[Confidence:  20] Number of New Students on Scholarships and Graduates Abroad by Scientific Degree and Gender
+
+[Confidence:  20] Number of New Students on Scholarships at Universities and Colleges Inside Qatar by Educational Institution and Gender
+
+[Confidence:  20] Number of Paramedics' Patients by Age Group
+
+[Confidence:  20] Number of Paramedics' Patients by Gender
+
+[Confidence:  20] Number of Passed Students by Level of Education, Grade, Type of Education, and Gender
+
+[Confidence:  20] Number of Passed Students in Secondary School Certificate from Evening Schools and Homes by Type of School, Nationality, and Gender
+
+[Confidence:  20] Number of People Attending Evening Schools and Illiteracy Eradication Centers by Level of Education and Gender
+
+[Confidence:  20] Number of People Registered at Disabled Centers by Age Group and Center
+
+[Confidence:  20] Number of People Registered at Disabled Centers by Nationality, Gender, and Center
+
+[Confidence:  20] Number of People Registered at Disabled Centers by Nationality, Gender, and Type of Disability
+
+[Confidence:  20] Number of People with difficulties by Nationality, Gender, and Educational Status
+
+[Confidence:  20] Number of People with difficulties by Nationality, Gender, and Municipality
+
+[Confidence:  20] Number of People with difficulties by Nationality, Gender, and Occupation
+
+[Confidence:  20] Number of People with difficulties by Nationality, Gender, and Sector
+
+[Confidence:  20] Number of People with difficulties by Nationality, Gender, and Type of Difficulty
+
+[Confidence:  20] Number of People with Disabilities by Nationality, Gender, Type of Difficulty, and Degree of Difficulty
+
+[Confidence:  20] Number of Persons Attending Evening Schools and Illiteracy Eradication Centers by Level of Education, Grade, Nationality, and Gender
+
+[Confidence:  20] Number of Public Prosecution Members and Assistants by Nationality and Gender
+
+[Confidence:  20] Number of Reported Infectious Disease Cases by Disease and Gender
+
+[Confidence:  20] Number of Road Traffic Accidents by Gender
+
+[Confidence:  20] Number of Staff Providing Services for Disabled at Rumailah Hospital and Qatar Rehabilitation Institute by Department and Gender
+
+[Confidence:  20] Number of Staff Providing Services for Disabled at Rumailah Hospital and Qatar Rehabilitation Institute by Department, Gender, and Nationality
+
+[Confidence:  20] Number of Staff Providing Services for Disabled at Rumailah Hospital and Qatar Rehabilitation Institute by Occupation and Gender
+
+[Confidence:  20] Number of Staff Providing Services for Disabled at Rumailah Hospital and Qatar Rehabilitation Institute by Occupation, Gender, and Nationality
+
+[Confidence:  20] Number of Students and Teachers in Schools by Level of Education, Gender, and Type of Education
+
+[Confidence:  20] Number of Students by Age Group
+
+[Confidence:  20] Number of Students by Age Group and Academic Year
+
+[Confidence:  20] Number of Students by Gender
+
+[Confidence:  20] Number of Students by Gender and Academic Year
+
+[Confidence:  20] Number of Students by Level of Education, Gender, Type of Education, and Nationality
+
+[Confidence:  20] Number of Students in Private Colleges and Universities by Educational Institution, Nationality, and Gender
+
+[Confidence:  20] Number of Students in Private Schools by Level of Education, Type of School, Nationality, and Gender
+
+[Confidence:  20] Number of Students in Private Schools by Type of School and Gender
+
+[Confidence:  20] Number of Students in Public Colleges and Universities by College and Gender
+
+[Confidence:  20] Number of Students in Public Colleges and Universities by Nationality, Country, and Gender
+
+[Confidence:  20] Number of Students in Schools and Universities by Level of Education, Type of Education, Gender
+
+[Confidence:  20] Number of Students on Scholarships Abroad by Country of Study, Scientific Degree, and Gender
+
+[Confidence:  20] Number of Students with Disabilities Enrolled at Qatar University by College, Nationality, and Gender
+
+[Confidence:  20] Number of Students with Disabilities Enrolled at Qatar University by Nationality and Gender
+
+[Confidence:  20] Number of Students with Disabilities Integrated into Public Schools by Level of Education, Nationality, and Gender
+
+[Confidence:  20] Number of Teachers in Public Schools by Level of Education, Nationality, and Gender
+
+[Confidence:  20] Number of Teachers in Public Schools by Level of Education, Type of School, and Gender
+
+[Confidence:  20] Number of Teaching and Administrative Staff in Private Schools by Job Title, Nationality, and Gender
+
+[Confidence:  20] Number of Teaching and Administrative Staff in Public Schools by Job Title, Nationality, and Gender
+
+[Confidence:  20] Number of Violators of Quarantine Requirements by Month, Nationality, and Gender
+
+[Confidence:  20] Parental Care Services Rendered by Family Consulting Center (Wifaq) by Nationality and Gender
+
+[Confidence:  20] Participants in local youth and sports activities by event, nationality and gender
+
+[Confidence:  20] Participants in Local Youth and Sports Activities by Event, Nationality and Gender (2021)
+
+[Confidence:  20] Participants in Local Youth and Sports Activities by Event, Nationality, and Gender (2023)
+
+[Confidence:  20] Participation at Qatar Digital Academy by Gender (2024)
+
+[Confidence:  20] Percentage of Adults Who Support Increasing Taxes On Tobacco Products By Gender, And Nationality
+
+[Confidence:  20] Percentage of Basic Vaccination Coverage for Children at the First Year of Age by Type of Vaccination
+
+[Confidence:  20] Percentage of Current Tobacco Users By Gender, And Nationality
+
+[Confidence:  20] Percentage Of Electronic Cigarette Users By Type of User, Gender, And Nationality
+
+[Confidence:  20] Percentage of Electronic Cigarettes Users By Gender, and Type of User
+
+[Confidence:  20] Percentage of Exposure to Secondhand Smoke By Nationality, And Gender
+
+[Confidence:  20] Percentage of People Affected By Secondhand Smoking By Gender, and Type of Exposure
+
+[Confidence:  20] Percentage Of Shisha Smokers By Type Of Smoker, Nationality, And Gender
+
+[Confidence:  20] Percentage of Smokeless Tobacco Users By Nationality, and Gender
+
+[Confidence:  20] Percentage of Smokers By Dependency and Gender
+
+[Confidence:  20] Percentage of Smokers By Type of Cessation, and Gender
+
+[Confidence:  20] Percentage of Smokers By Type of Dependency, Nationality, And Gender
+
+[Confidence:  20] Percentage of Tobacco Smokers By Type of Smoker, Nationality, And Gender
+
+[Confidence:  20] Percentage of Tobacco User Cessation By Nationality, And Gender
+
+[Confidence:  20] Percentage of Tobacco Users By Type of User, and Gender
+
+[Confidence:  20] Private Schools’ Teaching and Administrative Staff by Type of School and Gender
+
+[Confidence:  20] Qatari Female Participation Rate (15 Years & Above) by Age Group
+
+[Confidence:  20] Qatari Male Participation Rate (15 Years & Above) by Age Group
+
+[Confidence:  20] Registered Deaths (15 Years and Over) by Marital Status – Annual
+
+[Confidence:  20] Registered Live Births by Duration of Marriage and Birth Order – Qataris
+
+[Confidence:  20] Registered Live Births by Duration of Marriage and Birth Order – Total
+
+[Confidence:  20] Registered Live Births By Duration of Marriage and Birth Order (Non-Qataris)
+
+[Confidence:  20] Registered Live Births by Educational Status of Father and Mother – Foreigners
+
+[Confidence:  20] Registered Live Births by Educational Status of Father and Mother – Other Arabs
+
+[Confidence:  20] Registered Live Births by Educational Status of Father and Mother – Qataris
+
+[Confidence:  20] Registered Live Births By Nationality, Delivery Attendants, Municipality and Place of Birth
+
+[Confidence:  20] Registered Live Births by Nationality, Type of Birth and Municipality
+
+[Confidence:  20] Rescue and Relief Services Furnished By Civil Defense Department By Number of Operations, Injuries, Deaths And Type of Service
+
+[Confidence:  20] Retirees Registered in Pension Funds and Systems by Age Group at Retirement
+
+[Confidence:  20] Services provided to cases received by Naufar Center by gender and service type
+
+[Confidence:  20] Services Provided to Cases Received by the Protection and Social Rehabilitation Center (Aman) by Nationality, Gender and Service Type
+
+[Confidence:  20] Services Rendered by Family Consulting Center (Wifaq) by Type of Service, Gender and Nationality
+
+[Confidence:  20] Services Rendered by Family Consulting Centre (Wifaq) through Phone Calls by Type of Consultancy, Gender and Nationality
+
+[Confidence:  20] SERVICES RENDERED IN SOCIAL REHABILITATION CENTER (OWAIN) BY NATIONALITY & Gender
+
+[Confidence:  20] Services rendered Qatar Foundation for Combating Human Trafficking by type of consultancy, gender and nationality
+
+[Confidence:  20] Sports Teams by Age Groups
+
+[Confidence:  20] Sports Teams by Sports Activity and Age Groups
+
+[Confidence:  20] Student Enrollment by College, Nationality, and Gender - Fall 2024
+
+[Confidence:  20] Teaching and Administrative Staff of Private Colleges and Universities by University Title, Nationality, and Gender
+
+[Confidence:  20] Teaching Staff in Public Colleges and Universities by Nationality, Title, and Gender
+
+[Confidence:  20] Total Qatari Participation Rate (15 Years & Above) by Age Group
+
+[Confidence:  20] Total Students on Scholarships (Abroad) by Field of Study, Scientific Degree, and Gender
+
+[Confidence:  20] Total Students on Scholarships (At Home and Abroad) by Degree and Gender
+
+[Confidence:  20] Trainees at Governmental and Mixed Training Centers by Nationality, Gender, and Field of Training
+
+[Confidence:  20] Trainees at the governmental and mixed training centers by gender and duration of training
+
+[Confidence:  20] Trainees at the Private Training Centers According to the Educational Status, Gender, Nationality, and Field of Training
+
+[Confidence:  20] Trainees by Nationality, Gender, and Training Agency
+
+[Confidence:  20] Unemployment Rate (15 Years & Above) by Nationality and Gender
+
+[Confidence:  20] Unemployment Rate of Non-Qatari Females by Age Group and Educational Status
+
+[Confidence:  20] Unemployment Rate of Qatari Females by Age Group and Educational Status
+
+[Confidence:  20] Violators of Precautionary and Preventive Measures to Limit The Spread of Corona Virus According to Nationality, Gender and Crime Type
+
+[Confidence:  20] Volunteers at Qatar Center for Voluntary Activities by nationality and gender
+
+[Confidence:  20] Working and Non-Working Members in Youth Sport Institutions by Gender
+
+[Confidence:  20] Youth Unemployment Rate (15–24 Years) by Nationality and Gender
+
+
+
+====================================================================================================
+CATEGORY: Real Estate & Construction
+====================================================================================================
+
+[Confidence: 100] Annual Real Estate Ownership by GCC Citizens by Nationality
+
+[Confidence: 100] Annual Real Estate Ownership by GCC Citizens by Nationality
+
+[Confidence: 100] Cumulative Real Estate Ownership by GCC Citizens by Nationality
+
+[Confidence: 100] Total area of real estate owned by GCC citizens in Qatar by nationality, type of property and year
+
+[Confidence:  90] Buildings by Buildings Status and Municipality in Census ( 2010 , 2020 )
+
+[Confidence:  90] Buildings by Buildings Status and Municipality in Census ( 2010 , 2020 )
+
+[Confidence:  90] Completed Buildings (Residential and Residential/Commercial) by Municipality in 2015 Census
+
+[Confidence:  90] Cultural Events at the Cultural Village Foundation (Katara) by Type of Event
+
+[Confidence:  90] Cultural Events in the Cultural Village Foundation (Katara) By Month and Type of Event
+
+[Confidence:  90] Distribution of Completed Buildings by Connection to Public Utility Network Between 2010 and 2015 Censuses
+
+[Confidence:  90] General Population and Housing Census (1986–2020) by Gender
+
+[Confidence:  90] Households and individuals by type of housing unit and number of household members
+
+[Confidence:  90] Housing Units by Type of Units and Municipality in Census ( 2010 , 2020 )
+
+[Confidence:  90] New temporary driving permits issued by type and month
+
+[Confidence:  90] Number of Facilities at the Cultural Village Foundation (Katara) by Type of Facility
+
+[Confidence:  90] Number of Housing Units by Occupancy Status in 2010 and 2015 Censuses
+
+[Confidence:  90] Number of Temporary Driving Permits Renewed by Type, Year and Month
+
+[Confidence:  90] Percentage Distribution (%) of Household Members by Type of Housing Unit and Municipality, Census 2015
+
+[Confidence:  90] Percentage Distribution (%) of Household Members by Type of Housing Unit during Census Years (1986-2015)
+
+[Confidence:  90] Percentage Distribution (%) of Households by Type of Housing Unit, Census Years (1986-2015)
+
+[Confidence:  90] Visitor Arrivals Trends by Mode of Transport (Air, Land, Sea)
+
+[Confidence:  90] Water used in commercial activity and commercial GDP (at constant prices of 2018)
+
+[Confidence:  80] Beneficiaries of services rendered by Social Development Center by type and nationality
+
+[Confidence:  80] Beneficiaries of services rendered by Social Development Center by type and nationality
+
+[Confidence:  80] Beneficiaries of the Services of Youth Capacity Building & Development Programs Provided by the Social Development Center (NAMA) by Nationality, Gender and Program Type
+
+[Confidence:  80] Beneficiaries of the Services of Youth Capacity Building & Development Programs Provided by the Social Development Center (NAMA) by Nationality, Gender and Program Type
+
+[Confidence:  80] Forest Area as a Proportion of Total Land Area
+
+[Confidence:  80] Growth of the Number of Completed Buildings by Building Type in 2010 and 2015 Censuses
+
+[Confidence:  80] Human Development Index
+
+[Confidence:  80] Public Infrastructure and Buildings Construction Projects
+
+[Confidence:  80] Sustainable Development Goals Index
+
+[Confidence:  80] The Growth of the Number of Buildings by Building Condition, 2010 and 2015 Censuses
+
+[Confidence:  80] Water Real Losses Reduction by Year
+
+[Confidence:  80] Youth Development Index
+
+[Confidence:  20] Number and Length Of Domestic and Commercial Service Connections (2023)
+
+[Confidence:   0] Business Establishments by Ownership Sector in 2004, 2010 and 2015 Censuses
+
+[Confidence:   0] Business Establishments by Ownership Sector in 2004, 2010 and 2015 Censuses
+
+
+
+====================================================================================================
+CATEGORY: Regional & Global Context
+====================================================================================================
+
+[Confidence:  80] Capitals of Joint Stock Companies Whose Shares Are Listed To Be Traded By GCC Citizens In Qatar
+
+[Confidence:  80] Capitals of Joint Stock Companies Whose Shares Are Listed To Be Traded By GCC Citizens In Qatar
+
+[Confidence:  80] Estimates of Intermediate Goods Value by Bank Nationality
+
+[Confidence:  80] Estimates of Intermediate Services Value by Bank Nationality
+
+[Confidence:  80] Expenditures of Current Activity by Bank Nationality
+
+[Confidence:  80] GCC Championships by Age Groups
+
+[Confidence:  80] GCC Championships by Sports Activity and Age Group (2023)
+
+[Confidence:  80] GCC Championships by Sports Activity and Age Groups (2021-2022)
+
+[Confidence:  80] GCC Citizens Covered by Social Insurance – Government Sector
+
+[Confidence:  80] GCC Citizens in Qatar's Retirement Scheme – Private Sector
+
+[Confidence:  80] Main Economic Indicators by Bank Nationality
+
+[Confidence:  80] Number of Blood Bags Delivered by Blood Bank of Hamad Medical Corporation by Blood Group
+
+[Confidence:  80] Number of Blood Donors at Blood Bank of Hamad Medical Corporation by Nationality
+
+[Confidence:  80] Number of Employees and Estimated Compensation by Nationality and Bank Nationality – Banks Statistics
+
+[Confidence:  80] Number of Employees by Nationality, Gender, and Bank Nationality – Banks Statistics
+
+[Confidence:  80] Number of GCC citizens who entered Qatar by nationality
+
+[Confidence:  80] Number of GCC citizens working in the government sector in Qatar by nationality
+
+[Confidence:  80] Number of GCC citizens working in the private sector in Qatar by nationality
+
+[Confidence:  80] Number of joint stock companies whose shares are listed to be traded by GCC citizens in Qatar
+
+[Confidence:  80] Number of students in general education who are GCC citizens enrolled in government schools in Qatar by nationality (Secondary stage)
+
+[Confidence:  80] Other Payments and Transfers by Bank Nationality – Banks Statistics
+
+[Confidence:  80] Other Revenues from Non-Banking Activities by Bank Nationality – Banks Statistics
+
+[Confidence:  80] Revenues of Current Activity by Bank Nationality – Banks Statistics
+
+[Confidence:  80] The number of licenses granted to GCC citizens to practice economic activites in Qatar by nationality (cumulative)
+
+[Confidence:  80] The number of licenses granted to GCC citizens to practice economic activities in Qatar by nationality
+
+[Confidence:  80] The number of students who are citizens of the GCC countries enrolled in government higher education institutions in the State of Qatar by nationality
+
+[Confidence:  80] Total number of GCC shareholders in joint stock companies whose shares are listed to be traded by GCC citizens in Qatar
+
+[Confidence:  80] Value of Gross Output and Value Added by Bank Nationality
+
+[Confidence:  20] Global Competitiveness Index (GCI)
+
+[Confidence:  20] Global Cybersecurity Index (GCI)
+
+[Confidence:  20] Global Entrepreneurship Monitor
+
+[Confidence:  20] Global Food Security Index (GFSI)
+
+[Confidence:  20] Global Innovation Index
+
+[Confidence:   0] Aircraft activity at Doha International Airport by type and year
+
+[Confidence:   0] Aircraft activity at Doha International Airport by type and year
+
+[Confidence:   0] Aircraft activity at Hamad International Airport by type and year
+
+[Confidence:   0] Aircraft activity at Hamad International Airport by type and year
+
+[Confidence:   0] Arrival and departures via hamad international airport by month and year
+
+[Confidence:   0] Arrival and departures via hamad international airport by month and year
+
+[Confidence:   0] Arrival, departures and transit via Hamad International Airport by month and year
+
+[Confidence:   0] Arrival, departures and transit via Hamad International Airport by month and year
+
+[Confidence:   0] Average Daily Sunshine Hours by Months Doha International Airport
+
+[Confidence:   0] Average Daily Sunshine Hours by Months Doha International Airport
+
+[Confidence:   0] Average Daily Sunshine Hours by Months Hamad International Airport
+
+[Confidence:   0] Average Daily Sunshine Hours by Months Hamad International Airport
+
+[Confidence:   0] Cargo and mail activity at Doha International Airport by type and year
+
+[Confidence:   0] Cargo and mail activity at Doha International Airport by type and year
+
+[Confidence:   0] Cargo and mail activity at Hamad International Airport by type and year
+
+[Confidence:   0] Cargo and mail activity at Hamad International Airport by type and year
+
+[Confidence:   0] Cargo and mail via Doha International Airport by type, year and month
+
+[Confidence:   0] Cargo and mail via Doha International Airport by type, year and month
+
+[Confidence:   0] Cargo via Doha International Airport by month and year
+
+[Confidence:   0] Cargo via Doha International Airport by month and year
+
+[Confidence:   0] Cargo via hamad international airport by month and year
+
+[Confidence:   0] Cargo via hamad international airport by month and year
+
+[Confidence:   0] Compliance with International Environmental Agreements
+
+[Confidence:   0] Fog, Dust Storm and haze - Doha International Airport (2011 - 2024)
+
+[Confidence:   0] fog, duststorm and haze doha international airport
+
+[Confidence:   0] International Championships by Age Groups
+
+[Confidence:   0] International Championships by Sports Activity and Age Group (2023)
+
+[Confidence:   0] International championships by sports activity and age groups
+
+[Confidence:   0] Mail via Hamad International Airport by type, month and year
+
+[Confidence:   0] Maximum, Minimum Temperature and Monthly Relative Humidity – Doha International Airport
+
+[Confidence:   0] Monthly scheduled and non-scheduled aircrafts traffic at hamad international airport by type, year and airline
+
+[Confidence:   0] Monthly Weather Data - Doha International Airport
+
+[Confidence:   0] Number of Arrivals, Departures and Transient via Doha International Airport by Month and Year
+
+[Confidence:   0] Relative Humidity and Precipitation data at Doha International Airport
+
+[Confidence:   0] Sea Level Atmospheric Pressure and Wind Speed at Doha International Airport
+
+[Confidence:   0] Total Exports by Sections of Standard International Trade Classification, 2023 (Q4)
+
+
+
+====================================================================================================
+CATEGORY: Tourism & Hospitality
+====================================================================================================
+
+[Confidence: 100] Accommodation Data by Segment, Date, and Key Metrics (Supply, Demand, Occupancy, ADR, RevPAR)
+
+[Confidence: 100] Accommodation Data by Segment, Date, and Key Metrics (Supply, Demand, Occupancy, ADR, RevPAR)
+
+[Confidence:  90] Economic Indicators in Hotels and Restaurants by Activity
+
+[Confidence:  90] Economic Indicators in Hotels and Restaurants by Activity – Establishments with less than 10 Employees
+
+[Confidence:  90] Estimates of Compensation in Hotels and Restaurants by Occupation and Type
+
+[Confidence:  90] Estimates of Intermediate Goods Value in Hotels and Restaurants by Commodity and Activity
+
+[Confidence:  90] Estimates of Intermediate Services Value in Hotels and Restaurants by Service Type and Activity
+
+[Confidence:  90] Estimates of Value Added in Hotels and Restaurants by Economic Activity
+
+[Confidence:  90] Estimates of Value Added in Hotels and Restaurants by Economic Activity - Establishments with 10 or More Employees
+
+[Confidence:  90] Estimates of Value Added in Hotels and Restaurants by Economic Activity - Establishments with less than 10 Employees
+
+[Confidence:  90] Hotels and Restaurants Other Revenues by Revenue Item and Main Activity (Establishments with less than 10 Employees)
+
+[Confidence:  90] Hotels and Restaurants Statistics - Estimates of Compensation in Hotels and Restaurants by Occupation and Type – Establishments with 10 or More Employees
+
+[Confidence:  90] Hotels and Restaurants Statistics - Estimates of Compensation in Hotels and Restaurants by Occupation and Type – Establishments with Fewer than 10 Employees
+
+[Confidence:  90] Hotels and Restaurants Statistics - Transformational Revenues by Revenue Item and Main Activity
+
+[Confidence:  90] Number of Employees by Gender and Occupation (Establishments with 10 Employees or more) – Hotels and Restaurants
+
+[Confidence:  90] Number of Employees in Hotels and Restaurants by Gender, Nationality, and Main Economic Activity
+
+[Confidence:  90] Number of Movie Theaters, Movie Theaters' Seats, and Movie Theaters Visitors
+
+[Confidence:  90] Number of Types of Animals at The Zoological Garden And Number of Visitors
+
+[Confidence:  90] Number of Visitors of Al-Khor Zoo by Month
+
+[Confidence:  90] Number of Visitors to Health Centers by Health Center
+
+[Confidence:  90] Number of Visitors to Health Centers by Health Center, Nationality, and Gender
+
+[Confidence:  90] Other Hotels and Restaurants Revenues by Revenue Item and Main Activity (Establishments with 10 Employees or more)
+
+[Confidence:  90] Production Value of Hotels and Restaurants by Type of Revenue and Main Economic Activity
+
+[Confidence:  90] Production Value of Hotels and Restaurants by Type of Revenue and Main Economic Activity (Establishments with 10 Employees or more)
+
+[Confidence:  90] Production Value of Hotels and Restaurants by Type of Revenue and Main Economic Activity (Establishments with less than 10 Employees)
+
+[Confidence:  90] Revenues of Hotels and Restaurants Current Activity by Revenue Item and Main Activity
+
+[Confidence:  90] Revenues of Hotels and Restaurants Current Activity by Revenue Item and Main Activity (Establishments with 10 Employees or more)
+
+[Confidence:  90] Revenues of Hotels and Restaurants Current Activity by Revenue Item and Main Activity (Establishments with less than 10 Employees)
+
+[Confidence:  90] Type of Animals at the Zoo in Khor Park Garden and Number of Visitors
+
+[Confidence:  90] Value of Intermediate Goods and Services in Hotels and Restaurants by Type and Activity
+
+[Confidence:  90] Visitors of Panda House Park by Months (2023–2024)
+
+[Confidence:  90] Visitors to the Park in Qatar by Month and Municipality
+
+[Confidence:  80] Number of Hotel Beds by Hotel Class
+
+[Confidence:  80] Number of Hotel Guests and Nights of Stay by Month
+
+[Confidence:  80] Number of Hotel Guests and Nights of Stay by Nationality
+
+[Confidence:  80] Number of Hotel Gulf Guests and Nights of Stay by Country
+
+[Confidence:  80] Number of Hotel Rooms by Hotel Class
+
+[Confidence:  80] Number of Hotels by Hotel Class
+
+[Confidence:  80] Number of hotels, rooms and beds by hotel type
+
+[Confidence:  80] Total Exports by Main Country of Destination, 2023 (Q4)
+
+[Confidence:  80] Total Exports by Main Country of Destination, Q4 2023 (%)
+
+[Confidence:  80] Travel & Tourism Development Index (TTDI)
+
+[Confidence:  80] Visitor Arrivals by Mode of Entry
+
+[Confidence:  80] Visitor Arrivals by Region

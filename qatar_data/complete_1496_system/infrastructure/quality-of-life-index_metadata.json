@@ -1,0 +1,11 @@
+{
+  "dataset_id": "quality-of-life-index",
+  "title": "Quality of Life Index",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 10,
+  "file_size_bytes": 243,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/quality-of-life-index/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:14.758016",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

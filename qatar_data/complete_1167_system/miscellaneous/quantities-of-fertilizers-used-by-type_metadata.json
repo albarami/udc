@@ -1,0 +1,11 @@
+{
+  "dataset_id": "quantities-of-fertilizers-used-by-type",
+  "title": "Quantities of Fertilizers Used by Type",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 12,
+  "file_size_bytes": 800,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/quantities-of-fertilizers-used-by-type/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:41.946401",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,139 @@
+# UDC Polaris - Git Ignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+.env
+
+# Environment Variables - CRITICAL: Never commit API keys!
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+chroma_data/
+data/chromadb/
+
+# Logs
+*.log
+logs/
+qatar_scraper.log
+
+# Output
+output/
+backend/output/
+pdfs/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Type Checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Ruff
+.ruff_cache/
+
+# Node.js (for frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Frontend Build
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/out/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Large data files (keep structure, not content)
+qatar_data/raw/*
+!qatar_data/raw/.gitkeep
+
+# Qatar dataset directories (too large for GitHub)
+qatar_data/clean_1167_zero_duplicates/
+qatar_data/clean_unique_datasets/
+qatar_data/final_strategic_system/
+qatar_data/priority_datasets/
+qatar_data/complete_strategic_system/
+qatar_data/aggregated/
+qatar_data/critical_priority/
+qatar_data/curated_priority/
+
+# Keep only metadata and scripts, not actual CSV files
+*.csv
+!data/sample_data/*.csv
+
+# Keep sample data
+!data/sample_data/
+
+# PDFs and large reports (reference only)
+*.pdf
+data/*.pdf
+data/*.xls
+data/*.xlsx
+
+# Keep directory structure
+!**/.gitkeep
+

@@ -1,0 +1,13 @@
+{
+  "dataset_id": "increase-in-number-of-households-and-their-members-during-the-years-of-census-1986-2015",
+  "title": "Household Growth (1986-2015)",
+  "category": "demographics",
+  "udc_business_value": "Long-term demand trends, household formation",
+  "expected_records": 3,
+  "file_size_bytes": 435,
+  "downloaded_at": "2025-10-31T16:39:46.029588",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/increase-in-number-of-households-and-their-members-during-the-years-of-census-1986-2015/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

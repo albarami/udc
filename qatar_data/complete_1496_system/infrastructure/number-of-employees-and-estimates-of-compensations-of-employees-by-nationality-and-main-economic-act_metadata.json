@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-employees-and-estimates-of-compensations-of-employees-by-nationality-and-main-economic-activity-2020-2021",
+  "title": "Number of Employees & Estimates of Compensations of Employees by Nationality & Main Economic Activity (2020-2021)",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 168,
+  "file_size_bytes": 31420,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-and-estimates-of-compensations-of-employees-by-nationality-and-main-economic-activity-2020-2021/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.135723",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

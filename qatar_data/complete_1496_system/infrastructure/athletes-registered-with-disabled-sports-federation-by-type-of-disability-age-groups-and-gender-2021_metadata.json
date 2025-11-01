@@ -1,0 +1,11 @@
+{
+  "dataset_id": "athletes-registered-with-disabled-sports-federation-by-type-of-disability-age-groups-and-gender-2021",
+  "title": "Athletes Registered with Disabled Sports Federation by Type of Disability, Age Groups and Gender (2021-2022)",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 512,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/athletes-registered-with-disabled-sports-federation-by-type-of-disability-age-groups-and-gender-2021/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:09.110312",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-from-traffic-accidents-by-affected-person-location",
+  "title": "Number of Deaths from Traffic Accidents by Affected Person Location",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 30,
+  "file_size_bytes": 910,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-from-traffic-accidents-by-affected-person-location/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:14.794405",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

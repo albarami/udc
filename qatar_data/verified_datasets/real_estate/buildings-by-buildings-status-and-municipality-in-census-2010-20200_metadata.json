@@ -1,0 +1,13 @@
+{
+  "dataset_id": "buildings-by-buildings-status-and-municipality-in-census-2010-20200",
+  "title": "Buildings by Status and Municipality (2010-2020)",
+  "category": "real_estate",
+  "udc_business_value": "Construction activity tracking, market supply analysis",
+  "expected_records": 24,
+  "file_size_bytes": 2497,
+  "downloaded_at": "2025-10-31T16:39:36.259110",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/buildings-by-buildings-status-and-municipality-in-census-2010-20200/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "student-enrollment-by-college-nationality-and-gender-fall-2024",
+  "title": "Student Enrollment by College, Nationality, and Gender - Fall 2024",
+  "category": "miscellaneous",
+  "publisher": "Hamad Bin Khalifa University",
+  "actual_records": 6,
+  "file_size_bytes": 482,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/student-enrollment-by-college-nationality-and-gender-fall-2024/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:45.197349",
+  "completion_phase": "missing_192_to_reach_1167"
+}

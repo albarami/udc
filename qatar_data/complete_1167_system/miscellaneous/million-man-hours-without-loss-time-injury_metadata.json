@@ -1,0 +1,11 @@
+{
+  "dataset_id": "million-man-hours-without-loss-time-injury",
+  "title": "Million Man Hours Without Loss Time Injury",
+  "category": "miscellaneous",
+  "publisher": "KAHRAMAA",
+  "actual_records": 5,
+  "file_size_bytes": 86,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/million-man-hours-without-loss-time-injury/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.537929",
+  "completion_phase": "missing_192_to_reach_1167"
+}

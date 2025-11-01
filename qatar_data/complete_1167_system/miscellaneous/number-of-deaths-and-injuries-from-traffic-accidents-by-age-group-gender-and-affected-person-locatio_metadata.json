@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-and-injuries-from-traffic-accidents-by-age-group-gender-and-affected-person-location",
+  "title": "Number of Deaths and Injuries from Traffic Accidents by Age Group, Gender, and Affected Person Location",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 702,
+  "file_size_bytes": 61869,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-and-injuries-from-traffic-accidents-by-age-group-gender-and-affected-person-location/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:35.807942",
+  "completion_phase": "missing_192_to_reach_1167"
+}

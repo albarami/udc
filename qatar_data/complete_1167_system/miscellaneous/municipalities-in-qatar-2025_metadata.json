@@ -1,0 +1,11 @@
+{
+  "dataset_id": "municipalities-in-qatar-2025",
+  "title": "Municipalities in Qatar 2025",
+  "category": "miscellaneous",
+  "publisher": null,
+  "actual_records": 8,
+  "file_size_bytes": 653598,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/municipalities-in-qatar-2025/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:41.989662",
+  "completion_phase": "missing_192_to_reach_1167"
+}

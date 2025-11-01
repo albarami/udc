@@ -1,0 +1,13 @@
+{
+  "source": "LinkedIn Economic Graph",
+  "api": "https://developer.linkedin.com/",
+  "strategic_value": "Labor market trends, talent availability, wage benchmarks",
+  "use_cases": [
+    "Workforce planning",
+    "Compensation benchmarking",
+    "Skills gap analysis"
+  ],
+  "access": "Requires LinkedIn Developer approval",
+  "cost": "FREE (with approval), Enterprise for advanced features",
+  "note": "Approval process required - best for large organizations"
+}

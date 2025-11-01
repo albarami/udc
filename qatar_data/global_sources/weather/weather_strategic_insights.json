@@ -1,0 +1,13 @@
+{
+  "construction_planning": {
+    "optimal_months": "Nov-Mar (moderate temperatures, low rainfall)",
+    "challenging_months": "Jun-Aug (extreme heat, productivity impact)",
+    "risk_factors": "Sandstorms (Mar-May), High humidity (May-Oct)"
+  },
+  "tourism_intelligence": {
+    "peak_weather_months": "Nov-Feb (comfortable temperatures)",
+    "shoulder_season": "Mar-Apr, Oct-Nov (warm but manageable)",
+    "low_season_weather": "May-Sep (extreme heat deters visitors)"
+  },
+  "udc_strategic_value": "Critical for project timing and tourism demand forecasting"
+}

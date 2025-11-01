@@ -1,0 +1,33 @@
+{
+  "source": "Google Scholar",
+  "website": "https://scholar.google.com/",
+  "note": "No official API - use scholarly Python library (unofficial)",
+  "strategic_value": "Comprehensive academic research including citations",
+  "search_topics": [
+    "Qatar real estate market",
+    "GCC tourism economics",
+    "Doha urban development",
+    "Qatar construction sector",
+    "Middle East hospitality trends",
+    "Qatar economic diversification"
+  ],
+  "use_cases": [
+    "Literature review for strategic planning",
+    "Citation analysis of industry trends",
+    "Academic benchmarking studies",
+    "Expert identification in relevant fields",
+    "Best practice research"
+  ],
+  "python_integration": {
+    "library": "pip install scholarly",
+    "sample_code": "from scholarly import scholarly\nsearch_query = scholarly.search_pubs('Qatar real estate')\nfor pub in search_query: print(pub['bib']['title'])",
+    "note": "Unofficial library - use with rate limiting to avoid blocks"
+  },
+  "cost": "FREE (web scraping)",
+  "rate_limits": "Aggressive rate limiting - use delays between requests",
+  "alternatives": [
+    "Semantic Scholar API (official, free)",
+    "Microsoft Academic API (discontinued)",
+    "Direct journal APIs (SpringerLink, IEEE, etc.)"
+  ]
+}

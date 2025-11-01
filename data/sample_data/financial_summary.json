@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "source": "UDC Annual Reports and Financial Statements",
+    "coverage": "2021-2024",
+    "last_updated": "2024-10-31",
+    "currency": "QAR",
+    "note": "All figures in thousands unless specified"
+  },
+  "annual_summary": [
+    {
+      "year": 2023,
+      "revenue": 1045000,
+      "operating_profit": 520000,
+      "net_profit": 450000,
+      "total_assets": 11500000,
+      "total_equity": 7600000,
+      "total_debt": 3400000,
+      "cash_and_equivalents": 1470000,
+      "debt_to_equity": 0.45,
+      "roe_percent": 5.9,
+      "interest_coverage": 2.52,
+      "dividend_per_share_qar": 0.06
+    },
+    {
+      "year": 2024,
+      "period": "9M",
+      "revenue": 780000,
+      "operating_profit": 390000,
+      "net_profit": 338000,
+      "total_assets": 12000000,
+      "total_equity": 7800000,
+      "total_debt": 5400000,
+      "cash_and_equivalents": 1470000,
+      "debt_to_equity": 0.48,
+      "work_in_progress": 2560000,
+      "note": "Q1-Q3 2024 data, Q4 pending"
+    }
+  ],
+  "quarterly_performance": [
+    {
+      "period": "Q1 2024",
+      "revenue": 250000,
+      "net_profit": 110000,
+      "eps_qar": 0.018
+    },
+    {
+      "period": "Q2 2024",
+      "revenue": 265000,
+      "net_profit": 115000,
+      "eps_qar": 0.019
+    },
+    {
+      "period": "Q3 2024",
+      "revenue": 265000,
+      "net_profit": 113000,
+      "eps_qar": 0.019,
+      "fair_value_loss": 33000
+    }
+  ],
+  "revenue_breakdown_2023": {
+    "rental_income": {
+      "amount": 330000,
+      "percent": 31.6,
+      "description": "Pearl Island and other property rentals"
+    },
+    "service_income_qatar_cool": {
+      "amount": 420000,
+      "percent": 40.2,
+      "description": "District cooling services"
+    },
+    "hospitality": {
+      "amount": 165000,
+      "percent": 15.8,
+      "description": "Hotels, F&B, marina operations"
+    },
+    "real_estate_sales": {
+      "amount": 85000,
+      "percent": 8.1,
+      "description": "Property sales including Gewan"
+    },
+    "other": {
+      "amount": 45000,
+      "percent": 4.3,
+      "description": "Education, asset management, other"
+    }
+  },
+  "capital_commitments": {
+    "total_committed": 990000,
+    "major_projects": [
+      {
+        "project": "Gewan Island Development",
+        "committed_amount": 650000,
+        "description": "Phase 1 completion - Crystal Residence and infrastructure"
+      },
+      {
+        "project": "Pearl Island Infrastructure",
+        "committed_amount": 200000,
+        "description": "Upgrades and expansion"
+      },
+      {
+        "project": "Qatar Cool Expansion",
+        "committed_amount": 140000,
+        "description": "Capacity expansion and efficiency"
+      }
+    ]
+  },
+  "financial_ratios": {
+    "2023": {
+      "current_ratio": 1.85,
+      "quick_ratio": 1.72,
+      "debt_to_equity": 0.45,
+      "interest_coverage": 2.52,
+      "return_on_equity": 5.9,
+      "return_on_assets": 3.9,
+      "net_profit_margin": 43.1
+    },
+    "2024_q3": {
+      "current_ratio": 1.80,
+      "debt_to_equity": 0.48,
+      "note": "Slight increase due to Gewan capex"
+    }
+  },
+  "credit_facilities": {
+    "total_facilities": 6000000,
+    "utilized": 5400000,
+    "available": 600000,
+    "weighted_avg_interest_rate_percent": 5.2,
+    "note": "Mix of conventional and Islamic financing"
+  },
+  "key_metrics_thresholds": {
+    "debt_to_equity_yellow_flag": 0.50,
+    "debt_to_equity_red_flag": 0.55,
+    "minimum_irr_new_projects": 15.0,
+    "preferred_irr": 18.0,
+    "minimum_cash_buffer": 1000000,
+    "interest_coverage_minimum": 2.0
+  },
+  "analyst_consensus": {
+    "target_price_qar": 1.85,
+    "current_price_qar": 1.65,
+    "recommendation": "Hold",
+    "key_concerns": [
+      "Gewan Phase 1 completion timeline",
+      "Rising debt levels for capex",
+      "HDC hospitality losses",
+      "Pearl occupancy in some precincts"
+    ],
+    "key_positives": [
+      "Strong Qatar Cool performance",
+      "Stable rental income",
+      "Strategic land bank",
+      "Government backing"
+    ]
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-distribution-of-labor-force-15-years-and-above-by-economic-activity-nationality-and-gender",
+  "title": "Percentage Distribution of Labor Force (15 Years and Above) by Economic Activity, Nationality and Gender",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 16,
+  "file_size_bytes": 1320,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-distribution-of-labor-force-15-years-and-above-by-economic-activity-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:19.375840",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

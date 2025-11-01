@@ -1,0 +1,11 @@
+{
+  "dataset_id": "junior-athletes-u16-championships-by-sports-activity-and-implementation-level",
+  "title": "Junior Athletes (U16) Championships by Sports’ Activity and Implementation Level",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 45,
+  "file_size_bytes": 2773,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/junior-athletes-u16-championships-by-sports-activity-and-implementation-level/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:10.391424",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

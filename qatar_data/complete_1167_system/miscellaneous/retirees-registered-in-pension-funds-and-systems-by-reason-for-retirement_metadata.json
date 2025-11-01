@@ -1,0 +1,11 @@
+{
+  "dataset_id": "retirees-registered-in-pension-funds-and-systems-by-reason-for-retirement",
+  "title": "Retirees Registered in Pension Funds and Systems by Reason for Retirement",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 25,
+  "file_size_bytes": 1782,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/retirees-registered-in-pension-funds-and-systems-by-reason-for-retirement/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:42.005542",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "monthly-scheduled-and-non-scheduled-aircrafts-traffic-at-hamad-international-airport-by-type-year-and-airline",
+  "title": "Monthly scheduled and non-scheduled aircrafts traffic at hamad international airport by type, year and airline",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 240,
+  "file_size_bytes": 23700,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/monthly-scheduled-and-non-scheduled-aircrafts-traffic-at-hamad-international-airport-by-type-year-and-airline/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.094368",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-research-and-writings-published-by-academic-year",
+  "title": "Number of Research and Writings Published by Academic Year",
+  "category": "real_estate_construction",
+  "publisher": "University of Doha for Science and Technology",
+  "actual_records": 3,
+  "file_size_bytes": 100,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-research-and-writings-published-by-academic-year/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:05.956223",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

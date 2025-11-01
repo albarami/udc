@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-deaths-and-injuries-resulting-from-fires-that-are-subject-to-public-safety-and-security-conditions",
+  "title": "Number of Deaths and Injuries Resulting from Fires that are Subject to Public Safety and Security Conditions",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 24,
+  "file_size_bytes": 954,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-deaths-and-injuries-resulting-from-fires-that-are-subject-to-public-safety-and-security-conditions/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:44.267720",
+  "completion_phase": "missing_192_to_reach_1167"
+}

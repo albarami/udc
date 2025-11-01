@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-employees-by-sex-nationality-and-main-economic-activity-activity-codes-6021-6420-isic-rev3-less-than-10-employees",
+  "title": "Number of Employees by Sex, Nationality & Main Economic Activity (Activity Codes 6021-6420, ISIC Rev.3) - Less than 10 Employees",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 156,
+  "file_size_bytes": 25257,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-employees-by-sex-nationality-and-main-economic-activity-activity-codes-6021-6420-isic-rev3-less-than-10-employees/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:18.227888",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

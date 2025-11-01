@@ -1,0 +1,11 @@
+{
+  "dataset_id": "services-provided-by-naufar-center-by-age-group-and-gender",
+  "title": "Services provided by Naufar Center by age group, and gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 50,
+  "file_size_bytes": 1870,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/services-provided-by-naufar-center-by-age-group-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:44.246802",
+  "completion_phase": "missing_192_to_reach_1167"
+}

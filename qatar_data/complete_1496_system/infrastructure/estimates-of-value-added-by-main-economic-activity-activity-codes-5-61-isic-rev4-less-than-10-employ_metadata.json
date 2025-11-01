@@ -1,0 +1,11 @@
+{
+  "dataset_id": "estimates-of-value-added-by-main-economic-activity-activity-codes-5-61-isic-rev4-less-than-10-employees",
+  "title": "Estimates of Value Added By Main Economic Activity (Activity Codes 5-61, ISIC Rev.4) - Less than 10 Employees",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 42,
+  "file_size_bytes": 10705,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-added-by-main-economic-activity-activity-codes-5-61-isic-rev4-less-than-10-employees/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.307544",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

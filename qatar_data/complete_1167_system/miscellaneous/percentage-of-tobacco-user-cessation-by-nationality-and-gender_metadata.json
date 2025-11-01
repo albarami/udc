@@ -1,0 +1,11 @@
+{
+  "dataset_id": "percentage-of-tobacco-user-cessation-by-nationality-and-gender",
+  "title": "Percentage of Tobacco User Cessation By Nationality, And Gender",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 15,
+  "file_size_bytes": 1462,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/percentage-of-tobacco-user-cessation-by-nationality-and-gender/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.489448",
+  "completion_phase": "missing_192_to_reach_1167"
+}

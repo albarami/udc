@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-students-in-general-education-who-are-gcc-citizens-enrolled-in-government-schools-in-qatar0",
+  "title": "Number of students in general education who are GCC citizens enrolled in government schools in Qatar by nationality (Intermediate stage)",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 10,
+  "file_size_bytes": 764,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-students-in-general-education-who-are-gcc-citizens-enrolled-in-government-schools-in-qatar0/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:48.530962",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "referees-accredited-in-the-sports-federations-by-grade-and-nationality",
+  "title": "Referees Accredited in the Sports Federations by Grade and Nationality",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 5,
+  "file_size_bytes": 363,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/referees-accredited-in-the-sports-federations-by-grade-and-nationality/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:11.638123",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

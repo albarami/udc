@@ -1,0 +1,11 @@
+{
+  "dataset_id": "number-of-students-enrolled-in-phd-programs",
+  "title": "Number of Students Enrolled in PhD Programs",
+  "category": "miscellaneous",
+  "publisher": "Doha Institute for Graduate Studies",
+  "actual_records": 3,
+  "file_size_bytes": 41,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-students-enrolled-in-phd-programs/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:33.437176",
+  "completion_phase": "missing_192_to_reach_1167"
+}

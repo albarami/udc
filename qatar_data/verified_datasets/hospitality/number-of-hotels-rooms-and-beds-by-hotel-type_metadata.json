@@ -1,0 +1,13 @@
+{
+  "dataset_id": "number-of-hotels-rooms-and-beds-by-hotel-type",
+  "title": "Hotel Inventory by Type",
+  "category": "hospitality",
+  "udc_business_value": "Competitive analysis, market positioning",
+  "expected_records": 162,
+  "file_size_bytes": 2009,
+  "downloaded_at": "2025-10-31T16:39:41.287005",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-hotels-rooms-and-beds-by-hotel-type/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "municipalities-in-qatar-2025-geojoin",
+  "title": "municipalities-in-qatar-2025-geojoin",
+  "category": "miscellaneous",
+  "publisher": null,
+  "actual_records": 23,
+  "file_size_bytes": 1694428,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/municipalities-in-qatar-2025-geojoin/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:40.676713",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,13 @@
+{
+  "dataset_id": "hotels-and-restaurants-statistics-number-of-employees-and-compensation-by-nationality-and-economic",
+  "title": "Hotel/Restaurant Employment & Compensation",
+  "category": "hospitality",
+  "udc_business_value": "Labor cost benchmarking, operational efficiency",
+  "expected_records": 162,
+  "file_size_bytes": 6334,
+  "downloaded_at": "2025-10-31T16:39:40.571994",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/hotels-and-restaurants-statistics-number-of-employees-and-compensation-by-nationality-and-economic/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

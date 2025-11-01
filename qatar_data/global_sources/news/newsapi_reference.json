@@ -1,0 +1,73 @@
+{
+  "source": "NewsAPI",
+  "website": "https://newsapi.org/",
+  "api": "https://newsapi.org/v2/",
+  "strategic_value": "Market news, competitor announcements, policy changes",
+  "qatar_news_sources": {
+    "international": [
+      "reuters",
+      "bloomberg",
+      "bbc-news",
+      "al-jazeera-english"
+    ],
+    "business": [
+      "financial-times",
+      "the-wall-street-journal",
+      "business-insider"
+    ],
+    "regional": [
+      "gulf-news",
+      "arabian-business"
+    ]
+  },
+  "search_keywords": {
+    "real_estate": [
+      "qatar real estate",
+      "doha property",
+      "qatar construction"
+    ],
+    "tourism": [
+      "qatar tourism",
+      "doha hotels",
+      "qatar airways",
+      "visit qatar"
+    ],
+    "economy": [
+      "qatar economy",
+      "qatar gdp",
+      "qatar investment"
+    ],
+    "infrastructure": [
+      "qatar infrastructure",
+      "doha metro",
+      "lusail city"
+    ],
+    "competitors": [
+      "udc",
+      "qatari diar",
+      "barwa",
+      "ezdan"
+    ]
+  },
+  "use_cases": [
+    "Real-time market intelligence",
+    "Competitor activity monitoring",
+    "Policy change tracking",
+    "Risk monitoring and alerts",
+    "Sentiment analysis",
+    "Event impact assessment"
+  ],
+  "api_endpoints": {
+    "everything": "/v2/everything?q={query}&apiKey={api_key}",
+    "top_headlines": "/v2/top-headlines?country=qa&apiKey={api_key}",
+    "sources": "/v2/sources?apiKey={api_key}"
+  },
+  "sample_queries": {
+    "qatar_real_estate": "q=qatar real estate&language=en&sortBy=publishedAt",
+    "udc_news": "q=UDC OR 'United Development Company'&language=en",
+    "doha_property": "q=doha property market&from={date}&sortBy=relevancy"
+  },
+  "cost": "FREE tier (100 requests/day), Developer ($449/month for 250k requests)",
+  "rate_limits": "Free: 100 requests/day, Paid: varies by plan",
+  "update_frequency": "Real-time (articles indexed continuously)"
+}

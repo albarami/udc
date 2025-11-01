@@ -1,0 +1,11 @@
+{
+  "dataset_id": "age-sex-distribution-of-youth-by-activity-type-and-nationality-2022",
+  "title": "Age-Sex Distribution of Youth by Activity Type and Nationality – 2022",
+  "category": "infrastructure",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 23,
+  "file_size_bytes": 3406,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/age-sex-distribution-of-youth-by-activity-type-and-nationality-2022/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:14.602983",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

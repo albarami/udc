@@ -1,0 +1,22 @@
+{
+  "source": "International Monetary Fund (IMF)",
+  "api_endpoint": "https://www.imf.org/external/datamapper/api",
+  "datasets_created": 2,
+  "total_records": 200,
+  "key_indicators": [
+    "Real GDP Growth",
+    "Inflation Rate",
+    "Unemployment Rate",
+    "Current Account Balance (% of GDP)",
+    "General Government Gross Debt (% of GDP)"
+  ],
+  "coverage": "Qatar + GCC countries",
+  "update_frequency": "Quarterly",
+  "cost": "FREE",
+  "strategic_value": "Macroeconomic forecasts, fiscal policy, regional economic outlook",
+  "use_cases": [
+    "Economic scenario planning",
+    "Investment timing decisions",
+    "Regional competitiveness analysis"
+  ]
+}

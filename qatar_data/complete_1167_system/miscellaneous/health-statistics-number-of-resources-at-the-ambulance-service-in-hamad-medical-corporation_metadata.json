@@ -1,0 +1,11 @@
+{
+  "dataset_id": "health-statistics-number-of-resources-at-the-ambulance-service-in-hamad-medical-corporation",
+  "title": "Number of Resources at the Ambulance Service in Hamad Medical Corporation",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 6,
+  "file_size_bytes": 279,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/health-statistics-number-of-resources-at-the-ambulance-service-in-hamad-medical-corporation/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:44.407306",
+  "completion_phase": "missing_192_to_reach_1167"
+}

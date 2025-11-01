@@ -1,0 +1,6 @@
+chore: Remove all large CSV directories for GitHub compatibility
+
+Removed qatar_data/clean_unique_datasets/ from git
+Updated .gitignore to exclude all qatar_data subdirectories
+All large CSV files now excluded from repository
+PhD Expert System code ready for push to GitHub

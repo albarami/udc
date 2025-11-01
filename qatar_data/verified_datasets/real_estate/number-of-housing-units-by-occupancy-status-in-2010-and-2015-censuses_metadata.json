@@ -1,0 +1,13 @@
+{
+  "dataset_id": "number-of-housing-units-by-occupancy-status-in-2010-and-2015-censuses",
+  "title": "Housing Units by Occupancy Status",
+  "category": "real_estate",
+  "udc_business_value": "Vacancy rate analysis, market absorption",
+  "expected_records": 2,
+  "file_size_bytes": 572,
+  "downloaded_at": "2025-10-31T16:39:37.688525",
+  "source_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/number-of-housing-units-by-occupancy-status-in-2010-and-2015-censuses/exports/csv",
+  "api_platform": "Opendatasoft v2.1",
+  "csv_delimiter": "semicolon",
+  "encoding": "utf-8"
+}

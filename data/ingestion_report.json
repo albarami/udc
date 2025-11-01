@@ -1,0 +1,62 @@
+{
+  "start_time": "2025-10-31T12:31:52.907258",
+  "steps": [
+    {
+      "step": 1,
+      "name": "PDF Processing",
+      "status": "success",
+      "duration_seconds": 116.2,
+      "documents_processed": 25,
+      "pages_processed": 908,
+      "words_extracted": 266849
+    },
+    {
+      "step": 2,
+      "name": "Excel Processing",
+      "status": "success",
+      "duration_seconds": 0.0,
+      "files_processed": 3,
+      "sheets_processed": 3,
+      "rows_processed": 106
+    },
+    {
+      "step": 3,
+      "name": "Knowledge Base Initialization",
+      "status": "success",
+      "duration_seconds": 10.4
+    },
+    {
+      "step": 4,
+      "name": "Data Ingestion",
+      "status": "success",
+      "duration_seconds": 39.7,
+      "total_chunks_created": 1149,
+      "pdf_chunks": 1146,
+      "excel_sheets": 3
+    }
+  ],
+  "end_time": "2025-10-31T12:34:39.278283",
+  "total_duration_seconds": 166.4,
+  "total_duration_minutes": 2.8,
+  "status": "success",
+  "summary": {
+    "pdf_documents": 25,
+    "pdf_pages": 908,
+    "pdf_words": 266849,
+    "pdf_categories": {
+      "annual_report": 3,
+      "market_research": 3,
+      "other": 7,
+      "quarterly_report": 6,
+      "regulatory": 1,
+      "strategy": 1,
+      "investor_presentation": 3,
+      "company_overview": 1
+    },
+    "excel_files": 3,
+    "excel_sheets": 3,
+    "excel_rows": 106,
+    "knowledge_base_chunks": 1149,
+    "storage_location": "D:\\udc\\data\\chromadb"
+  }
+}

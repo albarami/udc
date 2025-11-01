@@ -1,0 +1,11 @@
+{
+  "dataset_id": "sports-team-officials-accredited-with-sports-federations-by-sports-activity-place-of-work-and-nationality-2021-2022",
+  "title": "Sports Team Officials Accredited With Sports Federations by Sports’ Activity, Place of Work and Nationality (2021-2022)",
+  "category": "miscellaneous",
+  "publisher": "Ministry of Sports and Youth",
+  "actual_records": 42,
+  "file_size_bytes": 2563,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/sports-team-officials-accredited-with-sports-federations-by-sports-activity-place-of-work-and-nationality-2021-2022/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:46.175341",
+  "completion_phase": "missing_192_to_reach_1167"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "e-government-services-transactions-hukoomi-by-year",
+  "title": "E-Government Services Transactions (Hukoomi) by Year",
+  "category": "infrastructure",
+  "publisher": "Ministry of Communications and Technology",
+  "actual_records": 16,
+  "file_size_bytes": 3503,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/e-government-services-transactions-hukoomi-by-year/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:17.585134",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

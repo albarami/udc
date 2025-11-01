@@ -1,0 +1,11 @@
+{
+  "dataset_id": "cases-raised-in-courts-by-type-of-case-and-crime",
+  "title": "Cases Raised In Courts By Type of Case and Crime",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 150,
+  "file_size_bytes": 13786,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/cases-raised-in-courts-by-type-of-case-and-crime/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:41.915478",
+  "completion_phase": "missing_192_to_reach_1167"
+}

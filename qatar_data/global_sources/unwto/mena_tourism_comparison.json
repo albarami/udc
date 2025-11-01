@@ -1,0 +1,33 @@
+{
+  "region": "Middle East & North Africa",
+  "source": "UN Tourism (UNWTO)",
+  "countries": [
+    {
+      "country": "Qatar",
+      "international_arrivals_latest": null,
+      "tourism_receipts_latest": null,
+      "note": "Update from UNWTO regional reports"
+    },
+    {
+      "country": "United Arab Emirates",
+      "international_arrivals_latest": null,
+      "tourism_receipts_latest": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "international_arrivals_latest": null,
+      "tourism_receipts_latest": null
+    },
+    {
+      "country": "Bahrain",
+      "international_arrivals_latest": null,
+      "tourism_receipts_latest": null
+    },
+    {
+      "country": "Oman",
+      "international_arrivals_latest": null,
+      "tourism_receipts_latest": null
+    }
+  ],
+  "data_access": "UNWTO Dashboard or annual reports (some data requires subscription)"
+}

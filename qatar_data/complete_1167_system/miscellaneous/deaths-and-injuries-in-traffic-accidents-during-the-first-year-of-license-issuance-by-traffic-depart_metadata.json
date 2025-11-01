@@ -1,0 +1,11 @@
+{
+  "dataset_id": "deaths-and-injuries-in-traffic-accidents-during-the-first-year-of-license-issuance-by-traffic-department-gender-and-role-of-injured",
+  "title": "Deaths and Injuries in Traffic Accidents During the First Year of License Issuance by Traffic Department, Gender, and Role of Injured",
+  "category": "miscellaneous",
+  "publisher": "National Planning Council",
+  "actual_records": 288,
+  "file_size_bytes": 27931,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/deaths-and-injuries-in-traffic-accidents-during-the-first-year-of-license-issuance-by-traffic-department-gender-and-role-of-injured/exports/csv",
+  "downloaded_at": "2025-10-31T18:25:46.235429",
+  "completion_phase": "missing_192_to_reach_1167"
+}

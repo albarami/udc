@@ -1,0 +1,8 @@
+chore: Remove all qatar_data from git tracking
+
+All qatar_data subdirectories removed from git
+Files are too large for GitHub (some exceed 100MB limit)
+Data preserved locally but excluded from repository
+.gitignore configured to keep qatar_data local only
+
+PhD Expert System code is now ready for GitHub push

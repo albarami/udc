@@ -1,0 +1,11 @@
+{
+  "dataset_id": "cigarettes-and-shisha-industry-advertising-by-nationality-and-type-of-user",
+  "title": "Cigarettes and Shisha Industry Advertising By Nationality and Type of User",
+  "category": "economic",
+  "publisher": "National Planning Council",
+  "actual_records": 12,
+  "file_size_bytes": 1364,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/cigarettes-and-shisha-industry-advertising-by-nationality-and-type-of-user/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:20.404929",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

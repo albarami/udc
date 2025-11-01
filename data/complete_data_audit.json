@@ -1,0 +1,148 @@
+{
+  "audit_date": "2025-11-01T00:59:25.331350",
+  "audit_purpose": "Complete data inventory for database ingestion",
+  "directories_scanned": [],
+  "summary": {
+    "qatar_datasets": {
+      "csv_files": 1149,
+      "metadata_files": 1149,
+      "complete_pairs": 1149
+    },
+    "pdf_documents": 28,
+    "excel_files": 3,
+    "global_sources": 51,
+    "grand_total": 1231
+  },
+  "detailed_findings": {
+    "qatar_data": {
+      "clean_1167_zero_duplicates": {
+        "directory": "d:\\udc\\qatar_data\\clean_1167_zero_duplicates",
+        "scan_date": "2025-11-01T00:59:25.331350",
+        "files_by_type": {
+          ".csv": 1149,
+          ".json": 1150
+        },
+        "total_files": 0,
+        "total_size_mb": 0,
+        "detailed_inventory": []
+      },
+      "final_strategic_system": {
+        "directory": "d:\\udc\\qatar_data\\final_strategic_system",
+        "scan_date": "2025-11-01T00:59:25.373598",
+        "files_by_type": {
+          ".csv": 961,
+          ".json": 962
+        },
+        "total_files": 0,
+        "total_size_mb": 0,
+        "detailed_inventory": []
+      },
+      "global_sources": {
+        "directory": "d:\\udc\\qatar_data\\global_sources",
+        "scan_date": "2025-11-01T00:59:25.408182",
+        "files_by_type": {
+          ".csv": 2,
+          ".json": 56
+        },
+        "total_files": 0,
+        "total_size_mb": 0,
+        "detailed_inventory": []
+      }
+    },
+    "general_data": {
+      "pdf_files": [
+        "d:\\udc\\data\\Annual Report 2023-E-Digital.pdf",
+        "d:\\udc\\data\\Annual Report 2024.pdf",
+        "d:\\udc\\data\\Aventus-2025-Salary-Guide.pdf",
+        "d:\\udc\\data\\Curriculum Vitae of Candidates for Membership in the Board of Directors of United Development Compan.pdf",
+        "d:\\udc\\data\\File.pdf",
+        "d:\\udc\\data\\FS-Q1-2025-EN.pdf",
+        "d:\\udc\\data\\FS-Q2-2025-EN.pdf",
+        "d:\\udc\\data\\FS-Q3-signed-Eng.pdf",
+        "d:\\udc\\data\\FS_2023Q1_EN_Final.pdf",
+        "d:\\udc\\data\\FS_Q2_2023_EN.pdf",
+        "d:\\udc\\data\\Graph (1).pdf",
+        "d:\\udc\\data\\labour_law.pdf",
+        "d:\\udc\\data\\NADIA_Global_Annual_Salary_Report_2024-2025.pdf",
+        "d:\\udc\\data\\pr-middle-east-and-north-africa-insights-survey-2025-compressed.pdf",
+        "d:\\udc\\data\\Q1-Financial Statement -2024-En.pdf",
+        "d:\\udc\\data\\QNDS3_EN.pdf",
+        "d:\\udc\\data\\Salary-Guide-UAE-2025-Cooper-Fitch.pdf",
+        "d:\\udc\\data\\UDC - Q3 FS 2024-Eng.pdf",
+        "d:\\udc\\data\\UDCIREnglishSept25.pdf",
+        "d:\\udc\\data\\UDC_2023_GROUP_FS_EN_FINAL.pdf",
+        "d:\\udc\\data\\UDC_2024_GROUP_FS_EN_FINAL - Copy.pdf",
+        "d:\\udc\\data\\UDC_2024_GROUP_FS_EN_FINAL.pdf",
+        "d:\\udc\\data\\UDC_IR_English_Dec-24.pdf",
+        "d:\\udc\\data\\UDC_IR_English_June_25.pdf",
+        "d:\\udc\\data\\UDC_IR_English_March-25.pdf",
+        "d:\\udc\\data\\UDC_Overview.pdf",
+        "d:\\udc\\data\\United Development Company QPSC Interim Consolidated FS 30 June 2024 EN - Copy.pdf",
+        "d:\\udc\\data\\United Development Company QPSC Interim Consolidated FS 30 June 2024 EN.pdf"
+      ],
+      "excel_files": [
+        "d:\\udc\\data\\Analysts.xls",
+        "d:\\udc\\data\\Data.xls",
+        "d:\\udc\\data\\Dataq.xls"
+      ],
+      "total_pdfs": 28,
+      "total_excel": 3
+    },
+    "global_sources": {
+      "total_sources": 51,
+      "source_files": [
+        "d:\\udc\\qatar_data\\global_sources\\academic_research\\arxiv_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\academic_research\\google_scholar_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\commodities\\commodity_prices_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\currency\\exchange_rates_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\currency\\exchange_rates_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\energy\\eia_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\energy\\iea_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\energy\\qatar_energy_supplement.json",
+        "d:\\udc\\qatar_data\\global_sources\\flight_data\\opensky_qatar_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\gcc_stat\\gcc_stat_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\google_trends\\google_trends_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\imf\\gcc_economic_comparison.json",
+        "d:\\udc\\qatar_data\\global_sources\\imf\\imf_metadata.json",
+        "d:\\udc\\qatar_data\\global_sources\\imf\\qatar_economic_outlook.json",
+        "d:\\udc\\qatar_data\\global_sources\\imf\\qatar_NGDP_RPCH_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\imf\\qatar_PCPIPCH_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\linkedin\\linkedin_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\news\\gdelt_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\news\\newsapi_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\numbeo\\numbeo_qatar_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\openstreetmap\\openstreetmap_qatar_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\satellite\\satellite_imagery_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\social_media\\social_media_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\unwto\\mena_tourism_comparison.json",
+        "d:\\udc\\qatar_data\\global_sources\\unwto\\qatar_tourism_statistics.json",
+        "d:\\udc\\qatar_data\\global_sources\\unwto\\tourism_trends_reference.json",
+        "d:\\udc\\qatar_data\\global_sources\\unwto\\unwto_metadata.json",
+        "d:\\udc\\qatar_data\\global_sources\\weather\\weather_intelligence_framework.json",
+        "d:\\udc\\qatar_data\\global_sources\\weather\\weather_strategic_insights.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\ARE_FP_CPI_TOTL_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\ARE_NY_GDP_MKTP_CD_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\ARE_NY_GDP_MKTP_KD_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\BHR_FP_CPI_TOTL_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\BHR_NY_GDP_MKTP_CD_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\BHR_NY_GDP_MKTP_KD_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\gcc_economic_comparison.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\gcc_tourism_indicators.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\KWT_FP_CPI_TOTL_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\KWT_NY_GDP_MKTP_CD_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\KWT_NY_GDP_MKTP_KD_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\OMN_FP_CPI_TOTL_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\OMN_NY_GDP_MKTP_CD_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\OMN_NY_GDP_MKTP_KD_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\qatar_economic_indicators.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\QAT_FP_CPI_TOTL_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\QAT_NY_GDP_MKTP_CD_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\QAT_NY_GDP_MKTP_KD_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\SAU_FP_CPI_TOTL_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\SAU_NY_GDP_MKTP_CD_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\SAU_NY_GDP_MKTP_KD_ZG_latest.json",
+        "d:\\udc\\qatar_data\\global_sources\\world_bank\\world_bank_metadata.json"
+      ]
+    }
+  }
+}

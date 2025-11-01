@@ -1,0 +1,11 @@
+{
+  "dataset_id": "estimates-of-value-of-intermediate-services-by-main-economic-activity-10-employees-and-more-activity0",
+  "title": "Estimates of Value of Intermediate Services By Main Economic Activity (10 Employees & More) (Activity Codes 6021 - 6420) ISIC Rev 3",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 390,
+  "file_size_bytes": 81083,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/estimates-of-value-of-intermediate-services-by-main-economic-activity-10-employees-and-more-activity0/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:07.296769",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}

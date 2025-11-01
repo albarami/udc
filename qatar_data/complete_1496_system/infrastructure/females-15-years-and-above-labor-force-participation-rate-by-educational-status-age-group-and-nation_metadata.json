@@ -1,0 +1,11 @@
+{
+  "dataset_id": "females-15-years-and-above-labor-force-participation-rate-by-educational-status-age-group-and-nationality",
+  "title": "Females (15 Years and Above) Labor Force Participation Rate by Educational Status, Age Group, and Nationality",
+  "category": "infrastructure",
+  "publisher": "National Planning Council",
+  "actual_records": 52,
+  "file_size_bytes": 6708,
+  "download_url": "https://www.data.gov.qa/api/explore/v2.1/catalog/datasets/females-15-years-and-above-labor-force-participation-rate-by-educational-status-age-group-and-nationality/exports/csv",
+  "downloaded_at": "2025-10-31T17:42:17.773364",
+  "completion_phase": "additional_datasets_to_reach_1496"
+}
