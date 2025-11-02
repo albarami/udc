@@ -1,6 +1,6 @@
 """
-UDC Strategic Intelligence System - Conversational Streaming Interface
-Natural conversation with the CEO, including clarifying questions
+UDC Strategic Intelligence - CrewAI Multi-Agent System
+Natural conversation with multi-agent collaboration
 """
 
 import sys
@@ -14,11 +14,11 @@ import json
 from pathlib import Path
 import asyncio
 
-# Import your components
-from backend.app.agents.integrated_query_handler import IntegratedCEOQueryHandler
+# Import CrewAI orchestrator
+from backend.app.agents.crewai_base import DrOmarOrchestrator
 
-# Initialize system with CrewAI multi-agent system
-query_handler = IntegratedCEOQueryHandler(use_crewai=True)
+# Initialize CrewAI orchestrator
+dr_omar = DrOmarOrchestrator()
 
 # Conversation memory file
 CONVERSATION_MEMORY_FILE = Path("data/ceo_conversation_memory.json")
@@ -79,30 +79,33 @@ conversation_memory = ConversationalMemory()
 @cl.on_chat_start
 async def start():
     """
-    Conversational welcome
+    Welcome with multi-agent team introduction
     """
-    # Stream welcome message
     msg = cl.Message(content="")
     await msg.send()
     
-    welcome_text = """Hello! I'm your Strategic Intelligence Assistant for UDC.
+    welcome = """Hello! I'm Dr. Omar Habib, leading a team of specialist agents to provide you with comprehensive strategic intelligence.
 
-I have access to your financial data, property portfolio, Qatar market statistics, and GCC benchmarks. I can help you understand performance, compare markets, and make data-driven decisions.
+**My team includes:**
+- 🏦 **Dr. James Chen** - Financial Intelligence (Revenue, profits, financial analysis)
+- 📊 **Dr. Fatima Al-Mansoori** - Market Analysis (Qatar/GCC markets, trends)
+- 🏢 **Dr. Sarah Williams** - Operations (Property performance, efficiency)
+- 🔬 **Research Specialists** - External intelligence and academic research
 
-**What I can do:**
-- Answer questions about UDC's performance and portfolio
-- Compare Qatar to other GCC markets
-- Find market research and benchmarks
-- Help with strategic analysis
+When you ask a question, we collaborate to dig deep and provide you with multi-perspective insights backed by real data.
 
-**And here's the best part:** If I don't have specific information about UDC that you need, just tell me, and I'll remember it for our future conversations.
+**What we can analyze:**
+- UDC's financial performance and metrics
+- Property portfolio and operations
+- Qatar and GCC market intelligence
+- Strategic opportunities and risks
 
 What would you like to know?"""
     
     # Stream the welcome message
-    for chunk in welcome_text.split():
-        await msg.stream_token(chunk + " ")
-        await asyncio.sleep(0.02)  # Natural typing speed
+    for word in welcome.split():
+        await msg.stream_token(word + " ")
+        await asyncio.sleep(0.02)
     
     await msg.update()
     
@@ -263,24 +266,42 @@ async def stream_answer_with_data(
     memory: ConversationalMemory
 ):
     """
-    Stream a conversational answer using available data
+    Stream a conversational answer using CrewAI multi-agent system
     """
     # Clear analyzing message
     msg.content = ""
     
-    # Retrieve data
-    response = await query_handler.handle_ceo_query(query)
+    # Show collaboration happening
+    await msg.stream_token("🤔 Analyzing your question...\n\n")
+    await asyncio.sleep(0.5)
+    
+    await msg.stream_token("👥 Consulting specialist agents...\n")
+    await asyncio.sleep(0.5)
+    
+    await msg.stream_token("💬 Agents are collaborating...\n\n")
+    await asyncio.sleep(0.5)
+    
+    # Execute multi-agent system
+    response = await dr_omar.handle_ceo_query(query)
+    
+    # Show which agents contributed
+    if response.get('agent_contributions'):
+        await msg.stream_token("**🎯 Agent Insights:**\n")
+        for agent_type, agent_name in response['agent_contributions'].items():
+            await msg.stream_token(f"• {agent_name}\n")
+        await msg.stream_token("\n---\n\n")
+        await asyncio.sleep(0.5)
     
     # Check confidence
     confidence = response.get('confidence', 0)
     
-    # Conversational opening based on confidence
+    # Conversational opening based on confidence  
     if confidence >= 80:
-        opening = "Based on the data I have, "
+        opening = "Based on our multi-agent analysis, "
     elif confidence >= 60:
-        opening = "From what I can see, "
+        opening = "From what our team found, "
     else:
-        opening = "I found some information, though I'm not entirely certain: "
+        opening = "Our agents found some information, though we're not entirely certain: "
     
     # Stream opening
     for word in opening.split():
@@ -317,14 +338,20 @@ async def stream_answer_with_data(
     sources = response.get('data_sources_used', [])
     if sources:
         await msg.stream_token(
-            f"\n\n---\n*I got this from: {format_sources_conversational(sources)}*"
+            f"\n\n---\n*Sources used: {format_sources_conversational(sources)}*"
         )
     
-    # Add confidence if low
+    # Add verification status
+    verification = response.get('verification_status', 'verified')
+    await msg.stream_token(
+        f"\n*Confidence: {confidence}% | Verification: {verification}*"
+    )
+    
+    # Add confidence note if low
     if confidence < 70:
         await msg.stream_token(
-            f"\n\n*Note: I'm about {confidence}% confident in this answer. "
-            "If you have more specific information, I'd love to learn from you!*"
+            f"\n\n*Note: Our team is about {confidence}% confident. "
+            "If you have more specific information, we'd love to learn from you!*"
         )
     
     # Suggest follow-up questions
