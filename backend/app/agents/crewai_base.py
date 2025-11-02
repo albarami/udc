@@ -369,10 +369,16 @@ class DrOmarOrchestrator:
         Verify result with Truthful Council
         """
         try:
-            from backend.app.agents.truthful_council import TruthfulCouncil
+            from backend.app.agents.truthful_council_verifier import TruthfulCouncil
             
             council = TruthfulCouncil()
             verification = council.verify_answer(crew_result, query)
+            
+            print(f"\n✓ Council Verification:")
+            print(f"  Status: {verification.get('status', 'unknown')}")
+            print(f"  Confidence: {verification.get('confidence', 0)}%")
+            if verification.get('concerns'):
+                print(f"  Concerns: {verification['concerns']}")
             
             return {
                 'final_answer': crew_result,
@@ -384,7 +390,8 @@ class DrOmarOrchestrator:
                     'operations': 'Dr. Sarah',
                     'research': 'Research Agent'
                 },
-                'verification': verification.get('status', 'verified')
+                'verification': verification.get('status', 'verified'),
+                'concerns': verification.get('concerns', [])
             }
         except Exception as e:
             print(f"Council verification error: {str(e)}")
@@ -393,8 +400,13 @@ class DrOmarOrchestrator:
                 'final_answer': crew_result,
                 'confidence': 80,
                 'sources_used': ['Multi-agent CrewAI analysis'],
-                'agent_insights': {},
-                'verification': 'skipped'
+                'agent_insights': {
+                    'financial': 'Dr. James',
+                    'market': 'Dr. Fatima',
+                    'operations': 'Dr. Sarah'
+                },
+                'verification': 'skipped',
+                'concerns': ['Verification unavailable']
             }
     
     async def _fallback_single_agent(self, query: str) -> Dict[str, Any]:
