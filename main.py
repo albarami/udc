@@ -79,27 +79,59 @@ async def process_query(query: str) -> dict:
     logger.info("=" * 80)
     logger.info("QUERY COMPLETE")
     logger.info(f"Time: {result['total_time_seconds']:.2f}s")
-    logger.info(f"Nodes executed: {result['nodes_executed']}")
+    logger.info(f"Cost: ${result['cumulative_cost']:.4f}")
+    logger.info(f"Nodes: {result['nodes_executed']}")
+    logger.info(f"Confidence: {result['confidence_score']:.0%}")
     logger.info("=" * 80)
     
     return result
 
 
+def print_results(result: dict):
+    """Pretty print the results"""
+    print("\n" + "="*80)
+    print("QUERY RESULTS")
+    print("="*80)
+    
+    print(f"\n📝 Query: {result['query']}")
+    print(f"📊 Complexity: {result['complexity']}")
+    print(f"⏱️  Time: {result['total_time_seconds']:.2f}s")
+    print(f"🎯 Confidence: {result['confidence_score']:.0%}")
+    
+    print(f"\n📈 Extracted Facts:")
+    for metric, data in result['extracted_facts'].items():
+        if isinstance(data, dict):
+            value = data.get('value', 'N/A')
+            unit = data.get('unit', '')
+            confidence = data.get('confidence', 0) * 100
+            print(f"  • {metric}: {value} {unit} ({confidence:.0f}% confidence)")
+    
+    print(f"\n🧠 Reasoning Chain:")
+    for step in result['reasoning_chain']:
+        print(f"  {step}")
+    
+    print(f"\n💡 Key Insights:")
+    for insight in result['key_insights']:
+        print(f"  • {insight}")
+    
+    print(f"\n📄 Final Synthesis:")
+    print(result['final_synthesis'])
+    
+    print("\n" + "="*80)
+
+
 async def main():
-    """Test the system with sample queries"""
+    """Test Phase 2 with data extraction and synthesis"""
     
     test_queries = [
-        "What was UDC's revenue in FY24?",  # Simple
-        "How is UDC's financial performance?",  # Medium
-        "Should we enter the Saudi Arabia market?",  # Complex
+        "What is UDC's revenue?",  # Simple
+        "How is UDC's financial performance?",  # Medium - will show extraction + synthesis
     ]
     
     for query in test_queries:
         result = await process_query(query)
-        print(f"\nQuery: {query}")
-        print(f"Complexity: {result['complexity']}")
-        print(f"Reasoning: {result['reasoning_chain']}")
-        print("-" * 80)
+        print_results(result)
+        print("\n" + "="*80 + "\n")
 
 
 if __name__ == "__main__":
