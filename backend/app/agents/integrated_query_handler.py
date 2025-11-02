@@ -14,6 +14,7 @@ import time
 from backend.app.ontology.intelligent_router import IntelligentQueryRouter
 from backend.app.agents.data_retrieval_layer import DataRetrievalExecutor
 from backend.app.agents.answer_synthesizer import AnswerSynthesizer
+from backend.app.agents.crewai_base import DrOmarOrchestrator
 
 
 class CEOResponseSynthesizer:
@@ -455,14 +456,36 @@ class IntegratedCEOQueryHandler:
     Complete pipeline: Query → Routing → Retrieval → Synthesis → Response
     """
     
-    def __init__(self, use_llm_synthesis: bool = False):
+    def __init__(self, use_llm_synthesis: bool = False, use_crewai: bool = False):
+        """
+        Initialize handler with optional multi-agent CrewAI system
+        
+        Args:
+            use_llm_synthesis: Use LLM for synthesis (single agent)
+            use_crewai: Use CrewAI multi-agent system (overrides llm_synthesis)
+        """
         self.router = IntelligentQueryRouter()
         self.retriever = DataRetrievalExecutor()
-        # Use new LLM synthesizer if available, fallback to template-based
-        if use_llm_synthesis:
+        
+        # CrewAI multi-agent (highest priority)
+        if use_crewai:
+            self.crew_orchestrator = DrOmarOrchestrator()
+            self.llm_synthesizer = None
+            self.use_crewai = True
+            print("✓ Initialized with CrewAI multi-agent system")
+        # LLM synthesis (single agent)
+        elif use_llm_synthesis:
             self.llm_synthesizer = AnswerSynthesizer()
+            self.crew_orchestrator = None
+            self.use_crewai = False
+            print("✓ Initialized with LLM synthesis")
+        # Template-based (fallback)
         else:
             self.llm_synthesizer = None
+            self.crew_orchestrator = None
+            self.use_crewai = False
+            print("✓ Initialized with template synthesis")
+        
         self.template_synthesizer = CEOResponseSynthesizer()
     
     async def handle_ceo_query(self, query: str) -> Dict:
@@ -482,6 +505,28 @@ class IntegratedCEOQueryHandler:
         
         start_time = time.time()
         
+        # If CrewAI enabled, use multi-agent system
+        if self.use_crewai:
+            print(f"\n[CREWAI MULTI-AGENT] Processing query...")
+            crew_result = await self.crew_orchestrator.handle_ceo_query(query)
+            
+            total_time = time.time() - start_time
+            
+            return {
+                'query': query,
+                'answer': crew_result['answer'],
+                'sources': crew_result.get('sources', []),
+                'confidence': crew_result.get('confidence', 85),
+                'execution_time': total_time,
+                'routing_decision': 'multi_agent_crewai',
+                'data_sources_used': crew_result.get('sources', []),
+                'requires_synthesis': True,
+                'agent_contributions': crew_result.get('agent_contributions', {}),
+                'verification_status': crew_result.get('verification_status', 'verified'),
+                'timestamp': datetime.now().isoformat()
+            }
+        
+        # Otherwise, use single-agent pipeline
         # Step 1: Route query
         print(f"\n[ROUTING] {query}")
         routing = self.router.process_ceo_query(query)

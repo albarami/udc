@@ -17,8 +17,8 @@ import asyncio
 # Import your components
 from backend.app.agents.integrated_query_handler import IntegratedCEOQueryHandler
 
-# Initialize system with LLM synthesis enabled
-query_handler = IntegratedCEOQueryHandler(use_llm_synthesis=True)
+# Initialize system with CrewAI multi-agent system
+query_handler = IntegratedCEOQueryHandler(use_crewai=True)
 
 # Conversation memory file
 CONVERSATION_MEMORY_FILE = Path("data/ceo_conversation_memory.json")
