@@ -17,8 +17,8 @@ import asyncio
 # Import your components
 from backend.app.agents.integrated_query_handler import IntegratedCEOQueryHandler
 
-# Initialize system
-query_handler = IntegratedCEOQueryHandler()
+# Initialize system with LLM synthesis enabled
+query_handler = IntegratedCEOQueryHandler(use_llm_synthesis=True)
 
 # Conversation memory file
 CONVERSATION_MEMORY_FILE = Path("data/ceo_conversation_memory.json")

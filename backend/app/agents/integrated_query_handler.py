@@ -13,6 +13,7 @@ import time
 
 from backend.app.ontology.intelligent_router import IntelligentQueryRouter
 from backend.app.agents.data_retrieval_layer import DataRetrievalExecutor
+from backend.app.agents.answer_synthesizer import AnswerSynthesizer
 
 
 class CEOResponseSynthesizer:
@@ -454,10 +455,15 @@ class IntegratedCEOQueryHandler:
     Complete pipeline: Query → Routing → Retrieval → Synthesis → Response
     """
     
-    def __init__(self):
+    def __init__(self, use_llm_synthesis: bool = False):
         self.router = IntelligentQueryRouter()
         self.retriever = DataRetrievalExecutor()
-        self.synthesizer = CEOResponseSynthesizer()
+        # Use new LLM synthesizer if available, fallback to template-based
+        if use_llm_synthesis:
+            self.llm_synthesizer = AnswerSynthesizer()
+        else:
+            self.llm_synthesizer = None
+        self.template_synthesizer = CEOResponseSynthesizer()
     
     async def handle_ceo_query(self, query: str) -> Dict:
         """
@@ -489,12 +495,28 @@ class IntegratedCEOQueryHandler:
         
         # Step 3: Synthesize answer
         print(f"\n[SYNTHESIS] Creating response...")
-        answer = await self.synthesizer.synthesize_response(
-            query=query,
-            retrieved_data=retrieved_data,
-            question_type=routing['question_type'],
-            requires_synthesis=routing['requires_synthesis']
-        )
+        
+        # Use LLM synthesis if available, otherwise use templates
+        if self.llm_synthesizer:
+            # NEW: Use LLM-powered synthesis
+            synthesis_result = self.llm_synthesizer.synthesize_answer(
+                query=query,
+                retrieved_data=retrieved_data['data_retrieved'],
+                sources=retrieved_data['sources_queried']
+            )
+            answer = {
+                'text': synthesis_result['answer'],
+                'confidence': synthesis_result['confidence'],
+                'sources': synthesis_result['sources']
+            }
+        else:
+            # Fallback to template-based synthesis
+            answer = await self.template_synthesizer.synthesize_response(
+                query=query,
+                retrieved_data=retrieved_data,
+                question_type=routing['question_type'],
+                requires_synthesis=routing['requires_synthesis']
+            )
         
         # Step 4: Format final response
         total_time = time.time() - start_time
