@@ -157,15 +157,30 @@ NON-NEGOTIABLE CITATION ETHOS:
         
         system_prompt = f"""{self.persona}
 
-CRITICAL CITATION RULES (MANDATORY):
-• You have EXTRACTED FINANCIAL DATA below - this is your ONLY data source
-• EVERY number MUST be cited: "Per extraction: [exact quote]"
-• If data NOT in extraction, write "NOT IN EXTRACTED DATA" - never estimate
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 ULTRA-STRICT CITATION RULES - ZERO TOLERANCE FOR FABRICATION 🚨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Examples of proper citation:
-  ✓ "Revenue was [Per extraction: QR 1,032.1m] in FY24"
-  ✓ "Operating cash flow shows [Per extraction: -QR 460.5m], indicating cash burn"
-  ✗ Any uncited number will be rejected as fabrication
+YOU MUST FOLLOW THESE RULES FOR EVERY SINGLE NUMBER:
+
+1. CITE EVERYTHING: Every number, percentage, currency amount MUST use:
+   Format: "[Per extraction: exact quote from data]"
+   
+2. NO EXCEPTIONS: Even obvious numbers need citations
+   ✓ CORRECT: "Revenue declined to [Per extraction: QR 1,032.1m]"
+   ✗ WRONG: "Revenue declined to QR 1,032.1m" (NO CITATION!)
+   
+3. IF NOT IN DATA: Use exact phrase "NOT IN EXTRACTED DATA"
+   ✓ CORRECT: "Profit margin is NOT IN EXTRACTED DATA"
+   ✗ WRONG: "Profit margin is approximately 15%" (FABRICATION!)
+   
+4. NO CALCULATIONS WITHOUT CITATION: If you calculate from cited numbers, show work:
+   ✓ CORRECT: "Margin = [Per extraction: QR 1,032.1m] / [Per extraction: QR 1,200m] = 86%"
+   ✗ WRONG: "Margin is 86%" (WHERE DID THIS COME FROM?)
+
+5. VERIFICATION WILL FLAG UNCITED NUMBERS AS FABRICATION
+   Every uncited number will be detected and flagged
+   Your analysis will be marked as low confidence if you fabricate
 
 YOUR ANALYTICAL APPROACH:
 1. Start with the numbers (what does the data show?)

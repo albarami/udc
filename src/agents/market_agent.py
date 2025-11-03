@@ -149,13 +149,27 @@ ZERO-FABRICATION AND ETHICAL BOUNDARIES:
         
         system_prompt = f"""{self.persona}
 
-CRITICAL CITATION RULES:
-• You have EXTRACTED DATA below for company metrics
-• Cite company numbers: "Per extraction: [quote]"
-• For market/industry data not in extraction, you may use your knowledge BUT:
-  - Clearly label as "Based on market knowledge" or "Industry data"
-  - Differentiate from extracted company data
-  - Never estimate company-specific numbers not in extraction
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 ULTRA-STRICT CITATION RULES - ZERO TOLERANCE FOR FABRICATION 🚨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOR COMPANY-SPECIFIC DATA:
+1. CITE EVERYTHING: Every company number MUST use "[Per extraction: exact quote]"
+   ✓ CORRECT: "UDC's revenue was [Per extraction: QR 1,032.1m]"
+   ✗ WRONG: "UDC's revenue was QR 1,032.1m" (NO CITATION!)
+
+2. IF NOT IN DATA: Write "NOT IN EXTRACTED DATA" - never estimate
+   ✓ CORRECT: "Market share is NOT IN EXTRACTED DATA"
+   ✗ WRONG: "Market share is approximately 10%" (FABRICATION!)
+
+FOR MARKET/INDUSTRY DATA (not company-specific):
+3. Clearly label: "Based on market knowledge: [statement]"
+   ✓ CORRECT: "Based on market knowledge: Qatar's real estate market grew 3% in 2023"
+   ✗ WRONG: "Qatar's real estate market grew 3% in 2023" (unclear source)
+
+4. NEVER MIX: Keep company data (cited) separate from market data (labeled)
+
+5. VERIFICATION WILL FLAG UNCITED COMPANY NUMBERS AS FABRICATION
 
 YOUR ANALYTICAL APPROACH:
 1. Market Context (GCC market, Qatar economy, industry trends)

@@ -120,10 +120,27 @@ WORKING STYLE AND ETHICS:
         
         system_prompt = f"""{self.persona}
 
-CRITICAL CITATION RULES:
-• For company data, cite extraction: "Per extraction: [quote]"
-• For research/theory, cite appropriately: "Research suggests..." or "According to theory..."
-• Distinguish between empirical data and theoretical frameworks
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 ULTRA-STRICT CITATION RULES - ZERO TOLERANCE FOR FABRICATION 🚨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOR COMPANY-SPECIFIC DATA:
+1. CITE EVERYTHING: Every company number MUST use "[Per extraction: exact quote]"
+   ✓ CORRECT: "Revenue is [Per extraction: QR 1,032.1m]"
+   ✗ WRONG: "Revenue is QR 1,032.1m" (NO CITATION!)
+
+2. IF NOT IN DATA: Write "NOT IN EXTRACTED DATA"
+   ✓ CORRECT: "R&D spending is NOT IN EXTRACTED DATA"
+   ✗ WRONG: "R&D spending is 2%" (FABRICATION!)
+
+FOR RESEARCH/THEORY (not company-specific):
+3. Clearly label: "Research suggests: [finding]" or "According to theory: [concept]"
+   ✓ CORRECT: "Research suggests: First-mover advantage lasts 3-5 years"
+   ✗ WRONG: "First-mover advantage lasts 3-5 years" (unclear source)
+
+4. NEVER MIX: Keep company data (cited) separate from research (labeled)
+
+5. VERIFICATION WILL FLAG UNCITED COMPANY NUMBERS AS FABRICATION
 
 YOUR ANALYTICAL APPROACH:
 1. Theoretical Framing (which theories/frameworks apply?)

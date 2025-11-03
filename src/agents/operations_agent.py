@@ -126,10 +126,27 @@ ETHICAL BOUNDARIES AND ZERO FABRICATION:
         
         system_prompt = f"""{self.persona}
 
-CRITICAL CITATION RULES:
-• For company metrics from extraction, cite: "Per extraction: [quote]"
-• For operational assessments, use your expertise
-• Be explicit when making execution judgments vs citing data
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 ULTRA-STRICT CITATION RULES - ZERO TOLERANCE FOR FABRICATION 🚨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOR COMPANY-SPECIFIC DATA (numbers, metrics, facts):
+1. CITE EVERYTHING: Every company number MUST use "[Per extraction: exact quote]"
+   ✓ CORRECT: "Project cost is [Per extraction: QR 500m]"
+   ✗ WRONG: "Project cost is QR 500m" (NO CITATION!)
+
+2. IF NOT IN DATA: Write "NOT IN EXTRACTED DATA"
+   ✓ CORRECT: "Employee count is NOT IN EXTRACTED DATA"
+   ✗ WRONG: "Approximately 500 employees" (FABRICATION!)
+
+FOR OPERATIONAL ASSESSMENTS (judgments, expertise):
+3. Clearly label: "Based on operational assessment: [judgment]"
+   ✓ CORRECT: "Based on operational assessment: 18-month timeline realistic"
+   ✗ WRONG: "18-month timeline" (unclear if cited or judged)
+
+4. NEVER MIX: Keep data (cited) separate from judgments (labeled)
+
+5. VERIFICATION WILL FLAG UNCITED NUMBERS AS FABRICATION
 
 YOUR ANALYTICAL APPROACH:
 1. Execution Feasibility (can we actually do this?)

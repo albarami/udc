@@ -1,5 +1,7 @@
 import asyncio
 from datetime import datetime
+from typing import Optional
+
 from src.graph.workflow import create_intelligence_graph
 from src.models.state import IntelligenceState
 from src.utils.logging_config import logger
@@ -93,12 +95,12 @@ def print_results(result: dict):
     print("QUERY RESULTS")
     print("="*80)
     
-    print(f"\n📝 Query: {result['query']}")
-    print(f"📊 Complexity: {result['complexity']}")
-    print(f"⏱️  Time: {result['total_time_seconds']:.2f}s")
-    print(f"🎯 Confidence: {result['confidence_score']:.0%}")
-    
-    print(f"\n📈 Extracted Facts:")
+    print(f"\n>> Query: {result['query']}")
+    print(f">> Complexity: {result['complexity']}")
+    print(f">> Time: {result['total_time_seconds']:.2f}s")
+    print(f">> Confidence: {result['confidence_score']:.0%}")
+
+    print(f"\n>> Extracted Facts:")
     for metric, data in result['extracted_facts'].items():
         if isinstance(data, dict):
             value = data.get('value', 'N/A')
@@ -106,15 +108,15 @@ def print_results(result: dict):
             confidence = data.get('confidence', 0) * 100
             print(f"  • {metric}: {value} {unit} ({confidence:.0f}% confidence)")
     
-    print(f"\n🧠 Reasoning Chain:")
+    print(f"\n>> Reasoning Chain:")
     for step in result['reasoning_chain']:
         print(f"  {step}")
-    
-    print(f"\n💡 Key Insights:")
+
+    print(f"\n>> Key Insights:")
     for insight in result['key_insights']:
         print(f"  • {insight}")
-    
-    print(f"\n📄 Final Synthesis:")
+
+    print(f"\n>> Final Synthesis:")
     print(result['final_synthesis'])
     
     print("\n" + "="*80)
@@ -198,9 +200,107 @@ async def phase2_demo():
         print("\n" + "="*80 + "\n")
 
 
+def print_full_intelligence_report(result: dict):
+    """Print complete intelligence report with debate and critique"""
+    def _excerpt(value: Optional[str], limit: int = 500) -> str:
+        text = value or "N/A"
+        if len(text) <= limit:
+            return text
+        return text[:limit] + "..."
+
+    print("\n" + "="*80)
+    print(">> ULTIMATE INTELLIGENCE REPORT")
+    print("="*80)
+
+    print(f"\n>> Query: {result['query']}")
+    print(f">> Execution Time: {result['total_time_seconds']:.2f}s")
+    print(f">> Overall Confidence: {result['confidence_score']:.0%}")
+    print(f">> Verification Confidence: {result.get('verification_confidence', 0):.0%}")
+    
+    print("\n" + "-"*80)
+    print(">> FINANCIAL ANALYSIS (Excerpt)")
+    print("-"*80)
+    print(_excerpt(result.get('financial_analysis')))
+
+    print("\n" + "-"*80)
+    print(">> MARKET ANALYSIS (Excerpt)")
+    print("-"*80)
+    print(_excerpt(result.get('market_analysis')))
+
+    print("\n" + "-"*80)
+    print(">> OPERATIONS ANALYSIS (Excerpt)")
+    print("-"*80)
+    print(_excerpt(result.get('operations_analysis')))
+
+    print("\n" + "-"*80)
+    print(">> RESEARCH ANALYSIS (Excerpt)")
+    print("-"*80)
+    print(_excerpt(result.get('research_analysis')))
+    
+    print("\n" + "="*80)
+    print(">> MULTI-AGENT DEBATE")
+    print("="*80)
+    print(_excerpt(result.get('debate_summary'), 800))
+
+    print("\n" + "="*80)
+    print(">> DEVIL'S ADVOCATE CRITIQUE")
+    print("="*80)
+    print(_excerpt(result.get('critique_report'), 800))
+
+    print("\n" + "="*80)
+    print(">> FACT VERIFICATION")
+    print("="*80)
+    fact_results = result.get('fact_check_results', {})
+    for agent, verification in fact_results.items():
+        print(f"{agent}: {verification['verified']}/{verification['total_numbers']} "
+              f"claims verified ({verification['verification_rate']:.0%})")
+    
+    fabrications = result.get('fabrication_detected', [])
+    if fabrications:
+        print(f"\n>> WARNING: {len(fabrications)} potential fabrications detected")
+    else:
+        print("\n>> No fabrications detected - all claims verified")
+
+    print("\n" + "="*80)
+    print(">> FINAL SYNTHESIS")
+    print("="*80)
+    print(result.get('final_synthesis', 'N/A'))
+
+    print("\n" + "="*80)
+    print(">> REASONING CHAIN")
+    print("="*80)
+    for step in result.get('reasoning_chain', []):
+        print(f"  {step}")
+    
+    print("\n" + "="*80)
+
+
+async def phase4_demo():
+    """Demo Phase 4 with full deliberation layer"""
+    print("\n" + "="*80)
+    print(">> PHASE 4 DEMO: FULL DELIBERATION SYSTEM")
+    print("="*80)
+    
+    query = "How is UDC's financial performance and what are the key risks?"
+    
+    result = await process_query(query)
+    print_full_intelligence_report(result)
+    
+    print("\n" + "="*80)
+    print(">> PERFORMANCE SUMMARY")
+    print("="*80)
+    print(f"Total Execution Time: {result['total_time_seconds']:.2f}s")
+    print(f"Nodes Executed: {len(result['nodes_executed'])}")
+    print(f"Agents Invoked: {len(result['agents_invoked'])}")
+    print(f"Overall Confidence: {result['confidence_score']:.0%}")
+    print(f"Verification Confidence: {result.get('verification_confidence', 0):.0%}")
+    print(f"Cost: ${result['cumulative_cost']:.4f}")
+    print("="*80)
+
+
 async def main():
-    """Main entry point - runs Phase 3 demo"""
-    await phase3_demo()
+    """Main entry point - runs Phase 4 demo"""
+    await phase4_demo()
 
 
 if __name__ == "__main__":
