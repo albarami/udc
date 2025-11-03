@@ -88,7 +88,7 @@ async def process_query(query: str) -> dict:
 
 
 def print_results(result: dict):
-    """Pretty print the results"""
+    """Pretty print the results (Phase 2 format)"""
     print("\n" + "="*80)
     print("QUERY RESULTS")
     print("="*80)
@@ -120,7 +120,71 @@ def print_results(result: dict):
     print("\n" + "="*80)
 
 
-async def main():
+def print_agent_analyses(result: dict):
+    """Print all agent analyses (Phase 3 format)"""
+    print("\n" + "="*80)
+    print("MULTI-AGENT INTELLIGENCE REPORT")
+    print("="*80)
+    
+    print(f"\nQuery: {result['query']}")
+    print(f"Complexity: {result['complexity']}")
+    print(f"Time: {result['total_time_seconds']:.2f}s")
+    print(f"Overall Confidence: {result['confidence_score']:.0%}")
+    print(f"Agents Invoked: {', '.join(result['agents_invoked'])}")
+    
+    print("\n" + "-"*80)
+    print("FINANCIAL ECONOMIST ANALYSIS")
+    print("-"*80)
+    if result.get('financial_analysis'):
+        print(result['financial_analysis'][:1200] + "..." if len(result['financial_analysis']) > 1200 else result['financial_analysis'])
+    else:
+        print("N/A")
+    
+    print("\n" + "-"*80)
+    print("MARKET ECONOMIST ANALYSIS")
+    print("-"*80)
+    if result.get('market_analysis'):
+        print(result['market_analysis'][:1200] + "..." if len(result['market_analysis']) > 1200 else result['market_analysis'])
+    else:
+        print("N/A")
+    
+    print("\n" + "-"*80)
+    print("OPERATIONS EXPERT ANALYSIS")
+    print("-"*80)
+    if result.get('operations_analysis'):
+        print(result['operations_analysis'][:1200] + "..." if len(result['operations_analysis']) > 1200 else result['operations_analysis'])
+    else:
+        print("N/A")
+    
+    print("\n" + "-"*80)
+    print("RESEARCH SCIENTIST ANALYSIS")
+    print("-"*80)
+    if result.get('research_analysis'):
+        print(result['research_analysis'][:1200] + "..." if len(result['research_analysis']) > 1200 else result['research_analysis'])
+    else:
+        print("N/A")
+    
+    print("\n" + "-"*80)
+    print("FINAL SYNTHESIS")
+    print("-"*80)
+    print(result.get('final_synthesis', 'N/A'))
+    
+    print("\n" + "="*80)
+
+
+async def phase3_demo():
+    """Demo Phase 3 with all four specialist agents"""
+    print("\n" + "="*80)
+    print("PHASE 3 DEMO: FULL MULTI-AGENT SYSTEM")
+    print("="*80)
+    
+    query = "How is UDC's financial performance and should we be concerned?"
+    
+    result = await process_query(query)
+    print_agent_analyses(result)
+
+
+async def phase2_demo():
     """Test Phase 2 with data extraction and synthesis"""
     
     test_queries = [
@@ -132,6 +196,11 @@ async def main():
         result = await process_query(query)
         print_results(result)
         print("\n" + "="*80 + "\n")
+
+
+async def main():
+    """Main entry point - runs Phase 3 demo"""
+    await phase3_demo()
 
 
 if __name__ == "__main__":
