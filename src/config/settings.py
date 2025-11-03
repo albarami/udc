@@ -10,8 +10,8 @@ class Settings:
     
     # Model Configuration
     EXTRACTION_MODEL = "claude-3-haiku-20240307"  # Fast & cheap for extraction
-    ANALYSIS_MODEL = "claude-3-5-sonnet-20241022"  # Main model for analysis
-    SYNTHESIS_MODEL = "claude-3-5-sonnet-20241022"  # Final synthesis
+    ANALYSIS_MODEL = "claude-3-haiku-20240307"  # Main model for analysis (using Haiku for demo)
+    SYNTHESIS_MODEL = "claude-3-haiku-20240307"  # Final synthesis (using Haiku for demo)
     
     # Temperature Settings
     EXTRACTION_TEMP = 0.1    # Very deterministic for extraction

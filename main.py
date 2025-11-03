@@ -2,18 +2,32 @@ import asyncio
 from datetime import datetime
 from typing import Optional
 
-from src.graph.workflow import create_intelligence_graph
+from src.graph.workflow import create_intelligence_graph, create_parallel_graph
 from src.models.state import IntelligenceState
 from src.utils.logging_config import logger
+from src.utils.performance import performance_monitor
 
 
-async def process_query(query: str) -> dict:
+async def process_query(
+    query: str, 
+    use_parallel: bool = False, 
+    use_routing: bool = True
+) -> dict:
     """
     Process a query through the intelligence system.
+    
+    Args:
+        query: User query
+        use_parallel: Use parallel agent execution (faster)
+        use_routing: Use conditional routing based on complexity (optimized)
     """
     logger.info("=" * 80)
     logger.info(f"NEW QUERY: {query}")
+    logger.info(f"Options: parallel={use_parallel}, routing={use_routing}")
     logger.info("=" * 80)
+    
+    # Start performance monitoring
+    performance_monitor.start_query()
     
     # Initialize state
     initial_state: IntelligenceState = {
@@ -66,8 +80,11 @@ async def process_query(query: str) -> dict:
         "retry_count": 0
     }
     
-    # Create graph
-    graph = create_intelligence_graph()
+    # Create appropriate graph
+    if use_parallel:
+        graph = create_parallel_graph()
+    else:
+        graph = create_intelligence_graph(use_parallel=False, use_routing=use_routing)
     
     # Execute
     result = await graph.ainvoke(initial_state)
@@ -77,6 +94,16 @@ async def process_query(query: str) -> dict:
     result["total_time_seconds"] = (
         result["execution_end"] - result["execution_start"]
     ).total_seconds()
+    
+    # Capture performance metrics
+    performance_summary = performance_monitor.get_summary()
+    if performance_summary:
+        result["cumulative_cost"] = performance_summary.get("total_cost", result["cumulative_cost"])
+        result["llm_calls"] = performance_summary.get("llm_calls", result["llm_calls"])
+        result["performance"] = performance_summary
+    
+    # Log performance
+    performance_monitor.log_summary()
     
     logger.info("=" * 80)
     logger.info("QUERY COMPLETE")
@@ -298,9 +325,76 @@ async def phase4_demo():
     print("="*80)
 
 
+async def compare_execution_modes():
+    """Compare different execution modes"""
+    query = "How is UDC's financial performance and what are the key risks?"
+    
+    print("\n" + "="*80)
+    print("🔬 EXECUTION MODE COMPARISON")
+    print("="*80)
+    
+    # Mode 1: Optimized Sequential with Routing
+    print("\n1️⃣ OPTIMIZED SEQUENTIAL (with conditional routing)")
+    print("-" * 80)
+    result1 = await process_query(query, use_parallel=False, use_routing=True)
+    time1 = result1['total_time_seconds']
+    nodes1 = len(result1['nodes_executed'])
+    print(f"⏱️  Time: {time1:.2f}s | Nodes: {nodes1} | Confidence: {result1['confidence_score']:.0%}")
+    
+    # Mode 2: Parallel Execution
+    print("\n2️⃣ PARALLEL EXECUTION (all agents concurrent)")
+    print("-" * 80)
+    result2 = await process_query(query, use_parallel=True, use_routing=False)
+    time2 = result2['total_time_seconds']
+    nodes2 = len(result2['nodes_executed'])
+    speedup2 = time1 / time2 if time2 > 0 else 0
+    print(f"⏱️  Time: {time2:.2f}s | Nodes: {nodes2} | Speedup: {speedup2:.1f}x | Confidence: {result2['confidence_score']:.0%}")
+    
+    # Summary
+    print("\n" + "="*80)
+    print("📊 COMPARISON SUMMARY")
+    print("="*80)
+    print(f"Sequential: {time1:.2f}s ({nodes1} nodes)")
+    print(f"Parallel:   {time2:.2f}s ({nodes2} nodes) - {speedup2:.1f}x faster")
+    print(f"Time saved: {time1 - time2:.2f}s ({(1 - time2/time1)*100:.1f}% reduction)")
+    print("="*80)
+
+
+async def phase5_demo():
+    """Demo Phase 5 optimization features"""
+    print("\n" + "="*80)
+    print("🚀 PHASE 5 DEMO: OPTIMIZED INTELLIGENCE SYSTEM")
+    print("="*80)
+    
+    # Test different query complexities
+    queries = [
+        ("What was UDC's revenue?", "simple"),
+        ("How is UDC's financial performance?", "medium"),
+        ("Should we invest in UDC given market conditions and risks?", "complex")
+    ]
+    
+    for query, expected_complexity in queries:
+        print(f"\n{'='*80}")
+        print(f"Query: {query}")
+        print(f"Expected Complexity: {expected_complexity}")
+        print('-'*80)
+        
+        result = await process_query(query, use_parallel=False, use_routing=True)
+        
+        print(f"\n📊 Results:")
+        print(f"  Actual Complexity: {result['complexity']}")
+        print(f"  Nodes Executed: {len(result['nodes_executed'])} - {result['nodes_executed']}")
+        print(f"  Execution Time: {result['total_time_seconds']:.2f}s")
+        print(f"  Confidence: {result['confidence_score']:.0%}")
+        print(f"  Agents Invoked: {len(result['agents_invoked'])}")
+
+
 async def main():
-    """Main entry point - runs Phase 4 demo"""
-    await phase4_demo()
+    """Main entry point - runs Phase 5 demo"""
+    await phase5_demo()
+    
+    # Uncomment to run comparison
+    # await compare_execution_modes()
 
 
 if __name__ == "__main__":
