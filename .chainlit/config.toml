@@ -86,7 +86,7 @@ reaction_on_message_received = false
 
 [UI]
 # Name of the assistant.
-name = "UDC Strategic Intelligence"
+name = "Ultimate Intelligence System"
 
 default_theme = "light"
 
@@ -95,7 +95,7 @@ layout = "wide"
 default_sidebar_state = "closed"
 
 # Description of the assistant. This is used for HTML tags.
-description = "Your conversational AI strategic assistant for UDC - Natural conversation with real-time data"
+description = "Advanced multi-agent intelligence system with zero fabrication and transparent reasoning"
 
 # Chain of Thought (CoT) display mode. Can be "hidden", "tool_call" or "full".
 cot = "hidden"

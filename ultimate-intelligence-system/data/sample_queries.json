@@ -1,0 +1,24 @@
+{
+  "test_queries": {
+    "simple": [
+      "What was UDC's revenue in FY24?",
+      "What was the profit margin?",
+      "Show me the cash flow number"
+    ],
+    "medium": [
+      "How is UDC's financial performance?",
+      "Analyze the company's market position",
+      "What are the current trends?"
+    ],
+    "complex": [
+      "Should we enter the Saudi Arabia market?",
+      "Compare UDC versus Qatari Diar",
+      "Evaluate the Pearl-Qatar strategy"
+    ],
+    "critical": [
+      "Stock dropped 20% - what happened?",
+      "Urgent: Crisis response needed",
+      "Immediate action required"
+    ]
+  }
+}
