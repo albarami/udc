@@ -34,34 +34,32 @@ class DataExtractor:
         Fast, deterministic, no LLM needed for obvious numbers
         """
         logger.info("Layer 1: Python numeric extraction")
+
+        # FIXED: Handle text with words separated by newlines (PDF extraction artifact)
+        # Join lines and normalize whitespace for better pattern matching
+        text = ' '.join(text.split())
+
         extracted = {}
         
         # Revenue patterns (handle negatives and billions, with optional sign before currency)
         revenue_patterns = [
-            r"revenue[:\s]+([-+])?(?:QR|QAR|$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)?",
-            r"total revenue[:\s]+([-+])?(?:QR|QAR|$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)?",
-            r"revenues?[:\s]+([-+])?(?:QR|QAR|$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)?"
+            r"revenues?\s+(?:of\s+)?(?:QR|QAR|\$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)",
+            r"total\s+revenues?\s+(?:of\s+)?(?:QR|QAR|\$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)",
+            r"revenue[:\s]+(?:QR|QAR|\$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)?",
         ]
         
         for pattern in revenue_patterns:
             match = re.search(pattern, text, re.IGNORECASE)
             if match:
-                # Handle prefix sign and number
-                prefix_sign = match.group(1) if match.group(1) else ''
-                number = match.group(2).replace(',', '')
-                unit = match.group(3).lower() if match.group(3) else 'million'
-                
-                # Apply prefix sign if present and number doesn't already have one
-                if prefix_sign and not number.startswith(('-', '+')):
-                    value_str = prefix_sign + number
-                else:
-                    value_str = number
-                
+                # Extract number and unit (groups are now: number, unit)
+                number = match.group(1).replace(',', '')
+                unit = match.group(2).lower() if len(match.groups()) >= 2 and match.group(2) else 'million'
+
                 # Convert to millions consistently
-                float_value = float(value_str)
+                float_value = float(number)
                 if unit in ['bn', 'billion']:
                     float_value *= 1000  # Convert billions to millions
-                
+
                 extracted['revenue'] = {
                     'value': float_value,
                     'unit': 'QR millions',
@@ -71,31 +69,24 @@ class DataExtractor:
                 }
                 break
         
-        # Profit patterns (handle negatives and billions, with optional minus before currency)
+        # Profit patterns (handle negatives and billions)
         profit_patterns = [
-            r"net profit[:\s]+([-+])?(?:QR|QAR|$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)?",
-            r"profit[:\s]+([-+])?(?:QR|QAR|$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)?",
+            r"net\s+profit\s+(?:of\s+)?(?:QR|QAR|\$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)",
+            r"profit\s+(?:of\s+)?(?:QR|QAR|\$)?\s*([-+]?[\d,\.]+)\s*(million|m|bn|billion)",
         ]
-        
+
         for pattern in profit_patterns:
             match = re.search(pattern, text, re.IGNORECASE)
             if match:
-                # Handle prefix sign and number
-                prefix_sign = match.group(1) if match.group(1) else ''
-                number = match.group(2).replace(',', '')
-                unit = match.group(3).lower() if match.group(3) else 'million'
-                
-                # Apply prefix sign if present and number doesn't already have one
-                if prefix_sign and not number.startswith(('-', '+')):
-                    value_str = prefix_sign + number
-                else:
-                    value_str = number
-                
+                # Extract number and unit
+                number = match.group(1).replace(',', '')
+                unit = match.group(2).lower() if len(match.groups()) >= 2 and match.group(2) else 'million'
+
                 # Convert to millions consistently
-                float_value = float(value_str)
+                float_value = float(number)
                 if unit in ['bn', 'billion']:
                     float_value *= 1000  # Convert billions to millions
-                
+
                 extracted['net_profit'] = {
                     'value': float_value,
                     'unit': 'QR millions',
@@ -319,20 +310,41 @@ async def data_extraction_node(state: IntelligenceState) -> IntelligenceState:
     
     query = state["query"]
     
-    # For Phase 2 testing, we'll use sample data
-    # In production, this would call your data tools
-    sample_data = """
-UDC Financial Report FY24
-
-Revenue: QR 1,032.1 million
-Net Profit: QR 89.5 million
-Operating Cash Flow: -QR 460.5 million
-Total Assets: QR 8,500 million
-
-The company reported a challenging year with declining revenues from the 
-previous year's QR 1,150 million. Despite reporting profits, the negative 
-cash flow indicates cash burn.
-"""
+    # FIXED: Connect to actual knowledge base instead of using fake data
+    try:
+        import sys
+        from pathlib import Path
+        # From extract.py: ultimate-intelligence-system/src/nodes/extract.py
+        # Go up 4 levels to reach d:\udc, then add backend
+        backend_path = Path(__file__).parents[3] / "backend"
+        if str(backend_path) not in sys.path:
+            sys.path.insert(0, str(backend_path))
+        
+        from app.services.knowledge_base_complete import UDCCompleteKnowledgeBase
+        
+        logger.info("Connecting to knowledge base...")
+        kb = UDCCompleteKnowledgeBase()
+        
+        # Search for relevant documents
+        logger.info(f"Searching for: {query}")
+        search_results = kb.search(query, n_results=10)
+        
+        if not search_results:
+            logger.warning("No relevant documents found in knowledge base")
+            sample_data = f"No data found for query: {query}"
+        else:
+            # Combine top results into context
+            logger.info(f"Found {len(search_results)} relevant documents")
+            sample_data = "\n\n".join([
+                f"[Source: {r['citation']}]\n{r['content']}"
+                for r in search_results
+            ])
+            logger.info(f"Retrieved {len(sample_data)} characters of context")
+    
+    except Exception as e:
+        logger.error(f"Failed to connect to knowledge base: {e}")
+        logger.warning("Falling back to empty extraction")
+        sample_data = f"Error accessing knowledge base: {e}"
     
     # Initialize extractor
     extractor = DataExtractor()
